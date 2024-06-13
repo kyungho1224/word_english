@@ -20,14 +20,30 @@ class _MainScreenState extends State<MainScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: NavBody(
-        index: index,
+      body: Stack(
+        children: [
+          NavBody(
+            index: index,
+          ),
+          Positioned(
+            left: 0,
+            right: 0,
+            bottom: 0,
+            child: Container(
+              color: Colors.grey[300],
+              height: 60, // 광고 배너 높이 설정
+              child: const Center(
+                child: Text("광고 배너"),
+              ),
+            ),
+          ),
+        ],
       ),
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.shifting,
         selectedItemColor: Colors.black,
-        unselectedItemColor: Colors.white,
-        backgroundColor: Colors.grey,
+        unselectedItemColor: Colors.grey,
+        backgroundColor: Colors.white,
         currentIndex: index,
         onTap: (value) => setState(() => index = value),
         items: const [
