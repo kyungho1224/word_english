@@ -1,0 +1,5822 @@
+[
+  {
+    "chapter_id": 1,
+    "parts": [
+      {
+        "part_id": 1,
+        "data": [
+          {
+            "id": 1,
+            "e_word": "a",
+            "k_word": "하나의",
+            "e_sentence": "There's a telephone call for you.",
+            "k_sentence": "당신에게 온 전화가 하나 있어요."
+          },
+          {
+            "id": 2,
+            "e_word": "about",
+            "k_word": "-에 대하여",
+            "e_sentence": "I do not know about for Japan.",
+            "k_sentence": "나는 일본에 대하여 모른다."
+          },
+          {
+            "id": 3,
+            "e_word": "above",
+            "k_word": "-보다 위에",
+            "e_sentence": "The moon is riding above the clouds.",
+            "k_sentence": "달이 구름 위에 걸려있다."
+          },
+          {
+            "id": 4,
+            "e_word": "academy",
+            "k_word": "학원",
+            "e_sentence": "Which do you think is better, school or academy?",
+            "k_sentence": "학교랑 학원 중 어느 게 더 좋다고 생각해?"
+          },
+          {
+            "id": 5,
+            "e_word": "accent",
+            "k_word": "말투",
+            "e_sentence": "The transfer student spoke in a Seoul accent.",
+            "k_sentence": "전학 온 아이는 서울말을 썼다."
+          },
+          {
+            "id": 6,
+            "e_word": "accident",
+            "k_word": "사건",
+            "e_sentence": "This is an accident rarely met with.",
+            "k_sentence": "이것은 보기 드문 사건이다."
+          },
+          {
+            "id": 7,
+            "e_word": "across",
+            "k_word": "가로질러",
+            "e_sentence": "There's a way across the fields.",
+            "k_sentence": "들판을 가로질러 길이 나 있다."
+          },
+          {
+            "id": 8,
+            "e_word": "act",
+            "k_word": "행동하다",
+            "e_sentence": "Try and act like an adult.",
+            "k_sentence": "어른처럼 도전하고 행동하라."
+          },
+          {
+            "id": 9,
+            "e_word": "add",
+            "k_word": "추가하다",
+            "e_sentence": "Two added to four makes six.",
+            "k_sentence": "4에 2를 더하면 6이 된다."
+          },
+          {
+            "id": 10,
+            "e_word": "address",
+            "k_word": "주소",
+            "e_sentence": "May I have your address?",
+            "k_sentence": "주소 좀 가르쳐 주시겠어요?"
+          },
+          {
+            "id": 11,
+            "e_word": "adult",
+            "k_word": "어른",
+            "e_sentence": "The situation is the same for adults.",
+            "k_sentence": "이런 상황은 성인 요금의 경우도 마찬가지다."
+          },
+          {
+            "id": 12,
+            "e_word": "adventure",
+            "k_word": "모험 ",
+            "e_sentence": "The three of them have a long adventure.",
+            "k_sentence": "그들 셋은 긴 모험을 갖게 된다."
+          },
+          {
+            "id": 13,
+            "e_word": "advise",
+            "k_word": "충고하다",
+            "e_sentence": "I advise you as a doctor.",
+            "k_sentence": "의사로서 충고한다."
+          },
+          {
+            "id": 14,
+            "e_word": "afraid",
+            "k_word": "두려워하여",
+            "e_sentence": "They are not afraid to die.",
+            "k_sentence": "그들은 죽음을 두려워하지 않았다."
+          },
+          {
+            "id": 15,
+            "e_word": "after",
+            "k_word": "나중에",
+            "e_sentence": "It's an after school thing.",
+            "k_sentence": "그것은 방과 후에 하는 거예요."
+          },
+          {
+            "id": 16,
+            "e_word": "afternoon",
+            "k_word": "오후",
+            "e_sentence": "Are you free tomorrow afternoon?",
+            "k_sentence": "내일 오후에 시간 있어요?"
+          },
+          {
+            "id": 17,
+            "e_word": "again",
+            "k_word": "다시",
+            "e_sentence": "I'd like to try again.",
+            "k_sentence": "다시 도전해 보고 싶어요."
+          },
+          {
+            "id": 18,
+            "e_word": "against",
+            "k_word": "…에 반대하여",
+            "e_sentence": "They are not against us.",
+            "k_sentence": "그들은 우리를 반대하지는 않는다."
+          },
+          {
+            "id": 19,
+            "e_word": "age",
+            "k_word": "나이",
+            "e_sentence": "You look young for your age.",
+            "k_sentence": "나이에 비해 젊어 보이시는군요."
+          },
+          {
+            "id": 20,
+            "e_word": "ago",
+            "k_word": "이전에",
+            "e_sentence": "This was the way it was a generation ago.",
+            "k_sentence": "이것은 한 세대 이전에 존재하던 방식이다."
+          }
+        ]
+      },
+      {
+        "part_id": 2,
+        "data": [
+          {
+            "id": 21,
+            "e_word": "agree",
+            "k_word": "동의하다",
+            "e_sentence": "Sorry but I don't agree with this.",
+            "k_sentence": "죄송하지만 저는 이것에 동의하지 않습니다."
+          },
+          {
+            "id": 22,
+            "e_word": "ahead",
+            "k_word": "전방에",
+            "e_sentence": "There's roadwork going on 500 meters ahead.",
+            "k_sentence": "500미터 전방에서 공사 중입니다."
+          },
+          {
+            "id": 23,
+            "e_word": "air",
+            "k_word": "공기",
+            "e_sentence": "The night air is cool and refreshing.",
+            "k_sentence": "밤공기가 시원하고 상쾌하다."
+          },
+          {
+            "id": 24,
+            "e_word": "airplane",
+            "k_word": "비행기",
+            "e_sentence": "Then, I can fly a real airplane.",
+            "k_sentence": "그러면, 진짜 비행기를 날릴 수 있어요."
+          },
+          {
+            "id": 25,
+            "e_word": "airline",
+            "k_word": "항공사",
+            "e_sentence": "What's the cheapest airline?",
+            "k_sentence": "가장 싼 항공사는 어디입니까?"
+          },
+          {
+            "id": 26,
+            "e_word": "airport",
+            "k_word": "공항",
+            "e_sentence": "The airport is at the gate of Incheon.",
+            "k_sentence": "공항은 인천 가까이에 있다."
+          },
+          {
+            "id": 27,
+            "e_word": "all",
+            "k_word": "모든",
+            "e_sentence": "Thank you for all your help.",
+            "k_sentence": "모든 도움에 감사드립니다."
+          },
+          {
+            "id": 28,
+            "e_word": "almost",
+            "k_word": "거의",
+            "e_sentence": "The building is almost finished.",
+            "k_sentence": "건물은 거의 완성되었다."
+          },
+          {
+            "id": 29,
+            "e_word": "alone",
+            "k_word": "혼자",
+            "e_sentence": "Leave me alone.",
+            "k_sentence": "저 혼자 내버려 둬요."
+          },
+          {
+            "id": 30,
+            "e_word": "along",
+            "k_word": "-을 따라",
+            "e_sentence": "The road runs along a river.",
+            "k_sentence": "길은 강을 따라서 뻗어 있다."
+          },
+          {
+            "id": 31,
+            "e_word": "aloud",
+            "k_word": "큰 소리로",
+            "e_sentence": "He called aloud for help.",
+            "k_sentence": "큰 소리로 도움을 요청했다."
+          },
+          {
+            "id": 32,
+            "e_word": "already",
+            "k_word": "이미",
+            "e_sentence": "I already ate lunch.",
+            "k_sentence": "전 이미 점심 먹었어요."
+          },
+          {
+            "id": 33,
+            "e_word": "alright",
+            "k_word": "좋은",
+            "e_sentence": "I'm okay, alright.",
+            "k_sentence": "나는 좋아, 아주 좋아."
+          },
+          {
+            "id": 34,
+            "e_word": "also",
+            "k_word": "또한",
+            "e_sentence": "The game was slow, and it was also boring.",
+            "k_sentence": "게임은 느리고 또한 지루하기도 했다."
+          },
+          {
+            "id": 35,
+            "e_word": "always",
+            "k_word": "항상",
+            "e_sentence": "The song always makes me sad.",
+            "k_sentence": "그 노래는 늘 날 슬프게 해."
+          },
+          {
+            "id": 36,
+            "e_word": "A.M.",
+            "k_word": "오전",
+            "e_sentence": "It's ten twenty A.M.",
+            "k_sentence": "오전10시 20분입니다."
+          },
+          {
+            "id": 37,
+            "e_word": "and",
+            "k_word": "그리고",
+            "e_sentence": "This law is in effect in Busan and Incheon.",
+            "k_sentence": "이 법령은 부산 및 인천에서 실시되고 있다."
+          },
+          {
+            "id": 38,
+            "e_word": "angel",
+            "k_word": "천사",
+            "e_sentence": "The angel is on a cloud.",
+            "k_sentence": "천사가 구름 위에 있다."
+          },
+          {
+            "id": 39,
+            "e_word": "anger",
+            "k_word": "화난",
+            "e_sentence": "I'm crazy with anger.",
+            "k_sentence": "화나서 미치겠다!"
+          },
+          {
+            "id": 40,
+            "e_word": "animal",
+            "k_word": "동물",
+            "e_sentence": "The animals are in a zoo.",
+            "k_sentence": "동물들이 동물원에 있다."
+          }
+        ]
+      },
+      {
+        "part_id": 3,
+        "data": [
+          {
+            "id": 41,
+            "e_word": "another",
+            "k_word": "또 하나",
+            "e_sentence": "There is another door above the window.",
+            "k_sentence": "창 안쪽에 문이 또 하나 있다."
+          },
+          {
+            "id": 42,
+            "e_word": "answer",
+            "k_word": "대답하다",
+            "e_sentence": "Think twice before you answer.",
+            "k_sentence": "잘 생각하시고 대답하세요."
+          },
+          {
+            "id": 43,
+            "e_word": "ant",
+            "k_word": "개미",
+            "e_sentence": "They worked hard just like ants.",
+            "k_sentence": "그들은 마치 개미처럼 열심히 일했다."
+          },
+          {
+            "id": 44,
+            "e_word": "any",
+            "k_word": "어떤",
+            "e_sentence": "Do you have any diet problems?",
+            "k_sentence": "식습관에 어떤 문제라도 있나요?"
+          },
+          {
+            "id": 45,
+            "e_word": "apple",
+            "k_word": "사과",
+            "e_sentence": "The apple is as small as a golf ball!",
+            "k_sentence": "이 사과는 골프공만큼 작습니다!"
+          },
+          {
+            "id": 46,
+            "e_word": "area",
+            "k_word": "지역",
+            "e_sentence": "The area is a popular fishing spot.",
+            "k_sentence": "이 지역은 인기 있는 낚시 장소입니다."
+          },
+          {
+            "id": 47,
+            "e_word": "arm",
+            "k_word": "팔",
+            "e_sentence": "A dog bit my arm.",
+            "k_sentence": "개가 제 팔을 물었습니다."
+          },
+          {
+            "id": 48,
+            "e_word": "around",
+            "k_word": "약",
+            "e_sentence": "There are around 20,000 schools in Korea.",
+            "k_sentence": "한국에는 약 2만 개의 학교가 있다."
+          },
+          {
+            "id": 49,
+            "e_word": "arrive",
+            "k_word": "도착하다",
+            "e_sentence": "The flight arrived on schedule.",
+            "k_sentence": "비행편이 예정대로 도착했습니다."
+          },
+          {
+            "id": 50,
+            "e_word": "art",
+            "k_word": "예술",
+            "e_sentence": "Life is short, art is long.",
+            "k_sentence": "인생은 짧고 예술은 길다."
+          },
+          {
+            "id": 51,
+            "e_word": "as",
+            "k_word": "같이",
+            "e_sentence": "The moon is as bright as day.",
+            "k_sentence": "달이 낮같이 밝다."
+          },
+          {
+            "id": 52,
+            "e_word": "ask",
+            "k_word": "부탁하다",
+            "e_sentence": "May I ask a favor of you?",
+            "k_sentence": "부탁 좀 들어 주실래요?"
+          },
+          {
+            "id": 53,
+            "e_word": "at ",
+            "k_word": "에",
+            "e_sentence": "I'll be there at five.",
+            "k_sentence": "저는 다섯 시에 갈게요."
+          },
+          {
+            "id": 54,
+            "e_word": "aunt",
+            "k_word": "이모",
+            "e_sentence": "Your aunt looks very beautiful!",
+            "k_sentence": "네 이모 정말 아름다우시구나!"
+          },
+          {
+            "id": 55,
+            "e_word": "away",
+            "k_word": "멀리",
+            "e_sentence": "Stay away from him.",
+            "k_sentence": "그 사람을 멀리하세요."
+          },
+          {
+            "id": 56,
+            "e_word": "baby",
+            "k_word": "갓난아이",
+            "e_sentence": "That baby is crying.",
+            "k_sentence": "그 아기는 울고 있다."
+          },
+          {
+            "id": 57,
+            "e_word": "back",
+            "k_word": "등",
+            "e_sentence": "Straighten your back up.",
+            "k_sentence": "등을 곧게 펴세요."
+          },
+          {
+            "id": 58,
+            "e_word": "background",
+            "k_word": "배경",
+            "e_sentence": "Yellow is the background color of the living room.",
+            "k_sentence": "노란색은 거실의 배경색이다."
+          },
+          {
+            "id": 59,
+            "e_word": "bad",
+            "k_word": "나쁜",
+            "e_sentence": "That doesn't sound so bad.",
+            "k_sentence": "그렇게 나쁜 것 같지 않은데."
+          },
+          {
+            "id": 60,
+            "e_word": "bake",
+            "k_word": "굽다",
+            "e_sentence": "The bread is being baked.",
+            "k_sentence": "빵을 굽고 있다."
+          }
+        ]
+      },
+      {
+        "part_id": 4,
+        "data": [
+          {
+            "id": 61,
+            "e_word": "ball",
+            "k_word": "공",
+            "e_sentence": "The ball bounced off the goal post.",
+            "k_sentence": "공은 골대를 맞고 튕겨 나왔다."
+          },
+          {
+            "id": 62,
+            "e_word": "balloon",
+            "k_word": "풍선",
+            "e_sentence": "The air balloon rose slowly into the sky.",
+            "k_sentence": "풍선이 천천히 하늘로 올라갔다."
+          },
+          {
+            "id": 63,
+            "e_word": "band",
+            "k_word": "악단",
+            "e_sentence": "The band is marching through the street.",
+            "k_sentence": "악단이 거리를 행진하고 있다."
+          },
+          {
+            "id": 64,
+            "e_word": "bank",
+            "k_word": "은행",
+            "e_sentence": "That bank keeps bars of gold in its safe.",
+            "k_sentence": "그 은행은 금고에 금괴를 보관한다."
+          },
+          {
+            "id": 65,
+            "e_word": "base",
+            "k_word": "기초",
+            "e_sentence": "The result is at the base of the theory.",
+            "k_sentence": "그 결과는 그 이론의 근거가 된다."
+          },
+          {
+            "id": 66,
+            "e_word": "baseball",
+            "k_word": "야구",
+            "e_sentence": "The baseball season is just around the corner.",
+            "k_sentence": "야구 시즌이 다가왔어요."
+          },
+          {
+            "id": 67,
+            "e_word": "basic",
+            "k_word": "기본의",
+            "e_sentence": "The family is the basic unit of society.",
+            "k_sentence": "가정은 사회의 기본 단위이다."
+          },
+          {
+            "id": 68,
+            "e_word": "basket",
+            "k_word": "바구니",
+            "e_sentence": "The basket is full of apples.",
+            "k_sentence": "바구니에 사과가 하나 가득하다."
+          },
+          {
+            "id": 69,
+            "e_word": "basketball",
+            "k_word": "농구",
+            "e_sentence": "Sports that I like is basketball.",
+            "k_sentence": "내가 좋아하는 스포츠는 농구이다."
+          },
+          {
+            "id": 70,
+            "e_word": "bat",
+            "k_word": "방망이",
+            "e_sentence": "Did you see the baseball bat in the living room?",
+            "k_sentence": "거실에 있는 야구 방망이 봤니?"
+          },
+          {
+            "id": 71,
+            "e_word": "bath",
+            "k_word": "목욕",
+            "e_sentence": "Take a bath before bed.",
+            "k_sentence": "잠자기 전에 목욕을 하세요."
+          },
+          {
+            "id": 72,
+            "e_word": "bathroom",
+            "k_word": "욕실",
+            "e_sentence": "Steam is clouding the bathroom mirror.",
+            "k_sentence": "김 때문에 욕실 거울이 뿌옇게 되다."
+          },
+          {
+            "id": 73,
+            "e_word": "battery",
+            "k_word": "전지",
+            "e_sentence": "The battery went dead.",
+            "k_sentence": "전지가 닳았다."
+          },
+          {
+            "id": 74,
+            "e_word": "battle",
+            "k_word": "전투",
+            "e_sentence": "Football is not war, nor is it a battle.",
+            "k_sentence": "축구는 전쟁도, 전투도 아니다."
+          },
+          {
+            "id": 75,
+            "e_word": "be",
+            "k_word": "-이다",
+            "e_sentence": "Honesty is the best policy.",
+            "k_sentence": "정직한 것이 최선의 방책이다."
+          },
+          {
+            "id": 76,
+            "e_word": "beach",
+            "k_word": "해안",
+            "e_sentence": "A man-eating shark appeared at the beach.",
+            "k_sentence": "식인상어가 해안에 나타났다."
+          },
+          {
+            "id": 77,
+            "e_word": "bean",
+            "k_word": "콩",
+            "e_sentence": "Soy sauce is made from soy beans and salt.",
+            "k_sentence": "간장은 메주콩과 소금으로 만든다."
+          },
+          {
+            "id": 78,
+            "e_word": "bear",
+            "k_word": "곰",
+            "e_sentence": "There is an old teddy bear.",
+            "k_sentence": "낡은 곰 인형이 있어요."
+          },
+          {
+            "id": 79,
+            "e_word": "beauty",
+            "k_word": "아름다움",
+            "e_sentence": "It's inner beauty that counts.",
+            "k_sentence": "중요한 건 내적 아름다움이죠."
+          },
+          {
+            "id": 80,
+            "e_word": "because",
+            "k_word": "왜냐하면",
+            "e_sentence": "That is because of South Korean culture.",
+            "k_sentence": "그 이유는 한국의 문화 때문이다."
+          }
+        ]
+      },
+      {
+        "part_id": 5,
+        "data": [
+          {
+            "id": 81,
+            "e_word": "become",
+            "k_word": "-이 되다",
+            "e_sentence": "Taekwondo has become a Korean national sport.",
+            "k_sentence": "태권도는 한국의 국기가 되었다."
+          },
+          {
+            "id": 82,
+            "e_word": "bed",
+            "k_word": "침대",
+            "e_sentence": "The bed is really soft.",
+            "k_sentence": "침대가 정말로 푹신푹신해요."
+          },
+          {
+            "id": 83,
+            "e_word": "bedroom",
+            "k_word": "침실",
+            "e_sentence": "The bedrooms are on the upper floor.",
+            "k_sentence": "침실은 위층에 있습니다."
+          },
+          {
+            "id": 84,
+            "e_word": "bee",
+            "k_word": "꿀벌",
+            "e_sentence": "The bee is flying in the sky.",
+            "k_sentence": "벌이 하늘을 날고 있다."
+          },
+          {
+            "id": 85,
+            "e_word": "beef",
+            "k_word": "쇠고기",
+            "e_sentence": "Which would you prefer, beef or fish?",
+            "k_sentence": "쇠고기를 드실래요, 생선을 드실래요?"
+          },
+          {
+            "id": 86,
+            "e_word": "before",
+            "k_word": "앞에",
+            "e_sentence": "The chair is before the desk.",
+            "k_sentence": "의자가 책상 앞에 있다."
+          },
+          {
+            "id": 87,
+            "e_word": "begin",
+            "k_word": "시작하다",
+            "e_sentence": "What time does the game begin?",
+            "k_sentence": "게임은 몇 시에 시작됩니까?"
+          },
+          {
+            "id": 88,
+            "e_word": "behind",
+            "k_word": "뒤에",
+            "e_sentence": "The cat is behind the sofa.",
+            "k_sentence": "고양이가 소파 뒤에 있다."
+          },
+          {
+            "id": 89,
+            "e_word": "believe",
+            "k_word": "믿다",
+            "e_sentence": "I still believe in you.",
+            "k_sentence": "나는 아직도 당신을 믿어요."
+          },
+          {
+            "id": 90,
+            "e_word": "bell",
+            "k_word": "종",
+            "e_sentence": "The bell rang at the end of the class.",
+            "k_sentence": "수업 종료를 알리는 종이 울렸다."
+          },
+          {
+            "id": 91,
+            "e_word": "below",
+            "k_word": "아래에",
+            "e_sentence": "The roots are below the ground.",
+            "k_sentence": "뿌리는 땅 아래에 있다."
+          },
+          {
+            "id": 92,
+            "e_word": "beside",
+            "k_word": "-의 곁에",
+            "e_sentence": "The school is beside the park.",
+            "k_sentence": "그 학교는 공원 옆에 있다."
+          },
+          {
+            "id": 93,
+            "e_word": "between",
+            "k_word": "사이에",
+            "e_sentence": "The nation is sandwiched in between the two great powers.",
+            "k_sentence": "그 나라는 양 대국 사이에 끼어 있다."
+          },
+          {
+            "id": 94,
+            "e_word": "bicycle",
+            "k_word": "자전거",
+            "e_sentence": "The bicycle is being repaired.",
+            "k_sentence": "자전거를 수리하고 있다."
+          },
+          {
+            "id": 95,
+            "e_word": "big",
+            "k_word": "큰",
+            "e_sentence": "Thanksgiving is a big holiday in America.",
+            "k_sentence": "추수감사절은 미국에서 큰 휴일입니다."
+          },
+          {
+            "id": 96,
+            "e_word": "bill",
+            "k_word": "계산서",
+            "e_sentence": "Can we have the bill please?",
+            "k_sentence": "계산서 좀 주시겠어요?"
+          },
+          {
+            "id": 97,
+            "e_word": "bird",
+            "k_word": "새",
+            "e_sentence": "The bird flew away into the distance.",
+            "k_sentence": "새는 멀리 날아갔다."
+          },
+          {
+            "id": 98,
+            "e_word": "birth",
+            "k_word": "출생",
+            "e_sentence": "The birth rate is declining in Korea.",
+            "k_sentence": "한국의 출생률은 줄어들고 있습니다."
+          },
+          {
+            "id": 99,
+            "e_word": "birthday",
+            "k_word": "생일",
+            "e_sentence": "The birthday party came around.",
+            "k_sentence": "생일 파티가 다가왔다."
+          },
+          {
+            "id": 100,
+            "e_word": "bite",
+            "k_word": "물다",
+            "e_sentence": "The cat's bite hurt my hand.",
+            "k_sentence": "고양이가 손을 물어서 아팠다."
+          }
+        ]
+      },
+      {
+        "part_id": 6,
+        "data": [
+          {
+            "id": 101,
+            "e_word": "black",
+            "k_word": "검은",
+            "e_sentence": "The black squid pasta is amazing.",
+            "k_sentence": "검은 오징어 파스타는 환상적이다."
+          },
+          {
+            "id": 102,
+            "e_word": "block",
+            "k_word": "덩어리",
+            "e_sentence": "The bank is two blocks up that way.",
+            "k_sentence": "은행은 저쪽으로 두 블록 지나서 있다."
+          },
+          {
+            "id": 103,
+            "e_word": "blood",
+            "k_word": "피",
+            "e_sentence": "The full moon became like blood.",
+            "k_sentence": "그 보름달은 피 같았다."
+          },
+          {
+            "id": 104,
+            "e_word": "blue",
+            "k_word": "푸른",
+            "e_sentence": "He looked up at the blue sky.",
+            "k_sentence": "그는 푸른 하늘을 쳐다보았다."
+          },
+          {
+            "id": 105,
+            "e_word": "board",
+            "k_word": "널빤지",
+            "e_sentence": "Teacher is writing on a board.",
+            "k_sentence": "선생님이 칠판 위에 적고 있다."
+          },
+          {
+            "id": 106,
+            "e_word": "boat",
+            "k_word": "배",
+            "e_sentence": "The boat arrived at the dock.",
+            "k_sentence": "배가 선착장에 도착했다."
+          },
+          {
+            "id": 107,
+            "e_word": "body",
+            "k_word": "신체",
+            "e_sentence": "Taekwondo is helpful in training one's body and spirit.",
+            "k_sentence": "태권도는 심신 단련에 도움이 된다."
+          },
+          {
+            "id": 108,
+            "e_word": "bomb",
+            "k_word": "폭탄",
+            "e_sentence": "The bomb went off in front of the embassy.",
+            "k_sentence": "폭탄은 대사관 앞에서 폭발했다."
+          },
+          {
+            "id": 109,
+            "e_word": "bone",
+            "k_word": "뼈",
+            "e_sentence": "The dog hides the bone in the ground.",
+            "k_sentence": "그 개는 뼈다귀를 땅속에 숨긴다."
+          },
+          {
+            "id": 110,
+            "e_word": "book",
+            "k_word": "책",
+            "e_sentence": "This book is worth reading.",
+            "k_sentence": "이 책은 읽을 만해요."
+          },
+          {
+            "id": 111,
+            "e_word": "boot",
+            "k_word": "장화",
+            "e_sentence": "The boots are on the chair.",
+            "k_sentence": "장화가 의자 위에 있다."
+          },
+          {
+            "id": 112,
+            "e_word": "borrow",
+            "k_word": "빌다",
+            "e_sentence": "May I borrow some money?",
+            "k_sentence": "돈을 좀 빌릴 수 있을까요?"
+          },
+          {
+            "id": 113,
+            "e_word": "boss",
+            "k_word": "사장",
+            "e_sentence": "I'll check with my boss.",
+            "k_sentence": "제가 사장에게 확인해 보겠습니다."
+          },
+          {
+            "id": 114,
+            "e_word": "both",
+            "k_word": "쌍방의",
+            "e_sentence": "The nightingale sings both by night and in the day.",
+            "k_sentence": "두견새는 하루에 두 번 밤낮으로 운다."
+          },
+          {
+            "id": 115,
+            "e_word": "bottle",
+            "k_word": "병",
+            "e_sentence": "The bottle is filled with water.",
+            "k_sentence": "그 병은 물로 가득 차 있다."
+          },
+          {
+            "id": 116,
+            "e_word": "bottom",
+            "k_word": "밑바닥",
+            "e_sentence": "The oil price has hit bottom.",
+            "k_sentence": "유가가 바닥으로 떨어졌다."
+          },
+          {
+            "id": 117,
+            "e_word": "bowl",
+            "k_word": "그릇",
+            "e_sentence": "The bowl is full of peanuts.",
+            "k_sentence": "그릇에 땅콩이 가득해요."
+          },
+          {
+            "id": 118,
+            "e_word": "boy",
+            "k_word": "소년",
+            "e_sentence": "The boy became a great scientist.",
+            "k_sentence": "그 소년은 위대한 과학자가 됐어요."
+          },
+          {
+            "id": 119,
+            "e_word": "brain",
+            "k_word": "뇌",
+            "e_sentence": "You have to be nice to your brain.",
+            "k_sentence": "여러분은 두뇌를 좋게 해야만 합니다."
+          },
+          {
+            "id": 120,
+            "e_word": "brake",
+            "k_word": "브레이크",
+            "e_sentence": "The brake doesn't work.",
+            "k_sentence": "브레이크가 작동하지 않아요."
+          }
+        ]
+      },
+      {
+        "part_id": 7,
+        "data": [
+          {
+            "id": 121,
+            "e_word": "branch",
+            "k_word": "가지",
+            "e_sentence": "The branches are full of leaves.",
+            "k_sentence": "나뭇가지에 잎이 많이 달려있다."
+          },
+          {
+            "id": 122,
+            "e_word": "brand",
+            "k_word": "상표",
+            "e_sentence": "That's the most popular brand.",
+            "k_sentence": "그것은 제일 인기 있는 상표입니다."
+          },
+          {
+            "id": 123,
+            "e_word": "brave",
+            "k_word": "용감한",
+            "e_sentence": "The brave policeman caught the robber.",
+            "k_sentence": "그 용감한 경찰이 강도를 잡았다."
+          },
+          {
+            "id": 124,
+            "e_word": "bread",
+            "k_word": "빵",
+            "e_sentence": "The birds fought each other over the bread.",
+            "k_sentence": "새들이 빵을 먹으려고 서로 싸웠다."
+          },
+          {
+            "id": 125,
+            "e_word": "break",
+            "k_word": "중단,휴식",
+            "e_sentence": "Let's take a ten-minute break.",
+            "k_sentence": "10분만 쉬도록 합시다."
+          },
+          {
+            "id": 126,
+            "e_word": "breakfast",
+            "k_word": "아침밥",
+            "e_sentence": "I just have a quick breakfast.",
+            "k_sentence": "아침밥은 재빨리 먹어버려요."
+          },
+          {
+            "id": 127,
+            "e_word": "bridge",
+            "k_word": "다리",
+            "e_sentence": "The bridge is made of stone.",
+            "k_sentence": "그 다리는 석재로 만들어졌다."
+          },
+          {
+            "id": 128,
+            "e_word": "bright",
+            "k_word": "밝은",
+            "e_sentence": "It's important to look on the bright side.",
+            "k_sentence": "밝은 면을 보는 게 중요합니다."
+          },
+          {
+            "id": 129,
+            "e_word": "bring",
+            "k_word": "가져오다",
+            "e_sentence": "What brings you to Mississippi?",
+            "k_sentence": "미시시피에는 왜 오셨습니까?"
+          },
+          {
+            "id": 130,
+            "e_word": "brother",
+            "k_word": "형제",
+            "e_sentence": "The Wright brothers invented the airplane.",
+            "k_sentence": "라이트 형제는 비행기를 발명했다."
+          },
+          {
+            "id": 131,
+            "e_word": "brown",
+            "k_word": "갈색",
+            "e_sentence": "The leaves go brown in fall.",
+            "k_sentence": "나뭇잎은 가을에 갈색이된다."
+          },
+          {
+            "id": 132,
+            "e_word": "brush",
+            "k_word": "솔,양치질하다",
+            "e_sentence": "The girl is brushing her teeth.",
+            "k_sentence": "소녀가 양치질을 하고 있다."
+          },
+          {
+            "id": 133,
+            "e_word": "bubble",
+            "k_word": "거품,거품이 일다",
+            "e_sentence": "China is the next big financial bubble.",
+            "k_sentence": "중국은 그다음으로 큰 금융버블이다."
+          },
+          {
+            "id": 134,
+            "e_word": "bug",
+            "k_word": "벌레",
+            "e_sentence": "There is a bug in my coffee!",
+            "k_sentence": "커피에 벌레가 들어 있어요!"
+          },
+          {
+            "id": 135,
+            "e_word": "build",
+            "k_word": "짓다",
+            "e_sentence": "This desk build up into wood.",
+            "k_sentence": "이 책상은 나무로 만들어졌다."
+          },
+          {
+            "id": 136,
+            "e_word": "burn",
+            "k_word": "불에 타다",
+            "e_sentence": "The fire is burning out of control.",
+            "k_sentence": "불이 걷잡을 수 없이 타오르고 있다."
+          },
+          {
+            "id": 137,
+            "e_word": "business",
+            "k_word": "직업",
+            "e_sentence": "He's in the computer business.",
+            "k_sentence": "그는 컴퓨터업계에서 일합니다."
+          },
+          {
+            "id": 138,
+            "e_word": "busy",
+            "k_word": "바쁜",
+            "e_sentence": "Today was a busy Saturday.",
+            "k_sentence": "오늘은 바쁜 토요일이었다."
+          },
+          {
+            "id": 139,
+            "e_word": "but",
+            "k_word": "그러나 다만 (-을)제외하고",
+            "e_sentence": "It sounds weird, but it is delicious.",
+            "k_sentence": "이상하게 들리겠지만, 맛은 있다."
+          },
+          {
+            "id": 140,
+            "e_word": "button",
+            "k_word": "단추 단추를 채우다 단추로 채워지다",
+            "e_sentence": "In other words, push this red button.",
+            "k_sentence": "즉, 이 빨간 버튼을 누르세요."
+          }
+        ]
+      },
+      {
+        "part_id": 8,
+        "data": [
+          {
+            "id": 141,
+            "e_word": "buy",
+            "k_word": "사다",
+            "e_sentence": "The ad makes me want to buy the car.",
+            "k_sentence": "광고를 보니까 차를 사고 싶어지는군."
+          },
+          {
+            "id": 142,
+            "e_word": "by",
+            "k_word": "곁에, 의해",
+            "e_sentence": "It's run by the city.",
+            "k_sentence": "그것은 시가 운영합니다."
+          },
+          {
+            "id": 143,
+            "e_word": "cage",
+            "k_word": "새장",
+            "e_sentence": "There is a parrot in the bird cage.",
+            "k_sentence": "새장 속에 앵무새가 있다."
+          },
+          {
+            "id": 144,
+            "e_word": "calendar",
+            "k_word": "달력",
+            "e_sentence": "There is a small calendar on the monitor.",
+            "k_sentence": "모니터 위에 작은 달력이 있다."
+          },
+          {
+            "id": 145,
+            "e_word": "call",
+            "k_word": "부르다",
+            "e_sentence": "Who‘s calling, please?",
+            "k_sentence": "전화하시는 분이 누구시죠?"
+          },
+          {
+            "id": 146,
+            "e_word": "calm",
+            "k_word": "평온한",
+            "e_sentence": "The sea is as calm as a lake.",
+            "k_sentence": "바다가 호수처럼 고요하다."
+          },
+          {
+            "id": 147,
+            "e_word": "can",
+            "k_word": "할 수 있다",
+            "e_sentence": "The polar bear can swim very well.",
+            "k_sentence": "북극곰은 수영을 매우 잘한다."
+          },
+          {
+            "id": 148,
+            "e_word": "candy",
+            "k_word": "사탕과자",
+            "e_sentence": "That candy smells like chocolate.",
+            "k_sentence": "저 사탕은 초콜릿 같은 냄새가 난다."
+          },
+          {
+            "id": 149,
+            "e_word": "cap",
+            "k_word": "모자",
+            "e_sentence": "The Pope wore a baseball cap last week.",
+            "k_sentence": "지난주 교황이 야구 모자를 썼다."
+          },
+          {
+            "id": 150,
+            "e_word": "captain",
+            "k_word": "우두머리",
+            "e_sentence": "The Liverpool captain is not alone.",
+            "k_sentence": "리버풀의 주장은 혼자가 아니었다."
+          },
+          {
+            "id": 151,
+            "e_word": "car",
+            "k_word": "자동차",
+            "e_sentence": "Where can I have my car repaired?",
+            "k_sentence": "자동차 어디서 고칠 수 있어요?"
+          },
+          {
+            "id": 152,
+            "e_word": "care",
+            "k_word": "걱정",
+            "e_sentence": "Take care of your health.",
+            "k_sentence": "건강 조심하세요."
+          },
+          {
+            "id": 153,
+            "e_word": "carrot",
+            "k_word": "당근",
+            "e_sentence": "A carrot is a kind of vegetable.",
+            "k_sentence": "당근은 채소의 한 종류입니다."
+          },
+          {
+            "id": 154,
+            "e_word": "carry",
+            "k_word": "나르다",
+            "e_sentence": "The girl is carrying a teddy bear.",
+            "k_sentence": "소녀가 곰 인형을 들고 가고 있다."
+          },
+          {
+            "id": 155,
+            "e_word": "cart",
+            "k_word": "2륜마차",
+            "e_sentence": "The shopping cart is full.",
+            "k_sentence": "쇼핑카트가 가득 찼다."
+          },
+          {
+            "id": 156,
+            "e_word": "case",
+            "k_word": "경우",
+            "e_sentence": "The case is no different in our nation.",
+            "k_sentence": "한국의 경우도 다르지 않다."
+          },
+          {
+            "id": 157,
+            "e_word": "cash",
+            "k_word": "현금",
+            "e_sentence": "We can allow 5％ for cash payment.",
+            "k_sentence": "현금이면 5％ 할인해 드립니다."
+          },
+          {
+            "id": 158,
+            "e_word": "castle",
+            "k_word": "성",
+            "e_sentence": "The princess lived a life of luxury in the castle.",
+            "k_sentence": "공주는 성에서 호화로운 삶을 살았다."
+          },
+          {
+            "id": 159,
+            "e_word": "cat",
+            "k_word": "고양이",
+            "e_sentence": "The cat is chasing a mouse.",
+            "k_sentence": "고양이가 쥐를 뒤쫓고 있다."
+          },
+          {
+            "id": 160,
+            "e_word": "catch",
+            "k_word": "붙잡다",
+            "e_sentence": "I just managed to catch the last train.",
+            "k_sentence": "가까스로 막차를 탔다."
+          }
+        ]
+      },
+      {
+        "part_id": 9,
+        "data": [
+          {
+            "id": 161,
+            "e_word": "certain",
+            "k_word": "확신하는",
+            "e_sentence": "That he will succeed is certain.",
+            "k_sentence": "그의 성공은 확실하다."
+          },
+          {
+            "id": 162,
+            "e_word": "chain",
+            "k_word": "사슬",
+            "e_sentence": "The dog was chained to the wall.",
+            "k_sentence": "개는 벽에 사슬로 묶여 있었다."
+          },
+          {
+            "id": 163,
+            "e_word": "chair",
+            "k_word": "의자",
+            "e_sentence": "The cat jumped over the chair.",
+            "k_sentence": "고양이가 의자 위를 뛰어넘었어요."
+          },
+          {
+            "id": 164,
+            "e_word": "chance",
+            "k_word": "기회",
+            "e_sentence": "The chances of success or failure are even.",
+            "k_sentence": "성패의 전망은 반반이다."
+          },
+          {
+            "id": 165,
+            "e_word": "change",
+            "k_word": "변화",
+            "e_sentence": "The global economy is undergoing a massive change.",
+            "k_sentence": "세계 경제는 엄청난 변화를 겪고 있다."
+          },
+          {
+            "id": 166,
+            "e_word": "cheap",
+            "k_word": "값싼",
+            "e_sentence": "There was a time when oil was plentiful and cheap.",
+            "k_sentence": "기름이 풍부하고 싼 시절이 있었다."
+          },
+          {
+            "id": 167,
+            "e_word": "check",
+            "k_word": "점검하다",
+            "e_sentence": "That sounds great. Let me check my calendar.",
+            "k_sentence": "좋아요. 제 일정을 확인해 볼게요."
+          },
+          {
+            "id": 168,
+            "e_word": "child",
+            "k_word": "아이",
+            "e_sentence": "That child has a very active imagination.",
+            "k_sentence": "저 아이는 상상력이 아주 풍부하다."
+          },
+          {
+            "id": 169,
+            "e_word": "choose",
+            "k_word": "고르다",
+            "e_sentence": "We do not choose our parents.",
+            "k_sentence": "우리는 부모를 선택하지 않는다."
+          },
+          {
+            "id": 170,
+            "e_word": "church",
+            "k_word": "교회",
+            "e_sentence": "There is a church in front of the school.",
+            "k_sentence": "학교 앞에는 교회가 있다."
+          },
+          {
+            "id": 171,
+            "e_word": "cinema",
+            "k_word": "영화,극장",
+            "e_sentence": "I'm a big fan of your cinema.",
+            "k_sentence": "전 당신 영화의 열혈 팬이에요."
+          },
+          {
+            "id": 172,
+            "e_word": "circle",
+            "k_word": "원",
+            "e_sentence": "The people are sitting in a circle.",
+            "k_sentence": "사람들이 원형으로 앉아 있다."
+          },
+          {
+            "id": 173,
+            "e_word": "city",
+            "k_word": "도시",
+            "e_sentence": "The city is a haven for artists.",
+            "k_sentence": "그 도시는 예술가들의 안식처이다."
+          },
+          {
+            "id": 174,
+            "e_word": "class",
+            "k_word": "수업,계급",
+            "e_sentence": "Students have to attend class.",
+            "k_sentence": "학생들은 수업에 출석해야만 한다."
+          },
+          {
+            "id": 175,
+            "e_word": "classroom",
+            "k_word": "교실",
+            "e_sentence": "The teacher looked around the classroom.",
+            "k_sentence": "선생은 교실을 둘러보았다."
+          },
+          {
+            "id": 176,
+            "e_word": "clean",
+            "k_word": "청소하다",
+            "e_sentence": "Spring is the time to clean out the house.",
+            "k_sentence": "봄은 집안을 대청소하는 계절이야."
+          },
+          {
+            "id": 177,
+            "e_word": "clear",
+            "k_word": "맑은",
+            "e_sentence": "The lake is clear to the bottom.",
+            "k_sentence": "호수는 바닥이 보이도록 깨끗하다."
+          },
+          {
+            "id": 178,
+            "e_word": "clerk",
+            "k_word": "직원",
+            "e_sentence": "The clerk is putting fruit in bins.",
+            "k_sentence": "점원이 과일을 상자에 담고 있다."
+          },
+          {
+            "id": 179,
+            "e_word": "clever",
+            "k_word": "영리한",
+            "e_sentence": "You are not clever.",
+            "k_sentence": "당신은 영리하지 못하다."
+          },
+          {
+            "id": 180,
+            "e_word": "climb",
+            "k_word": "기어 오르다",
+            "e_sentence": "The mountain is worth climbing.",
+            "k_sentence": "그 산 오를 가치가 있다."
+          }
+        ]
+      },
+      {
+        "part_id": 10,
+        "data": [
+          {
+            "id": 181,
+            "e_word": "clip",
+            "k_word": "가위로 자르다",
+            "e_sentence": "The gardener is clipping the plants.",
+            "k_sentence": "원예사가 식물들을 다듬고 있다."
+          },
+          {
+            "id": 182,
+            "e_word": "clock",
+            "k_word": "시계",
+            "e_sentence": "That clock is out of order.",
+            "k_sentence": "그 시계는 고장 났다."
+          },
+          {
+            "id": 183,
+            "e_word": "close",
+            "k_word": "닫다",
+            "e_sentence": "Sorry. We are closed on Sunday.",
+            "k_sentence": "죄송합니다. 일요일에는 문을 닫아요."
+          },
+          {
+            "id": 184,
+            "e_word": "cloth",
+            "k_word": "천",
+            "e_sentence": "The cloth feels soft.",
+            "k_sentence": "옷감이 부드럽다."
+          },
+          {
+            "id": 185,
+            "e_word": "cloud",
+            "k_word": "구름",
+            "e_sentence": "The angel is on a cloud.",
+            "k_sentence": "천사가 구름 위에 있다."
+          },
+          {
+            "id": 186,
+            "e_word": "club",
+            "k_word": "클럽",
+            "e_sentence": "I am a member of a tennis club.",
+            "k_sentence": "난 테니스 클럽 회원이다."
+          },
+          {
+            "id": 187,
+            "e_word": "coin",
+            "k_word": "화폐",
+            "e_sentence": "The coin in the picture is a real coin.",
+            "k_sentence": "사진 속의 동전은 진짜 동전이다."
+          },
+          {
+            "id": 188,
+            "e_word": "cold",
+            "k_word": "추운",
+            "e_sentence": "Today is the coldest day of this year.",
+            "k_sentence": "오늘은 올해의 가장 추운 날이다."
+          },
+          {
+            "id": 189,
+            "e_word": "collect",
+            "k_word": "모으다",
+            "e_sentence": "My hobby is collecting stamps.",
+            "k_sentence": "제 취미는 우표수집입니다."
+          },
+          {
+            "id": 190,
+            "e_word": "college",
+            "k_word": "단과대학",
+            "e_sentence": "He made a good record in college.",
+            "k_sentence": "그는 대학 성적이 좋았다."
+          },
+          {
+            "id": 191,
+            "e_word": "color",
+            "k_word": "색",
+            "e_sentence": "That's a good color for you.",
+            "k_sentence": "그 색깔 당신한테 잘 맞는 색이군요."
+          },
+          {
+            "id": 192,
+            "e_word": "come",
+            "k_word": "오다",
+            "e_sentence": "Have I come at a bad time?",
+            "k_sentence": "제가 방해가 된 것은 아닌지요?"
+          },
+          {
+            "id": 193,
+            "e_word": "comedy",
+            "k_word": "희극",
+            "e_sentence": "This is like a classic romantic comedy.",
+            "k_sentence": "이건 고전 로맨틱 코미디 같아."
+          },
+          {
+            "id": 194,
+            "e_word": "company",
+            "k_word": "회사",
+            "e_sentence": "I'm with the cosmetics company.",
+            "k_sentence": "전 화장품 회사에서 일합니다."
+          },
+          {
+            "id": 195,
+            "e_word": "concert",
+            "k_word": "연주회",
+            "e_sentence": "The two schools held a joint concert.",
+            "k_sentence": "두 학교는 합동 연주회를 열었다."
+          },
+          {
+            "id": 196,
+            "e_word": "condition",
+            "k_word": "조건",
+            "e_sentence": "The employees have good conditions of service.",
+            "k_sentence": "그 직원들은 근무 조건이 좋다."
+          },
+          {
+            "id": 197,
+            "e_word": "congratulate",
+            "k_word": "축하하다",
+            "e_sentence": "I congratulate you on passing the examination.",
+            "k_sentence": "시험에 합격한 것을 축하한다."
+          },
+          {
+            "id": 198,
+            "e_word": "contest",
+            "k_word": "겨루다",
+            "e_sentence": "There was a dance contest.",
+            "k_sentence": "댄스 경연 대회가 있었다."
+          },
+          {
+            "id": 199,
+            "e_word": "control",
+            "k_word": "조정,통제",
+            "e_sentence": "Superman is completely out of control.",
+            "k_sentence": "수퍼맨은 완전히 통제 불능이다."
+          },
+          {
+            "id": 200,
+            "e_word": "cook",
+            "k_word": "요리하다 요리사",
+            "e_sentence": "Teach me how to cook.",
+            "k_sentence": "어떻게 요리하는지 가르쳐 줘."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_id": 2,
+    "parts": [
+      {
+        "part_id": 1,
+        "data": [
+          {
+            "id": 201,
+            "e_word": "cookie",
+            "k_word": "쿠키",
+            "e_sentence": "The child had a cookie in his hand.",
+            "k_sentence": "아이는 손에 과자를 들고 있었다."
+          },
+          {
+            "id": 202,
+            "e_word": "cool",
+            "k_word": "서늘한",
+            "e_sentence": "Store the food in a cool place.",
+            "k_sentence": "음식을 시원한 곳에 두어라."
+          },
+          {
+            "id": 203,
+            "e_word": "copy",
+            "k_word": "사본,복사",
+            "e_sentence": "The copy machine isn't working again.",
+            "k_sentence": "복사기가 또 안 돼요."
+          },
+          {
+            "id": 204,
+            "e_word": "corner",
+            "k_word": "모퉁이",
+            "e_sentence": "The bicycle is turning the corner.",
+            "k_sentence": "자전거가 모퉁이를 돌고 있다."
+          },
+          {
+            "id": 205,
+            "e_word": "cost",
+            "k_word": "가격",
+            "e_sentence": "I am sorry, how much is the cost?",
+            "k_sentence": "미안합니다, 가격이 얼마라고요?"
+          },
+          {
+            "id": 206,
+            "e_word": "cotton",
+            "k_word": "목화",
+            "e_sentence": "T-shirts are mostly made of cotton.",
+            "k_sentence": "티셔츠는 주로 목화로 만들어집니다."
+          },
+          {
+            "id": 207,
+            "e_word": "could",
+            "k_word": "할 수 있다",
+            "e_sentence": "How could you do this to me ?",
+            "k_sentence": "너 어떻게 이럴 수가 있어?"
+          },
+          {
+            "id": 208,
+            "e_word": "country",
+            "k_word": "나라",
+            "e_sentence": "Which is the largest country in the world?",
+            "k_sentence": "세계에서 가장 큰 나라가 어디죠?"
+          },
+          {
+            "id": 209,
+            "e_word": "countryside",
+            "k_word": "시골",
+            "e_sentence": "I visited my grandma in the countryside.",
+            "k_sentence": "나는 시골에 있는 할머니를 방문했다."
+          },
+          {
+            "id": 210,
+            "e_word": "couple",
+            "k_word": "한 쌍",
+            "e_sentence": "What a lovely couple you make !",
+            "k_sentence": "어울리는 한 쌍이군요 !"
+          },
+          {
+            "id": 211,
+            "e_word": "cousin",
+            "k_word": "사촌",
+            "e_sentence": "That pretty baby is my cousin.",
+            "k_sentence": "저 아름다운 아기는 내 사촌이다."
+          },
+          {
+            "id": 212,
+            "e_word": "cover",
+            "k_word": "덮다",
+            "e_sentence": "The walls were covered all over with ivy.",
+            "k_sentence": "벽은 온통 담쟁이로 덮여 있었다."
+          },
+          {
+            "id": 213,
+            "e_word": "cow",
+            "k_word": "암소",
+            "e_sentence": "The cow supplies us with milk.",
+            "k_sentence": "암소는 우리에게 우유를 제공해 준다."
+          },
+          {
+            "id": 214,
+            "e_word": "crazy",
+            "k_word": "미친",
+            "e_sentence": "This is crazy, this is crazy.",
+            "k_sentence": "이건 미쳤어, 이건 미친 거야."
+          },
+          {
+            "id": 215,
+            "e_word": "cross",
+            "k_word": "십자형",
+            "e_sentence": "A red cross has become a symbol of love.",
+            "k_sentence": "적십자는 사랑의 상징이 되었다."
+          },
+          {
+            "id": 216,
+            "e_word": "crowd",
+            "k_word": "군중",
+            "e_sentence": "The actors were welcomed by large crowds.",
+            "k_sentence": "배우들은 군중의 환영을 받았다."
+          },
+          {
+            "id": 217,
+            "e_word": "crown",
+            "k_word": "왕관",
+            "e_sentence": "The crown was set with gems.",
+            "k_sentence": "그 왕관에는 보석이 박혀 있었다."
+          },
+          {
+            "id": 218,
+            "e_word": "cry",
+            "k_word": "소리치다",
+            "e_sentence": "The baby has been crying all day long.",
+            "k_sentence": "아기가 하루종일 울어댔어요."
+          },
+          {
+            "id": 219,
+            "e_word": "culture",
+            "k_word": "문화",
+            "e_sentence": "I love Korean culture and food.",
+            "k_sentence": "저는 한국 문화와 음식을 사랑해요."
+          },
+          {
+            "id": 220,
+            "e_word": "curious",
+            "k_word": "호기심 많은",
+            "e_sentence": "You are a curious thing, aren't you?",
+            "k_sentence": "넌 호기심이 많구나. 그지?"
+          }
+        ]
+      },
+      {
+        "part_id": 2,
+        "data": [
+          {
+            "id": 221,
+            "e_word": "curtain",
+            "k_word": "커어튼",
+            "e_sentence": "The curtain blocked out the light.",
+            "k_sentence": "커튼이 햇빛을 막아 주었다."
+          },
+          {
+            "id": 222,
+            "e_word": "customer",
+            "k_word": "고객",
+            "e_sentence": "The customer is not always right.",
+            "k_sentence": "고객이 항상 옳은 것은 아니다."
+          },
+          {
+            "id": 223,
+            "e_word": "cut",
+            "k_word": "베다",
+            "e_sentence": "Suddenly, the typhoon cut off the electricity.",
+            "k_sentence": "갑자기, 태풍이 전기를 끊었다."
+          },
+          {
+            "id": 224,
+            "e_word": "cute",
+            "k_word": "귀여운",
+            "e_sentence": "Can you see the cute squirrel in the picture?",
+            "k_sentence": "사진 속에 귀여운 다람쥐가 보이나요?"
+          },
+          {
+            "id": 225,
+            "e_word": "cycle",
+            "k_word": "순환",
+            "e_sentence": "The human life cycle is similar.",
+            "k_sentence": "사람의 생활사는 비슷하다."
+          },
+          {
+            "id": 226,
+            "e_word": "dad",
+            "k_word": "아버지",
+            "e_sentence": "This is a picture of my dad!",
+            "k_sentence": "이것은 나의 아빠의 사진이다!"
+          },
+          {
+            "id": 227,
+            "e_word": "dance",
+            "k_word": "춤",
+            "e_sentence": "Techno dance is popular these days.",
+            "k_sentence": "요즘 테크노댄스 인기가 대단해요."
+          },
+          {
+            "id": 228,
+            "e_word": "danger",
+            "k_word": "위험",
+            "e_sentence": "Animals sense danger by instinct.",
+            "k_sentence": "동물은 본능으로 위험을 알아차린다."
+          },
+          {
+            "id": 229,
+            "e_word": "dark",
+            "k_word": "어두운",
+            "e_sentence": "When I was young, I was afraid of the dark.",
+            "k_sentence": "난 어렸을 때 어두운 걸 싫어했어."
+          },
+          {
+            "id": 230,
+            "e_word": "date",
+            "k_word": "날짜",
+            "e_sentence": "The date of the examination is near at hand.",
+            "k_sentence": "시험 일자가 다가왔다."
+          },
+          {
+            "id": 231,
+            "e_word": "daughter",
+            "k_word": "딸",
+            "e_sentence": "The daughter believes in free love.",
+            "k_sentence": "딸은 자유로운 사랑을 믿었다."
+          },
+          {
+            "id": 232,
+            "e_word": "day",
+            "k_word": "낮",
+            "e_sentence": "Thanksgiving day is in this week.",
+            "k_sentence": "추수감사절은 이번 주다."
+          },
+          {
+            "id": 233,
+            "e_word": "dead",
+            "k_word": "죽은",
+            "e_sentence": "Dead men tell no tales.",
+            "k_sentence": "죽은 자는 말이 없다."
+          },
+          {
+            "id": 234,
+            "e_word": "death",
+            "k_word": "죽음",
+            "e_sentence": "You really bore me to death.",
+            "k_sentence": "당신은 정말 따분해 죽을 지경이다."
+          },
+          {
+            "id": 235,
+            "e_word": "decide",
+            "k_word": "결정하다",
+            "e_sentence": "Think it over before you decide.",
+            "k_sentence": "결정하기 전에 곰곰이 생각하세요."
+          },
+          {
+            "id": 236,
+            "e_word": "deep",
+            "k_word": "깊은",
+            "e_sentence": "The origin of kimchi is deep-rooted.",
+            "k_sentence": "김치는 그 유래가 깊은 식품이다."
+          },
+          {
+            "id": 237,
+            "e_word": "delicious",
+            "k_word": "맛있는",
+            "e_sentence": "It is delicious and I'm not kidding.",
+            "k_sentence": "이거 진짜 맛있어, 장난 아냐."
+          },
+          {
+            "id": 238,
+            "e_word": "dentist",
+            "k_word": "치과의사",
+            "e_sentence": "I didn't even know you'd be a dentist.",
+            "k_sentence": "난 네가 치과의사가 될 줄도 몰랐어."
+          },
+          {
+            "id": 239,
+            "e_word": "design",
+            "k_word": "설계",
+            "e_sentence": "This is a new design.",
+            "k_sentence": "이건 새 디자인이에요."
+          },
+          {
+            "id": 240,
+            "e_word": "desk",
+            "k_word": "책상",
+            "e_sentence": "The desk is full of books.",
+            "k_sentence": "그 책상은 책으로 가득하다."
+          }
+        ]
+      },
+      {
+        "part_id": 3,
+        "data": [
+          {
+            "id": 241,
+            "e_word": "dialogue",
+            "k_word": "대화",
+            "e_sentence": "There is no music, no dialogue.",
+            "k_sentence": "그곳에는 음악이 없고, 대화도 없다."
+          },
+          {
+            "id": 242,
+            "e_word": "diary",
+            "k_word": "일기",
+            "e_sentence": "Writing diary in English is too difficult.",
+            "k_sentence": "영어로 일기 쓰는 건 너무 어렵다."
+          },
+          {
+            "id": 243,
+            "e_word": "die",
+            "k_word": "죽다",
+            "e_sentence": "The chicken really is to die for.",
+            "k_sentence": "그 치킨은 정말 끝내주게 맛있어."
+          },
+          {
+            "id": 244,
+            "e_word": "different",
+            "k_word": "다른",
+            "e_sentence": "The Rose of Sharon comes in a few different colors.",
+            "k_sentence": "무궁화는 몇 가지 다른 색을 띱니다."
+          },
+          {
+            "id": 245,
+            "e_word": "difficult",
+            "k_word": "곤란한",
+            "e_sentence": "It's difficult for me to take you seriously.",
+            "k_sentence": "당신 말은 정말 믿기가 어려워요."
+          },
+          {
+            "id": 246,
+            "e_word": "dinner",
+            "k_word": "저녁",
+            "e_sentence": "We watched TV after dinner.",
+            "k_sentence": "우리는 저녁 식사 후에 TV를 보았다."
+          },
+          {
+            "id": 247,
+            "e_word": "dirty",
+            "k_word": "더러운",
+            "e_sentence": "That is a dirty trick.",
+            "k_sentence": "그것은 더러운 속임수다."
+          },
+          {
+            "id": 248,
+            "e_word": "discuss",
+            "k_word": "토론하다",
+            "e_sentence": "Let's discuss it over a beer.",
+            "k_sentence": "맥주 한잔하면서 토의합시다."
+          },
+          {
+            "id": 249,
+            "e_word": "dish",
+            "k_word": "접시,음식",
+            "e_sentence": "Tempura is a deep-fried dish.",
+            "k_sentence": "튀김은 기름에 튀긴 요리다."
+          },
+          {
+            "id": 250,
+            "e_word": "divide",
+            "k_word": "나누다",
+            "e_sentence": "The river divides into two branches here.",
+            "k_sentence": "강은 이곳에서 두 줄기로 갈라진다."
+          },
+          {
+            "id": 251,
+            "e_word": "do",
+            "k_word": "하다",
+            "e_sentence": "I'll do my best, sir.",
+            "k_sentence": "최선을 다하겠습니다. 선생님."
+          },
+          {
+            "id": 252,
+            "e_word": "doctor",
+            "k_word": "의사",
+            "e_sentence": "The crazy doctor gave a robot a brainwashing.",
+            "k_sentence": "미친 과학자는 로봇을 세뇌시켰다."
+          },
+          {
+            "id": 253,
+            "e_word": "dog",
+            "k_word": "개",
+            "e_sentence": "The dog and the cat fight all the time.",
+            "k_sentence": "개와 고양이는 늘 싸웁니다."
+          },
+          {
+            "id": 254,
+            "e_word": "doll",
+            "k_word": "인형",
+            "e_sentence": "I don't want a new doll.",
+            "k_sentence": "나는 새 인형을 원하지 않아요."
+          },
+          {
+            "id": 255,
+            "e_word": "dolphin",
+            "k_word": "돌고래",
+            "e_sentence": "It is a true story about a friendship between a dolphin and a boy.",
+            "k_sentence": "돌고래와 소년의 우정에 관한 실화이다."
+          },
+          {
+            "id": 256,
+            "e_word": "door",
+            "k_word": "문",
+            "e_sentence": "I don't have the key to that door.",
+            "k_sentence": "저는 그 문 열쇠가 없어요."
+          },
+          {
+            "id": 257,
+            "e_word": "double",
+            "k_word": "2배의",
+            "e_sentence": "Technology is a double-edged sword, however.",
+            "k_sentence": "그러나 기술은 양날의 칼이다."
+          },
+          {
+            "id": 258,
+            "e_word": "down",
+            "k_word": "아래로",
+            "e_sentence": "The weddings are one floor down.",
+            "k_sentence": "결혼식은 한 층 아래에서 합니다."
+          },
+          {
+            "id": 259,
+            "e_word": "draw",
+            "k_word": "그리다,당기다",
+            "e_sentence": "Could you draw me a map?",
+            "k_sentence": "약도를 좀 그려주시겠습니까?"
+          },
+          {
+            "id": 260,
+            "e_word": "dream",
+            "k_word": "꿈",
+            "e_sentence": "That is an impossible dream.",
+            "k_sentence": "그건 불가능한 꿈이야."
+          }
+        ]
+      },
+      {
+        "part_id": 4,
+        "data": [
+          {
+            "id": 261,
+            "e_word": "drink",
+            "k_word": "마시다",
+            "e_sentence": "Let me buy you a drink.",
+            "k_sentence": "제가 한 잔 사겠습니다."
+          },
+          {
+            "id": 262,
+            "e_word": "drive",
+            "k_word": "운전하다",
+            "e_sentence": "We should drive within the speed limit.",
+            "k_sentence": "제한 속도 이내로 운전해야 한다."
+          },
+          {
+            "id": 263,
+            "e_word": "drop",
+            "k_word": "방울",
+            "e_sentence": "I don't drink a drop of alcohol.",
+            "k_sentence": "술은 한 방울도 안 마신다."
+          },
+          {
+            "id": 264,
+            "e_word": "dry",
+            "k_word": "마른",
+            "e_sentence": "The desert is a very hot and dry place.",
+            "k_sentence": "사막은 매우 덥고 건조한 곳이에요."
+          },
+          {
+            "id": 265,
+            "e_word": "duck",
+            "k_word": "오리",
+            "e_sentence": "I think he was supposed to be a duck or a chicken.",
+            "k_sentence": "나는 그가 오리 또는 닭이 되고 싶었던 것 같았다고 생각한다."
+          },
+          {
+            "id": 266,
+            "e_word": "during",
+            "k_word": "-동안에",
+            "e_sentence": "Stay cool during the hot summer days!",
+            "k_sentence": "뜨거운 여름 동안 시원하게 지내세요!"
+          },
+          {
+            "id": 267,
+            "e_word": "ear",
+            "k_word": "귀",
+            "e_sentence": "The ear of the dog is long and curved.",
+            "k_sentence": "개의 귀는 길고 휘어있다."
+          },
+          {
+            "id": 268,
+            "e_word": "early",
+            "k_word": "이른",
+            "e_sentence": "The cherry blossoms bloomed so early this year.",
+            "k_sentence": "올해는 벚꽃이 매우 일찍 폈다."
+          },
+          {
+            "id": 269,
+            "e_word": "earth",
+            "k_word": "지구",
+            "e_sentence": "The earth turns around the sun.",
+            "k_sentence": "지구는 태양의 둘레를 돈다."
+          },
+          {
+            "id": 270,
+            "e_word": "east",
+            "k_word": "동쪽",
+            "e_sentence": "The sun always rises in the east.",
+            "k_sentence": "해는 언제나 동쪽에서 뜬다."
+          },
+          {
+            "id": 271,
+            "e_word": "easy",
+            "k_word": "쉬운",
+            "e_sentence": "It is easy to criticize other people.",
+            "k_sentence": "남을 비판하기는 쉬운 일이다."
+          },
+          {
+            "id": 272,
+            "e_word": "eat",
+            "k_word": "먹다",
+            "e_sentence": "Let's eat first.",
+            "k_sentence": "먹고 합시다."
+          },
+          {
+            "id": 273,
+            "e_word": "egg",
+            "k_word": "알",
+            "e_sentence": "The egg drops through the normal water.",
+            "k_sentence": "보통 물에서는 달걀이 가라앉는다."
+          },
+          {
+            "id": 274,
+            "e_word": "elementary",
+            "k_word": "기본의",
+            "e_sentence": "I want to be a teacher of elementary school.",
+            "k_sentence": "난 초등학교 선생님이 되고 싶다."
+          },
+          {
+            "id": 275,
+            "e_word": "elephant",
+            "k_word": "코끼리",
+            "e_sentence": "The elephant is bigger than the mouse.",
+            "k_sentence": "코끼리는 쥐보다 크다."
+          },
+          {
+            "id": 276,
+            "e_word": "end",
+            "k_word": "끝",
+            "e_sentence": "The game ended in a tie.",
+            "k_sentence": "경기는 무승부로 끝났습니다."
+          },
+          {
+            "id": 277,
+            "e_word": "engine",
+            "k_word": "엔진",
+            "e_sentence": "The engine is out of order.",
+            "k_sentence": "엔진이 고장 났다."
+          },
+          {
+            "id": 278,
+            "e_word": "engineer",
+            "k_word": "기사",
+            "e_sentence": "I don't want to be an engineer.",
+            "k_sentence": "나는 엔지니어가 되고 싶지 않다."
+          },
+          {
+            "id": 279,
+            "e_word": "enjoy",
+            "k_word": "즐기다",
+            "e_sentence": "I enjoy talk shows the most.",
+            "k_sentence": "토크쇼를 가장 좋아합니다."
+          },
+          {
+            "id": 280,
+            "e_word": "enough",
+            "k_word": "충분한",
+            "e_sentence": "The world is not enough.",
+            "k_sentence": "세상을 다 주어도 안 되지."
+          }
+        ]
+      },
+      {
+        "part_id": 5,
+        "data": [
+          {
+            "id": 281,
+            "e_word": "enter",
+            "k_word": "들어가다",
+            "e_sentence": "I am going to enter the army.",
+            "k_sentence": "나는 입대할 예정이다."
+          },
+          {
+            "id": 282,
+            "e_word": "eraser",
+            "k_word": "지우개",
+            "e_sentence": "The eraser is on the calculator.",
+            "k_sentence": "지우개는 계산기 위에 있다."
+          },
+          {
+            "id": 283,
+            "e_word": "error",
+            "k_word": "잘못",
+            "e_sentence": "There's an error on my paycheck.",
+            "k_sentence": "내 급여가 잘못된 것 같아요."
+          },
+          {
+            "id": 284,
+            "e_word": "evening",
+            "k_word": "저녁",
+            "e_sentence": "The evening is still young.",
+            "k_sentence": "아직 초저녁입니다."
+          },
+          {
+            "id": 285,
+            "e_word": "every",
+            "k_word": "모든",
+            "e_sentence": "We are equal in every way.",
+            "k_sentence": "우리는 모든 면에서 평등하다."
+          },
+          {
+            "id": 286,
+            "e_word": "exam",
+            "k_word": "시험",
+            "e_sentence": "Take your examination with confidence.",
+            "k_sentence": "자신감을 가지고 시험을 치세요."
+          },
+          {
+            "id": 287,
+            "e_word": "example",
+            "k_word": "보기",
+            "e_sentence": "These examples are just the tip of the iceberg.",
+            "k_sentence": "그 예들은 빙산의 일각일 뿐이야."
+          },
+          {
+            "id": 288,
+            "e_word": "exercise",
+            "k_word": "운동",
+            "e_sentence": "Taekwondo is an excellent exercise.",
+            "k_sentence": "태권도는 훌륭한 운동입니다."
+          },
+          {
+            "id": 289,
+            "e_word": "exit",
+            "k_word": "출구",
+            "e_sentence": "Where is the exit for Deoksugung Palace?",
+            "k_sentence": "덕수궁으로 나가는 출구가 어디입니까?"
+          },
+          {
+            "id": 290,
+            "e_word": "eye",
+            "k_word": "눈",
+            "e_sentence": "Stop eyeing my smart phone.",
+            "k_sentence": "내 휴대 전화에 눈독 들이지 마."
+          },
+          {
+            "id": 291,
+            "e_word": "face",
+            "k_word": "얼굴",
+            "e_sentence": "The boxer had blood running down his face.",
+            "k_sentence": "권투 선수 얼굴에 피가 흘러내렸다."
+          },
+          {
+            "id": 292,
+            "e_word": "fact",
+            "k_word": "사실",
+            "e_sentence": "That is a matter of historical fact.",
+            "k_sentence": "그것은 역사적 사실의 문제이다."
+          },
+          {
+            "id": 293,
+            "e_word": "factory",
+            "k_word": "공장",
+            "e_sentence": "The factory is always open to visitors.",
+            "k_sentence": "그 공장은 늘 개방되어 있다."
+          },
+          {
+            "id": 294,
+            "e_word": "fail",
+            "k_word": "실패하다",
+            "e_sentence": "You will fail if you are above yourself.",
+            "k_sentence": "당신이 자만하면 실패할 것이다."
+          },
+          {
+            "id": 295,
+            "e_word": "fall",
+            "k_word": "떨어지다",
+            "e_sentence": "The acid rain was falling on the forests.",
+            "k_sentence": "산성비가 숲에 내리고 있었다."
+          },
+          {
+            "id": 296,
+            "e_word": "family",
+            "k_word": "가족",
+            "e_sentence": "The basic unit of society is the family.",
+            "k_sentence": "사회의 기본 구성 단위는 가족이다."
+          },
+          {
+            "id": 297,
+            "e_word": "famous",
+            "k_word": "유명한",
+            "e_sentence": "The Battle of Waterloo is a famous event.",
+            "k_sentence": "워털루 전쟁은 유명한 사건이다."
+          },
+          {
+            "id": 298,
+            "e_word": "fan",
+            "k_word": "(영화 등의)팬",
+            "e_sentence": "Yes, I'm sure he's a big fan of LG Twins.",
+            "k_sentence": "응. 나는 LG 트윈스 팬이야."
+          },
+          {
+            "id": 299,
+            "e_word": "fantastic",
+            "k_word": "환상적인",
+            "e_sentence": "Your new dress is fantastic!",
+            "k_sentence": "새 원피스가 아주 멋지네!"
+          },
+          {
+            "id": 300,
+            "e_word": "far",
+            "k_word": "멀리",
+            "e_sentence": "The higher a bird flies, the farther it can see.",
+            "k_sentence": "높이 나는 새가 멀리 본다."
+          }
+        ]
+      },
+      {
+        "part_id": 6,
+        "data": [
+          {
+            "id": 301,
+            "e_word": "farm",
+            "k_word": "농장",
+            "e_sentence": "He has a farm in the country.",
+            "k_sentence": "그는 시골에 농장이 있다."
+          },
+          {
+            "id": 302,
+            "e_word": "fast",
+            "k_word": "빠른",
+            "e_sentence": "How fast time flies !",
+            "k_sentence": "시간이 얼마나 빠른지."
+          },
+          {
+            "id": 303,
+            "e_word": "fat",
+            "k_word": "살찐",
+            "e_sentence": "The sky is high and the horse is fat in fall.",
+            "k_sentence": "가을을 천고마비의 계절이라고 합니다."
+          },
+          {
+            "id": 304,
+            "e_word": "father",
+            "k_word": "아버지",
+            "e_sentence": "The baby looks like the father.",
+            "k_sentence": "아기가 아버지를 꼭 닮았다."
+          },
+          {
+            "id": 305,
+            "e_word": "favorite",
+            "k_word": "마음에 드는",
+            "e_sentence": "Spicy dishes are my favorite.",
+            "k_sentence": "나는 매콤한 요리를 가장 좋아한다."
+          },
+          {
+            "id": 306,
+            "e_word": "feel",
+            "k_word": "느끼다",
+            "e_sentence": "If you have any questions, please feel free to call.",
+            "k_sentence": "궁금한 것이 있으면 언제든지 전화하세요."
+          },
+          {
+            "id": 307,
+            "e_word": "fever",
+            "k_word": "열",
+            "e_sentence": "I ran a fever when I had the flu.",
+            "k_sentence": "독감에 걸렸을 때 나는 열이 났다."
+          },
+          {
+            "id": 308,
+            "e_word": "field",
+            "k_word": "들",
+            "e_sentence": "The airplane made an emergency landing in a field.",
+            "k_sentence": "비행기가 들판에 불시착했다."
+          },
+          {
+            "id": 309,
+            "e_word": "fight",
+            "k_word": "싸움",
+            "e_sentence": "The children have a snowball fight.",
+            "k_sentence": "아이들이 눈싸움을 한다."
+          },
+          {
+            "id": 310,
+            "e_word": "file",
+            "k_word": "파일,서류철",
+            "e_sentence": "The file has not been copied.",
+            "k_sentence": "파일이 복사되지 않았습니다."
+          },
+          {
+            "id": 311,
+            "e_word": "fill",
+            "k_word": "가득 채우다",
+            "e_sentence": "The aroma of coffee filled the air.",
+            "k_sentence": "커피 향이 공기 중에 퍼졌다."
+          },
+          {
+            "id": 312,
+            "e_word": "find",
+            "k_word": "발견하다",
+            "e_sentence": "The hope to find the treasure island was a mirage.",
+            "k_sentence": "보물섬을 찾으려는 희망은 신기루였다."
+          },
+          {
+            "id": 313,
+            "e_word": "fine",
+            "k_word": "훌륭한",
+            "e_sentence": "That is a fine example of a social enterprise.",
+            "k_sentence": "그것은 사회적 기업의 좋은 예이다."
+          },
+          {
+            "id": 314,
+            "e_word": "finger",
+            "k_word": "손가락, 손가락을 대다",
+            "e_sentence": "The chance has slipped through my fingers.",
+            "k_sentence": "기회가 내게서 사라졌다."
+          },
+          {
+            "id": 315,
+            "e_word": "finish",
+            "k_word": "끝내다",
+            "e_sentence": "Mom, I finished my milk.",
+            "k_sentence": "엄마, 우유를 다 마셨는데요."
+          },
+          {
+            "id": 316,
+            "e_word": "fire",
+            "k_word": "불",
+            "e_sentence": "The fire started in the basement.",
+            "k_sentence": "불은 지하에서 시작했다."
+          },
+          {
+            "id": 317,
+            "e_word": "fish",
+            "k_word": "물고기",
+            "e_sentence": "That old man caught a large fish.",
+            "k_sentence": "그 노인은 큰 물고기를 잡았다."
+          },
+          {
+            "id": 318,
+            "e_word": "fix",
+            "k_word": "고치다",
+            "e_sentence": "The computer needed to be fixed.",
+            "k_sentence": "컴퓨터를 수리해야 했다."
+          },
+          {
+            "id": 319,
+            "e_word": "flag",
+            "k_word": "깃발",
+            "e_sentence": "The American flag is called the Stars and Stripes.",
+            "k_sentence": "미국 국기는 성조기라고 불린다."
+          },
+          {
+            "id": 320,
+            "e_word": "floor",
+            "k_word": "마룻바닥",
+            "e_sentence": "The glass fell on the floor and went to pieces.",
+            "k_sentence": "컵이 떨어져 산산이 조각났다."
+          }
+        ]
+      },
+      {
+        "part_id": 7,
+        "data": [
+          {
+            "id": 321,
+            "e_word": "flower",
+            "k_word": "꽃",
+            "e_sentence": "Flowers don't tell, they show.",
+            "k_sentence": "꽃은 말이 필요 없다. 보기만 해도 알 수 있다."
+          },
+          {
+            "id": 322,
+            "e_word": "fly",
+            "k_word": "날다",
+            "e_sentence": "Sparrows were flying about.",
+            "k_sentence": "참새들이 날아다니고 있었다."
+          },
+          {
+            "id": 323,
+            "e_word": "focus",
+            "k_word": "초점",
+            "e_sentence": "The picture is out of focus.",
+            "k_sentence": "화면의 초점이 맞지 않았다."
+          },
+          {
+            "id": 324,
+            "e_word": "fog",
+            "k_word": "안개",
+            "e_sentence": "The fog is a thing for which London is famous.",
+            "k_sentence": "안개는 런던의 명물이다."
+          },
+          {
+            "id": 325,
+            "e_word": "food",
+            "k_word": "음식",
+            "e_sentence": "Thai food is hot and spicy.",
+            "k_sentence": "태국 음식은 맵고 향이 강하다."
+          },
+          {
+            "id": 326,
+            "e_word": "fool",
+            "k_word": "바보",
+            "e_sentence": "There's a fine line between a genius and a fool.",
+            "k_sentence": "천재와 바보는 종이 한 장 차이다."
+          },
+          {
+            "id": 327,
+            "e_word": "foot",
+            "k_word": "발",
+            "e_sentence": "The foot is below the knee.",
+            "k_sentence": "발은 무릎 아래다."
+          },
+          {
+            "id": 328,
+            "e_word": "football",
+            "k_word": "축구",
+            "e_sentence": "The Korean football team beat off its old foe, Japan.",
+            "k_sentence": "한국 축구팀은 숙적 일본을 물리쳤다."
+          },
+          {
+            "id": 329,
+            "e_word": "for",
+            "k_word": "위하여",
+            "e_sentence": "I'm saving up for a rainy day.",
+            "k_sentence": "만일의 경우를 위해 저축하고 있어요."
+          },
+          {
+            "id": 330,
+            "e_word": "forest",
+            "k_word": "숲",
+            "e_sentence": "The road runs through the forest.",
+            "k_sentence": "그 길은 숲속으로 통하고 있다."
+          },
+          {
+            "id": 331,
+            "e_word": "forever",
+            "k_word": "영원히",
+            "e_sentence": "I love you forever.",
+            "k_sentence": "당신을 영원히 사랑해요."
+          },
+          {
+            "id": 332,
+            "e_word": "forget",
+            "k_word": "잊다",
+            "e_sentence": "The forget-me-not is a symbol of friendship.",
+            "k_sentence": "물망초는 우정을 상징한다."
+          },
+          {
+            "id": 333,
+            "e_word": "form",
+            "k_word": "모양",
+            "e_sentence": "The book came in the form of a movie.",
+            "k_sentence": "이 책은 영화로도 개봉했다."
+          },
+          {
+            "id": 334,
+            "e_word": "fox",
+            "k_word": "여우",
+            "e_sentence": "The fox was very sly and clever.",
+            "k_sentence": "그 여우는 교활하고 영리했다."
+          },
+          {
+            "id": 335,
+            "e_word": "free",
+            "k_word": "자유로운",
+            "e_sentence": "The Han river is now free from ice.",
+            "k_sentence": "한강이 해빙되었다."
+          },
+          {
+            "id": 336,
+            "e_word": "fresh",
+            "k_word": "새로운",
+            "e_sentence": "The grass and plants were fresh after a rainfall.",
+            "k_sentence": "비가 오자 초목이 신선해졌다."
+          },
+          {
+            "id": 337,
+            "e_word": "friend",
+            "k_word": "친구",
+            "e_sentence": "As a matter of fact, I have no friends.",
+            "k_sentence": "실은 저에게 친구가 없어요."
+          },
+          {
+            "id": 338,
+            "e_word": "frog",
+            "k_word": "개구리",
+            "e_sentence": "The frog changed into a handsome prince.",
+            "k_sentence": "개구리는 잘생긴 왕자로 변했다."
+          },
+          {
+            "id": 339,
+            "e_word": "from",
+            "k_word": "부터",
+            "e_sentence": "Is there anybody here from Korea?",
+            "k_sentence": "한국에서 오신 분 여기 계십니까?"
+          },
+          {
+            "id": 340,
+            "e_word": "front",
+            "k_word": "정면",
+            "e_sentence": "The building in front is the library.",
+            "k_sentence": "정면에 보이는 건물이 도서관이다."
+          }
+        ]
+      },
+      {
+        "part_id": 8,
+        "data": [
+          {
+            "id": 341,
+            "e_word": "fruit",
+            "k_word": "과일",
+            "e_sentence": "The banana is a common fruit in South Korea.",
+            "k_sentence": "바나나는 한국에서 흔한 과일이다."
+          },
+          {
+            "id": 342,
+            "e_word": "fry",
+            "k_word": "기름으로 튀기다",
+            "e_sentence": "I was frying an egg.",
+            "k_sentence": "내가 달걀 프라이를 만들었어요."
+          },
+          {
+            "id": 343,
+            "e_word": "full",
+            "k_word": "가득찬",
+            "e_sentence": "That politician is full of ambition.",
+            "k_sentence": "그 정치인은 야망으로 가득 차 있다."
+          },
+          {
+            "id": 344,
+            "e_word": "fun",
+            "k_word": "재미",
+            "e_sentence": "Sounds like fun. Let's go.",
+            "k_sentence": "재미있을 것 같네요. 갑시다."
+          },
+          {
+            "id": 345,
+            "e_word": "future",
+            "k_word": "미래",
+            "e_sentence": "The future isn't set in stone.",
+            "k_sentence": "미래는 고정되어 있지 않다."
+          },
+          {
+            "id": 346,
+            "e_word": "garden",
+            "k_word": "뜰",
+            "e_sentence": "The garden is indeed beautiful.",
+            "k_sentence": "그 정원은 정말로 아름답다."
+          },
+          {
+            "id": 347,
+            "e_word": "gate",
+            "k_word": "문,입구",
+            "e_sentence": "The airport is at the gate of Incheon.",
+            "k_sentence": "공항은 인천 가까이에 있다."
+          },
+          {
+            "id": 348,
+            "e_word": "gentleman",
+            "k_word": "신사",
+            "e_sentence": "He has the air of a gentleman.",
+            "k_sentence": "그는 점잖은 체하고 있다."
+          },
+          {
+            "id": 349,
+            "e_word": "gesture",
+            "k_word": "몸짓",
+            "e_sentence": "This is just a friendly gesture.",
+            "k_sentence": "이건 그냥 친근한 몸짓일 뿐이야."
+          },
+          {
+            "id": 350,
+            "e_word": "get",
+            "k_word": "얻다",
+            "e_sentence": "What are you getting out of this?",
+            "k_sentence": "이렇게 해서 얻는 게 뭡니까?"
+          },
+          {
+            "id": 351,
+            "e_word": "ghost",
+            "k_word": "유령",
+            "e_sentence": "There are no such things as ghosts.",
+            "k_sentence": "유령 따위는 없다."
+          },
+          {
+            "id": 352,
+            "e_word": "giant",
+            "k_word": "거인",
+            "e_sentence": "The giant panda is a fascinating animal.",
+            "k_sentence": "자이언트 팬더는 매혹적인 동물이다."
+          },
+          {
+            "id": 353,
+            "e_word": "gift",
+            "k_word": "선물",
+            "e_sentence": "Thank you for such a heart- warming gift.",
+            "k_sentence": "마음이 담긴 선물이 고마워요."
+          },
+          {
+            "id": 354,
+            "e_word": "giraffe",
+            "k_word": "기린",
+            "e_sentence": "The giraffe has a long neck.",
+            "k_sentence": "기린은 목이 길다."
+          },
+          {
+            "id": 355,
+            "e_word": "girl",
+            "k_word": "소녀",
+            "e_sentence": "The girl always wears a smile.",
+            "k_sentence": "그 소녀는 늘 미소를 띠고 있다."
+          },
+          {
+            "id": 356,
+            "e_word": "give",
+            "k_word": "주다",
+            "e_sentence": "Pleae give me a window seat.",
+            "k_sentence": "창문 옆 좌석을 주세요."
+          },
+          {
+            "id": 357,
+            "e_word": "glad",
+            "k_word": "기쁜",
+            "e_sentence": "Well, I'm glad you think so.",
+            "k_sentence": "음, 그렇게 생각하신다니 기뻐요."
+          },
+          {
+            "id": 358,
+            "e_word": "glass",
+            "k_word": "유리",
+            "e_sentence": "The glasses are full of water.",
+            "k_sentence": "유리잔들에 물이 가득 차 있다."
+          },
+          {
+            "id": 359,
+            "e_word": "glove",
+            "k_word": "장갑",
+            "e_sentence": "The gloves fit perfectly on his hands!",
+            "k_sentence": "장갑이 그의 손에 꼭 맞습니다."
+          },
+          {
+            "id": 360,
+            "e_word": "glue",
+            "k_word": "아교",
+            "e_sentence": "Sue put glue on the paper.",
+            "k_sentence": "Sue는 종이에 풀칠을 했다."
+          }
+        ]
+      },
+      {
+        "part_id": 9,
+        "data": [
+          {
+            "id": 361,
+            "e_word": "go",
+            "k_word": "가다",
+            "e_sentence": "Will you go along with me?",
+            "k_sentence": "저랑 같이 가시겠습니까?"
+          },
+          {
+            "id": 362,
+            "e_word": "goal",
+            "k_word": "목표,골",
+            "e_sentence": "The goal of any business is to make profit.",
+            "k_sentence": "기업은 영리 추구를 목적으로 한다."
+          },
+          {
+            "id": 363,
+            "e_word": "god",
+            "k_word": "신",
+            "e_sentence": "Do you think god will forgive us?",
+            "k_sentence": "신이 우리를 용서할 거라고 생각하니?"
+          },
+          {
+            "id": 364,
+            "e_word": "gold",
+            "k_word": "금",
+            "e_sentence": "The archery team managed four gold medals.",
+            "k_sentence": "양궁팀은 네 개의 금메달을 따냈다."
+          },
+          {
+            "id": 365,
+            "e_word": "good",
+            "k_word": "좋은",
+            "e_sentence": "No news is good news.",
+            "k_sentence": "무소식이 희소식입니다."
+          },
+          {
+            "id": 366,
+            "e_word": "goodbye",
+            "k_word": "안녕히 가세요",
+            "e_sentence": "I forgot how to say goodbye.",
+            "k_sentence": "나는 작별 인사를 하는 법을 잊었다."
+          },
+          {
+            "id": 367,
+            "e_word": "grandfather",
+            "k_word": "할아버지",
+            "e_sentence": "I lost my grandfather to cancer this year.",
+            "k_sentence": "올해 할아버지가 암으로 돌아가셨다."
+          },
+          {
+            "id": 368,
+            "e_word": "grape",
+            "k_word": "포도",
+            "e_sentence": "Wine is made from grapes.",
+            "k_sentence": "포도주는 포도로 만들어진다."
+          },
+          {
+            "id": 369,
+            "e_word": "grass",
+            "k_word": "풀밭",
+            "e_sentence": "Cows feed on grass.",
+            "k_sentence": "소는 풀을 먹고 산다."
+          },
+          {
+            "id": 370,
+            "e_word": "great",
+            "k_word": "커다란",
+            "e_sentence": "You've been a great help.",
+            "k_sentence": "큰 도움이 되었어요."
+          },
+          {
+            "id": 371,
+            "e_word": "green",
+            "k_word": "초록색",
+            "e_sentence": "The grass is always greener on the other side of the fence.",
+            "k_sentence": "남의 떡이 더 커 보인다."
+          },
+          {
+            "id": 372,
+            "e_word": "grey",
+            "k_word": "회색의",
+            "e_sentence": "His hair was touched with grey.",
+            "k_sentence": "그의 머리는 희끗희끗한 기미가 보였다."
+          },
+          {
+            "id": 373,
+            "e_word": "ground",
+            "k_word": "땅",
+            "e_sentence": "The dog was lying on the ground.",
+            "k_sentence": "개는 땅에 누워 있었다."
+          },
+          {
+            "id": 374,
+            "e_word": "group",
+            "k_word": "집단",
+            "e_sentence": "The pigeons are a special group of birds.",
+            "k_sentence": "비둘기들은 새들의 특별한 무리이다."
+          },
+          {
+            "id": 375,
+            "e_word": "grow",
+            "k_word": "성장하다",
+            "e_sentence": "Sweetie, you're a grown man now.",
+            "k_sentence": "얘야, 넌 이제 성인이야."
+          },
+          {
+            "id": 376,
+            "e_word": "guess",
+            "k_word": "예측하다",
+            "e_sentence": "That's tough to guess.",
+            "k_sentence": "예측하기 힘든 데요."
+          },
+          {
+            "id": 377,
+            "e_word": "guide",
+            "k_word": "이끌다",
+            "e_sentence": "The blind man was guided by his dog.",
+            "k_sentence": "그 시각장애인은 개의 안내를 받고 있었다."
+          },
+          {
+            "id": 378,
+            "e_word": "guy",
+            "k_word": "남자,녀석,놈",
+            "e_sentence": "The guy was getting married today.",
+            "k_sentence": "그 남자는 오늘 결혼했다."
+          },
+          {
+            "id": 379,
+            "e_word": "habit",
+            "k_word": "습관",
+            "e_sentence": "You have to control your eating habits.",
+            "k_sentence": "넌 식습관을 조절해야만 해."
+          },
+          {
+            "id": 380,
+            "e_word": "hair",
+            "k_word": "머리털",
+            "e_sentence": "That hair style is very becoming on you.",
+            "k_sentence": "그 머리 스타일 당신에게 잘 어울려요."
+          }
+        ]
+      },
+      {
+        "part_id": 10,
+        "data": [
+          {
+            "id": 381,
+            "e_word": "hand",
+            "k_word": "손",
+            "e_sentence": "The girls danced hand in hand.",
+            "k_sentence": "그 소녀들은 손에 손을 잡고 춤췄다."
+          },
+          {
+            "id": 382,
+            "e_word": "handsome",
+            "k_word": "잘생긴",
+            "e_sentence": "The model is tall and handsome.",
+            "k_sentence": "그 모델은 키가 크고 잘생겼다."
+          },
+          {
+            "id": 383,
+            "e_word": "hang",
+            "k_word": "걸다",
+            "e_sentence": "The birdhouse is hanging in the tree.",
+            "k_sentence": "새집이 나무에 매달려 있다."
+          },
+          {
+            "id": 384,
+            "e_word": "happy",
+            "k_word": "행복한",
+            "e_sentence": "Thank you for making me happy.",
+            "k_sentence": "나를 행복하게 해줘서 고마워."
+          },
+          {
+            "id": 385,
+            "e_word": "hard",
+            "k_word": "어려운",
+            "e_sentence": "It's hard to keep up.",
+            "k_sentence": "따라가기가 힘듭니다."
+          },
+          {
+            "id": 386,
+            "e_word": "hat",
+            "k_word": "모자",
+            "e_sentence": "The old man's cowboy hat is red.",
+            "k_sentence": "노인의 카우보이 모자는 빨간색이다."
+          },
+          {
+            "id": 387,
+            "e_word": "hate",
+            "k_word": "미워하다",
+            "e_sentence": "Do you think I hate you?",
+            "k_sentence": "내가 당신을 미워한다고 생각해요?"
+          },
+          {
+            "id": 388,
+            "e_word": "have",
+            "k_word": "가지다",
+            "e_sentence": "Do you have any evidence?",
+            "k_sentence": "증거가 있으십니까?"
+          },
+          {
+            "id": 389,
+            "e_word": "he",
+            "k_word": "그",
+            "e_sentence": "Speak of the devil and he appears.",
+            "k_sentence": "호랑이도 제 말하면 온다."
+          },
+          {
+            "id": 390,
+            "e_word": "head",
+            "k_word": "머리",
+            "e_sentence": "The baby can't hold his head up yet.",
+            "k_sentence": "아기는 아직 목을 가누지 못한다."
+          },
+          {
+            "id": 391,
+            "e_word": "headache",
+            "k_word": "두통",
+            "e_sentence": "I have a headache when I sit at my desk.",
+            "k_sentence": "책상에 앉으면 머리가 아파요."
+          },
+          {
+            "id": 392,
+            "e_word": "heart",
+            "k_word": "마음",
+            "e_sentence": "Tears are words the heart can't say.",
+            "k_sentence": "눈물은 마음으로 할 수 없는 말이다."
+          },
+          {
+            "id": 393,
+            "e_word": "heat",
+            "k_word": "열,열을 가하다",
+            "e_sentence": "When you heat ice it turns to water.",
+            "k_sentence": "얼음을 가열하면 물로 된다."
+          },
+          {
+            "id": 394,
+            "e_word": "heaven",
+            "k_word": "하늘",
+            "e_sentence": "Sounds like a match made in heaven.",
+            "k_sentence": "천생연분 같아요."
+          },
+          {
+            "id": 395,
+            "e_word": "heavy",
+            "k_word": "무거운,엄청난",
+            "e_sentence": "A heavy rain began to fall.",
+            "k_sentence": "폭우가 내리기 시작했다."
+          },
+          {
+            "id": 396,
+            "e_word": "helicopter",
+            "k_word": "헬리콥터",
+            "e_sentence": "A drone is a small remote-control helicopter.",
+            "k_sentence": "드론은 작은 원격 조정의 헬리콥터야."
+          },
+          {
+            "id": 397,
+            "e_word": "hello",
+            "k_word": "안녕",
+            "e_sentence": "I just came by to say hello.",
+            "k_sentence": "그저 안부 인사나 할까 해서 들렸어."
+          },
+          {
+            "id": 398,
+            "e_word": "help",
+            "k_word": "돕다",
+            "e_sentence": "Nobody helped me.",
+            "k_sentence": "아무도 나를 도와주지 않았어요."
+          },
+          {
+            "id": 399,
+            "e_word": "here",
+            "k_word": "여기에",
+            "e_sentence": "It's only a five minute walk from here.",
+            "k_sentence": "여기서 걸어서 5분 거리예요."
+          },
+          {
+            "id": 400,
+            "e_word": "hero",
+            "k_word": "영웅",
+            "e_sentence": "Stay-at-home mothers are nameless heroes.",
+            "k_sentence": "전업주부들은 이름 없는 영웅이다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_id": 3,
+    "parts": [
+      {
+        "part_id": 1,
+        "data": [
+          {
+            "id": 401,
+            "e_word": "high",
+            "k_word": "높은",
+            "e_sentence": "The airplane rose high up into the sky.",
+            "k_sentence": "비행기가 하늘 높이 솟아올랐다."
+          },
+          {
+            "id": 402,
+            "e_word": "hill",
+            "k_word": "언덕",
+            "e_sentence": "We mounted the hill on foot.",
+            "k_sentence": "우리는 걸어서 언덕을 올랐다."
+          },
+          {
+            "id": 403,
+            "e_word": "history",
+            "k_word": "역사",
+            "e_sentence": "The Seokbinggo has a long history.",
+            "k_sentence": "석빙고는 오랜 역사를 가지고 있다."
+          },
+          {
+            "id": 404,
+            "e_word": "hit",
+            "k_word": "치다",
+            "e_sentence": "The ball hit first base and bounced high into the air.",
+            "k_sentence": "공은 1루 베이스를 맞고 높이 튀었다."
+          },
+          {
+            "id": 405,
+            "e_word": "hobby",
+            "k_word": "취미",
+            "e_sentence": "I have no hobby in particular.",
+            "k_sentence": "특별한 취미는 없습니다."
+          },
+          {
+            "id": 406,
+            "e_word": "hold",
+            "k_word": "갖고 있다",
+            "e_sentence": "The stamps hold images of snakes.",
+            "k_sentence": "그 우표는 뱀의 이미지를 담았다."
+          },
+          {
+            "id": 407,
+            "e_word": "holiday",
+            "k_word": "휴일",
+            "e_sentence": "There's nothing to do because tomorrow is a holiday.",
+            "k_sentence": "내일은 휴일이기 때문에 할 일이 없다."
+          },
+          {
+            "id": 408,
+            "e_word": "home",
+            "k_word": "가정",
+            "e_sentence": "Give me a call when you get home.",
+            "k_sentence": "집에 도착하면 전화해."
+          },
+          {
+            "id": 409,
+            "e_word": "homework",
+            "k_word": "숙제",
+            "e_sentence": "There is too much homework again today!",
+            "k_sentence": "오늘도 숙제가 너무 많아."
+          },
+          {
+            "id": 410,
+            "e_word": "honest",
+            "k_word": "정직한",
+            "e_sentence": "There's no such thing as an honest thief.",
+            "k_sentence": "세상에 정직한 도둑 같은 것은 없어."
+          },
+          {
+            "id": 411,
+            "e_word": "honey",
+            "k_word": "꿀",
+            "e_sentence": "Sugar has put down the use of honey.",
+            "k_sentence": "설탕 때문에 꿀의 용도가 줄어들었다."
+          },
+          {
+            "id": 412,
+            "e_word": "hope",
+            "k_word": "희망",
+            "e_sentence": "There was no hope at all.",
+            "k_sentence": "희망이 전혀 없습니다."
+          },
+          {
+            "id": 413,
+            "e_word": "horse",
+            "k_word": "말",
+            "e_sentence": "The boy is enjoying riding a horse.",
+            "k_sentence": "소년이 말 타는 것을 즐기고 있다."
+          },
+          {
+            "id": 414,
+            "e_word": "hospital",
+            "k_word": "병원",
+            "e_sentence": "This is the hospital where I was born.",
+            "k_sentence": "이곳은 제가 태어난 병원입니다."
+          },
+          {
+            "id": 415,
+            "e_word": "hot",
+            "k_word": "뜨거운",
+            "e_sentence": "Summer in Seoul is hot and humid.",
+            "k_sentence": "서울의 여름은 덥고 습하다."
+          },
+          {
+            "id": 416,
+            "e_word": "hour",
+            "k_word": "시간",
+            "e_sentence": "The coffee shop are open 24 hours a day.",
+            "k_sentence": "그 커피숍은 24시간 영업한다."
+          },
+          {
+            "id": 417,
+            "e_word": "house",
+            "k_word": "집",
+            "e_sentence": "The dog house was snowed under.",
+            "k_sentence": "개집이 눈에 묻혔다."
+          },
+          {
+            "id": 418,
+            "e_word": "how",
+            "k_word": "어떻게",
+            "e_sentence": "Sure, I know how to ride the bicycle.",
+            "k_sentence": "물론 나는 자전거 탈 줄 알아."
+          },
+          {
+            "id": 419,
+            "e_word": "however",
+            "k_word": "아무리,그러나",
+            "e_sentence": "The service is, however, not free of charge.",
+            "k_sentence": "그러나 그 서비스는 무료가 아닙니다."
+          },
+          {
+            "id": 420,
+            "e_word": "human",
+            "k_word": "인간의",
+            "e_sentence": "The human life span is limited.",
+            "k_sentence": "인간의 수명은 유한하다."
+          }
+        ]
+      },
+      {
+        "part_id": 2,
+        "data": [
+          {
+            "id": 421,
+            "e_word": "humor",
+            "k_word": "유우머",
+            "e_sentence": "Your sense of humor is seriously lacking.",
+            "k_sentence": "넌 정말 유머감각이 없구나."
+          },
+          {
+            "id": 422,
+            "e_word": "hundred",
+            "k_word": "100",
+            "e_sentence": "I got a hundred on the English test.",
+            "k_sentence": "영어시험에서 100점을 받았습니다."
+          },
+          {
+            "id": 423,
+            "e_word": "hungry",
+            "k_word": "배고픈",
+            "e_sentence": "You must be hungry. Shall we go get some dinner?",
+            "k_sentence": "배고플 텐데 저녁 먹으러 갈래?"
+          },
+          {
+            "id": 424,
+            "e_word": "hunt",
+            "k_word": "사냥하다",
+            "e_sentence": "The ancient people lived by hunting and gathering.",
+            "k_sentence": "원시인들은 수렵과 채집 생활을 했다."
+          },
+          {
+            "id": 425,
+            "e_word": "hurry",
+            "k_word": "서두르다.바쁨",
+            "e_sentence": "Let's hurry so we won't be late.",
+            "k_sentence": "지각하면 안 되니까 서두르자."
+          },
+          {
+            "id": 426,
+            "e_word": "husband",
+            "k_word": "남편",
+            "e_sentence": "The husband's income was insecure.",
+            "k_sentence": "남편의 수입은 확실하지 않다."
+          },
+          {
+            "id": 427,
+            "e_word": "I",
+            "k_word": "나는, 내가",
+            "e_sentence": "I got some work I got to finish.",
+            "k_sentence": "끝내야 할 일이 있어요."
+          },
+          {
+            "id": 428,
+            "e_word": "ice",
+            "k_word": "얼음",
+            "e_sentence": "What's your favorite ice cream?",
+            "k_sentence": "가장 좋아하는 아이스크림이 뭐예요?"
+          },
+          {
+            "id": 429,
+            "e_word": "idea",
+            "k_word": "생각",
+            "e_sentence": "That sounds like a good idea.",
+            "k_sentence": "좋은 생각이군요."
+          },
+          {
+            "id": 430,
+            "e_word": "if",
+            "k_word": "만일 -이라면",
+            "e_sentence": "Stay where you are if you want to stay alive.",
+            "k_sentence": "목숨이 아깝거든 꼼짝 마라."
+          },
+          {
+            "id": 431,
+            "e_word": "important",
+            "k_word": "중요한",
+            "e_sentence": "That last one is very important.",
+            "k_sentence": "마지막 것이 제일 중요한 거야."
+          },
+          {
+            "id": 432,
+            "e_word": "in",
+            "k_word": "-속에",
+            "e_sentence": "When did you first arrive in Korea?",
+            "k_sentence": "한국은 언제 처음으로 오셨습니까?"
+          },
+          {
+            "id": 433,
+            "e_word": "inside",
+            "k_word": "안쪽",
+            "e_sentence": "The key to happiness is inside one's own heart.",
+            "k_sentence": "행복의 열쇠는 자신의 마음속에 있다."
+          },
+          {
+            "id": 434,
+            "e_word": "into",
+            "k_word": "-안으로",
+            "e_sentence": "Television has come into wide use.",
+            "k_sentence": "텔레비전이 널리 보급되었다."
+          },
+          {
+            "id": 435,
+            "e_word": "introduce",
+            "k_word": "안으로 ",
+            "e_sentence": "May I introduce myself?",
+            "k_sentence": "제 소개를 할까요?"
+          },
+          {
+            "id": 436,
+            "e_word": "invite",
+            "k_word": "초대하다",
+            "e_sentence": "How wonderful to be invited to the White House!",
+            "k_sentence": "백악관에 초대받다니 굉장하군."
+          },
+          {
+            "id": 437,
+            "e_word": "it",
+            "k_word": "그것은",
+            "e_sentence": "I'll do it myself.",
+            "k_sentence": "전 그것을 스스로 할 수 있어요."
+          },
+          {
+            "id": 438,
+            "e_word": "jeans",
+            "k_word": "청바지",
+            "e_sentence": "I like to wear worn-out jeans.",
+            "k_sentence": "닳은 청바지 입는 것을 좋아한다."
+          },
+          {
+            "id": 439,
+            "e_word": "job",
+            "k_word": "일",
+            "e_sentence": "Do you have a part time job?",
+            "k_sentence": "아르바이트를 하고 있나요?"
+          },
+          {
+            "id": 440,
+            "e_word": "join",
+            "k_word": "같이하다",
+            "e_sentence": "We should join the cherry blossom festival in Jinhae.",
+            "k_sentence": "우리 진해 군항제에 같이 참여하자."
+          }
+        ]
+      },
+      {
+        "part_id": 3,
+        "data": [
+          {
+            "id": 441,
+            "e_word": "joy",
+            "k_word": "즐거움",
+            "e_sentence": "It stands for “the joy of love.”.",
+            "k_sentence": "그것은 "
+          },
+          {
+            "id": 442,
+            "e_word": "just",
+            "k_word": "이제 막,단지",
+            "e_sentence": "That's just my point.",
+            "k_sentence": "그게 바로 제 말의 요지입니다."
+          },
+          {
+            "id": 443,
+            "e_word": "keep",
+            "k_word": "계속하다",
+            "e_sentence": "Thanks. I'll keep in touch. Bye.",
+            "k_sentence": "고마워. 계속 연락할게. 잘 지내."
+          },
+          {
+            "id": 444,
+            "e_word": "key",
+            "k_word": "열쇠",
+            "e_sentence": "Love is the key to understanding.",
+            "k_sentence": "사랑은 이해의 열쇠입니다."
+          },
+          {
+            "id": 445,
+            "e_word": "kick",
+            "k_word": "걷어차다",
+            "e_sentence": "The football player kicked the ball.",
+            "k_sentence": "축구선수가 공을 찼다."
+          },
+          {
+            "id": 446,
+            "e_word": "kid",
+            "k_word": "아이",
+            "e_sentence": "The kid talks like a grown-up.",
+            "k_sentence": "저 아이는 어른스럽게 말한다."
+          },
+          {
+            "id": 447,
+            "e_word": "kill",
+            "k_word": "죽이다",
+            "e_sentence": "I kill plants all the time.",
+            "k_sentence": "내가 키우는 식물은 항상 죽어."
+          },
+          {
+            "id": 448,
+            "e_word": "kind",
+            "k_word": "친절한",
+            "e_sentence": "He is kind even to strangers.",
+            "k_sentence": "그는 낯선 사람에게도 친절하다."
+          },
+          {
+            "id": 449,
+            "e_word": "king",
+            "k_word": "왕",
+            "e_sentence": "In the country of the blind, the one-eyed man is king.",
+            "k_sentence": "장님의 나라에서는 애꾸눈이 왕이다."
+          },
+          {
+            "id": 450,
+            "e_word": "kitchen",
+            "k_word": "부엌",
+            "e_sentence": "Get out of my kitchen!",
+            "k_sentence": "주방에서 썩 나가시오!"
+          },
+          {
+            "id": 451,
+            "e_word": "knife",
+            "k_word": "나이프",
+            "e_sentence": "You should be careful when you handle a knife.",
+            "k_sentence": "칼을 다룰 때는 조심해야 한다."
+          },
+          {
+            "id": 452,
+            "e_word": "know",
+            "k_word": "알다",
+            "e_sentence": "I don't know the A.B.C. of politics.",
+            "k_sentence": "나는 정치라고는 전혀 모릅니다."
+          },
+          {
+            "id": 453,
+            "e_word": "lady",
+            "k_word": "숙녀",
+            "e_sentence": "It is impolite to ask a lady her age.",
+            "k_sentence": "숙녀에게 나이를 묻는 건 실례다."
+          },
+          {
+            "id": 454,
+            "e_word": "lake",
+            "k_word": "호수",
+            "e_sentence": "There are a lot of beautiful lakes in Chuncheon.",
+            "k_sentence": "춘천에는 아름다운 호수가 많다."
+          },
+          {
+            "id": 455,
+            "e_word": "land",
+            "k_word": "땅",
+            "e_sentence": "The price of land is rising rapidly.",
+            "k_sentence": "땅값이 급등하고 있다."
+          },
+          {
+            "id": 456,
+            "e_word": "large",
+            "k_word": "큰",
+            "e_sentence": "Switzerland has a large number of mountains and lakes.",
+            "k_sentence": "스위스에는 산과 호수가 많습니다."
+          },
+          {
+            "id": 457,
+            "e_word": "last",
+            "k_word": "마지막의",
+            "e_sentence": "When was the last time we just looked at the stars?",
+            "k_sentence": "마지막으로 별을 본 게 언제죠?"
+          },
+          {
+            "id": 458,
+            "e_word": "late",
+            "k_word": "늦은",
+            "e_sentence": "Sorry for being late.",
+            "k_sentence": "늦어서 미안해요."
+          },
+          {
+            "id": 459,
+            "e_word": "lazy",
+            "k_word": "게으른",
+            "e_sentence": "I'm too lazy to go, frankly speaking.",
+            "k_sentence": "솔직히 말해서 나는 너무 게을러요."
+          },
+          {
+            "id": 460,
+            "e_word": "leaf",
+            "k_word": "잎",
+            "e_sentence": "The Canadian flag has a maple leaf on it.",
+            "k_sentence": "캐나다 국기에는 단풍잎이 하나 있다."
+          }
+        ]
+      },
+      {
+        "part_id": 4,
+        "data": [
+          {
+            "id": 461,
+            "e_word": "learn",
+            "k_word": "배우다",
+            "e_sentence": "Teaching is learning.",
+            "k_sentence": "가르치는 것이 곧 배우는 것이다."
+          },
+          {
+            "id": 462,
+            "e_word": "left",
+            "k_word": "왼쪽의",
+            "e_sentence": "The Japanese drive on the left-hand side of the road.",
+            "k_sentence": "일본에서는 차가 길 왼쪽으로 다닌다."
+          },
+          {
+            "id": 463,
+            "e_word": "leg",
+            "k_word": "다리",
+            "e_sentence": "The dog bit him on the leg.",
+            "k_sentence": "그 개는 그의 다리를 물었다."
+          },
+          {
+            "id": 464,
+            "e_word": "lesson",
+            "k_word": "수업",
+            "e_sentence": "I will skip my English lesson today.",
+            "k_sentence": "나는 오늘 영어 수업 빠질 거야."
+          },
+          {
+            "id": 465,
+            "e_word": "letter",
+            "k_word": "편지",
+            "e_sentence": "The letter was short and to the point.",
+            "k_sentence": "그 편지는 짧고 간단명료했다."
+          },
+          {
+            "id": 466,
+            "e_word": "library",
+            "k_word": "도서관",
+            "e_sentence": "The library is always very calm.",
+            "k_sentence": "도서관은 항상 매우 고요하다."
+          },
+          {
+            "id": 467,
+            "e_word": "lie",
+            "k_word": "눕다",
+            "e_sentence": "The dog's master ordered it to lie down.",
+            "k_sentence": "개 주인이 개에게 누우라고 명령했다."
+          },
+          {
+            "id": 468,
+            "e_word": "light",
+            "k_word": "빛",
+            "e_sentence": "Sound travels more slowly than light.",
+            "k_sentence": "소리는 빛보다 더 느리게 이동한다."
+          },
+          {
+            "id": 469,
+            "e_word": "like",
+            "k_word": "좋아하다",
+            "e_sentence": "I liked it better when I was a student.",
+            "k_sentence": "전 학생일 때가 더 좋았어요."
+          },
+          {
+            "id": 470,
+            "e_word": "line",
+            "k_word": "선,줄",
+            "e_sentence": "Don't cut in line.",
+            "k_sentence": "새치기하지 마세요."
+          },
+          {
+            "id": 471,
+            "e_word": "lion",
+            "k_word": "사자",
+            "e_sentence": "The lion belongs to the cat family.",
+            "k_sentence": "사자는 고양이과에 속한다."
+          },
+          {
+            "id": 472,
+            "e_word": "lip",
+            "k_word": "입술",
+            "e_sentence": "I put lipstick on my lips.",
+            "k_sentence": "입술에 립스틱을 발랐다."
+          },
+          {
+            "id": 473,
+            "e_word": "listen",
+            "k_word": "듣다",
+            "e_sentence": "Though I disbelieve, I'll listen.",
+            "k_sentence": "비록 내가 믿지는 않지만, 듣기는 할게."
+          },
+          {
+            "id": 474,
+            "e_word": "little",
+            "k_word": "작은",
+            "e_sentence": "The little mermaid is sitting on the rock.",
+            "k_sentence": "작은 인어가 바위 위에 앉아 있다."
+          },
+          {
+            "id": 475,
+            "e_word": "live",
+            "k_word": "살다",
+            "e_sentence": "Generally speaking, women live longer than men.",
+            "k_sentence": "일반적으로 여자가 남자보다 장수한다."
+          },
+          {
+            "id": 476,
+            "e_word": "livingroom",
+            "k_word": "거실",
+            "e_sentence": "A green carpet was laid in the living room.",
+            "k_sentence": "녹색 카펫이 거실에 깔려 있었다."
+          },
+          {
+            "id": 477,
+            "e_word": "long",
+            "k_word": "긴",
+            "e_sentence": "I'm sorry to have kept you waiting so long.",
+            "k_sentence": "오래 기다리게 해서 미안합니다."
+          },
+          {
+            "id": 478,
+            "e_word": "look",
+            "k_word": "보다",
+            "e_sentence": "You look upset.",
+            "k_sentence": "당신 화나 보여요."
+          },
+          {
+            "id": 479,
+            "e_word": "love",
+            "k_word": "사랑",
+            "e_sentence": "South Koreans have fallen in love with baseball.",
+            "k_sentence": "한국인들이 야구와 사랑에 빠졌다."
+          },
+          {
+            "id": 480,
+            "e_word": "low",
+            "k_word": "낮은",
+            "e_sentence": "South Korea has the lowest birth rate in the world.",
+            "k_sentence": "한국은 세계에서 출산율이 가장 낮다."
+          }
+        ]
+      },
+      {
+        "part_id": 5,
+        "data": [
+          {
+            "id": 481,
+            "e_word": "luck",
+            "k_word": "행운",
+            "e_sentence": "There is no such thing as luck.",
+            "k_sentence": "행운 같은 것은 없어요."
+          },
+          {
+            "id": 482,
+            "e_word": "lunch",
+            "k_word": "점심",
+            "e_sentence": "Unfortunately, there's no such thing as a free lunch.",
+            "k_sentence": "불행히도, 세상에 공짜 점심은 없다."
+          },
+          {
+            "id": 483,
+            "e_word": "mad",
+            "k_word": "미친",
+            "e_sentence": "I'm not afraid of mad cow disease at all.",
+            "k_sentence": "광우병 따위 전혀 무섭지 않아."
+          },
+          {
+            "id": 484,
+            "e_word": "mail",
+            "k_word": "우편물",
+            "e_sentence": "I get dozens of spam mails a day.",
+            "k_sentence": "하루에도 수십 통의 스팸메일을 받는다."
+          },
+          {
+            "id": 485,
+            "e_word": "make",
+            "k_word": "만들다",
+            "e_sentence": "That makes sense!",
+            "k_sentence": "이해가 됩니다."
+          },
+          {
+            "id": 486,
+            "e_word": "man",
+            "k_word": "남자",
+            "e_sentence": "The saddest thing is a man without work.",
+            "k_sentence": "가장 슬픈 것은 일없는 남자이다."
+          },
+          {
+            "id": 487,
+            "e_word": "many",
+            "k_word": "많은",
+            "e_sentence": "Students want to do many things.",
+            "k_sentence": "학생들은 하고 싶은 일이 많다."
+          },
+          {
+            "id": 488,
+            "e_word": "map",
+            "k_word": "지도",
+            "e_sentence": "Can you give me a map of the subway?",
+            "k_sentence": "지하철 안내 지도 한 장 주시겠어요?"
+          },
+          {
+            "id": 489,
+            "e_word": "marry",
+            "k_word": "결혼하다",
+            "e_sentence": "Who did the movie star marry?",
+            "k_sentence": "그 영화배우가 누구와 결혼했죠?"
+          },
+          {
+            "id": 490,
+            "e_word": "mathematics",
+            "k_word": "수학",
+            "e_sentence": "I lost interest in mathematics.",
+            "k_sentence": "나는 수학에 재미를 잃었다."
+          },
+          {
+            "id": 491,
+            "e_word": "may",
+            "k_word": "아마도 ~이다",
+            "e_sentence": "I think he may be late.",
+            "k_sentence": "아마 그가 늦을 것 같습니다."
+          },
+          {
+            "id": 492,
+            "e_word": "meat",
+            "k_word": "고기",
+            "e_sentence": "The meat is a little tough.",
+            "k_sentence": "고기가 조금 질기다."
+          },
+          {
+            "id": 493,
+            "e_word": "meet",
+            "k_word": "-을 만나다",
+            "e_sentence": "I'm pleased to meet you.",
+            "k_sentence": "만나서 반갑습니다."
+          },
+          {
+            "id": 494,
+            "e_word": "memory",
+            "k_word": "기억",
+            "e_sentence": "The memory was out of mind.",
+            "k_sentence": "기억이 사라졌다."
+          },
+          {
+            "id": 495,
+            "e_word": "middle",
+            "k_word": "한복판의",
+            "e_sentence": "I rank in the middle of my class.",
+            "k_sentence": "난 우리 반에서 성적이 중간쯤이다."
+          },
+          {
+            "id": 496,
+            "e_word": "might",
+            "k_word": "아마도 ~이다",
+            "e_sentence": "It might be the free money.",
+            "k_sentence": "그건 아마 꽁돈일 거야."
+          },
+          {
+            "id": 497,
+            "e_word": "milk",
+            "k_word": "우유",
+            "e_sentence": "There is no use crying over split milk.",
+            "k_sentence": "이미 엎질러진 물이다."
+          },
+          {
+            "id": 498,
+            "e_word": "mind",
+            "k_word": "마음",
+            "e_sentence": "The mind makes heaven of hell and hell of heaven.",
+            "k_sentence": "모든 일은 마음먹기에 달렸다."
+          },
+          {
+            "id": 499,
+            "e_word": "mirror",
+            "k_word": "거울",
+            "e_sentence": "The eye is the mirror of the soul.",
+            "k_sentence": "눈은 마음의 거울이다."
+          },
+          {
+            "id": 500,
+            "e_word": "miss",
+            "k_word": "실수하다",
+            "e_sentence": "The ball just missed the goal.",
+            "k_sentence": "공이 골대를 살짝 빗나갔다."
+          }
+        ]
+      },
+      {
+        "part_id": 6,
+        "data": [
+          {
+            "id": 501,
+            "e_word": "money",
+            "k_word": "돈",
+            "e_sentence": "Time is money.",
+            "k_sentence": "시간은 돈이다."
+          },
+          {
+            "id": 502,
+            "e_word": "monkey",
+            "k_word": "원숭이",
+            "e_sentence": "Even monkey falls out of the tree once in a while.",
+            "k_sentence": "원숭이도 나무에서 떨어질 때 있다."
+          },
+          {
+            "id": 503,
+            "e_word": "month",
+            "k_word": "월",
+            "e_sentence": "The first snow came a month earlier than usual.",
+            "k_sentence": "예년보다 한 달 일찍 첫눈이 왔다."
+          },
+          {
+            "id": 504,
+            "e_word": "moon",
+            "k_word": "달",
+            "e_sentence": "There is also no wind on the moon.",
+            "k_sentence": "달에는 바람도 없다."
+          },
+          {
+            "id": 505,
+            "e_word": "morning",
+            "k_word": "아침",
+            "e_sentence": "The morning and evening air has become pretty cold.",
+            "k_sentence": "아침저녁으로 공기가 제법 차가워졌다."
+          },
+          {
+            "id": 506,
+            "e_word": "mother",
+            "k_word": "어머니",
+            "e_sentence": "Venus is called the mother planet.",
+            "k_sentence": "금성은 어머니 행성으로 불린다."
+          },
+          {
+            "id": 507,
+            "e_word": "mountain",
+            "k_word": "산",
+            "e_sentence": "The tiger is a king in mountain.",
+            "k_sentence": "호랑이는 산의 제왕이다."
+          },
+          {
+            "id": 508,
+            "e_word": "mouse",
+            "k_word": "쥐",
+            "e_sentence": "The cat is chasing a mouse.",
+            "k_sentence": "고양이가 쥐를 뒤쫓고 있다."
+          },
+          {
+            "id": 509,
+            "e_word": "mouth",
+            "k_word": "입",
+            "e_sentence": "The bear felt his mouth water.",
+            "k_sentence": "곰은 입에 침이 고이는 것을 느꼈다."
+          },
+          {
+            "id": 510,
+            "e_word": "move",
+            "k_word": "움직이다",
+            "e_sentence": "The baby ants moved around by themselves.",
+            "k_sentence": "아기 개미들은 혼자서 돌아다녔다."
+          },
+          {
+            "id": 511,
+            "e_word": "movie",
+            "k_word": "영화",
+            "e_sentence": "Teenagers under 19 cannot see that movie.",
+            "k_sentence": "그 영화는 미성년자 관람불가다."
+          },
+          {
+            "id": 512,
+            "e_word": "much",
+            "k_word": "많은",
+            "e_sentence": "Thank you very much for your kindness.",
+            "k_sentence": "당신의 친절에 감사합니다."
+          },
+          {
+            "id": 513,
+            "e_word": "museum",
+            "k_word": "박물관",
+            "e_sentence": "The museum is closed on Mondays.",
+            "k_sentence": "박물관이 월요일에는 문을 안 연다."
+          },
+          {
+            "id": 514,
+            "e_word": "music",
+            "k_word": "음악",
+            "e_sentence": "The birds make music all the day.",
+            "k_sentence": "새는 종일 음악을 연주한다."
+          },
+          {
+            "id": 515,
+            "e_word": "must",
+            "k_word": "-해야 한다",
+            "e_sentence": "Spring must be just around the corner.",
+            "k_sentence": "봄이 다가올 것이다."
+          },
+          {
+            "id": 516,
+            "e_word": "name",
+            "k_word": "이름",
+            "e_sentence": "Sorry, but I didn't catch the name.",
+            "k_sentence": "실례지만, 성함을 못 알아들었어요."
+          },
+          {
+            "id": 517,
+            "e_word": "nation",
+            "k_word": "국가",
+            "e_sentence": "We are a nation of laws.",
+            "k_sentence": "우리는 법치국가입니다."
+          },
+          {
+            "id": 518,
+            "e_word": "nature",
+            "k_word": "자연",
+            "e_sentence": "The snow acts as nature's blanket.",
+            "k_sentence": "눈은 자연의 이불 역할을 한다."
+          },
+          {
+            "id": 519,
+            "e_word": "near",
+            "k_word": "근처의",
+            "e_sentence": "The end of the year is near at hand.",
+            "k_sentence": "연말이 가까워지고 있다."
+          },
+          {
+            "id": 520,
+            "e_word": "neck",
+            "k_word": "목",
+            "e_sentence": "Vampire bites human's neck at night.",
+            "k_sentence": "뱀파이어는 밤에 사람의 목을 문다."
+          }
+        ]
+      },
+      {
+        "part_id": 7,
+        "data": [
+          {
+            "id": 521,
+            "e_word": "need",
+            "k_word": "필요하다",
+            "e_sentence": "Do you need any help?",
+            "k_sentence": "도움이 필요하신가요?"
+          },
+          {
+            "id": 522,
+            "e_word": "never",
+            "k_word": "결코 -아니다",
+            "e_sentence": "Then you will never find the answer.",
+            "k_sentence": "그러면 절대로 해답을 찾을 수 없다."
+          },
+          {
+            "id": 523,
+            "e_word": "new",
+            "k_word": "새로운",
+            "e_sentence": "The new car finally hit the market.",
+            "k_sentence": "신차가 마침내 출시되었다."
+          },
+          {
+            "id": 524,
+            "e_word": "newspaper",
+            "k_word": "신문",
+            "e_sentence": "He can read English-language newspaper.",
+            "k_sentence": "그는 영어 신문을 읽을 수 있다."
+          },
+          {
+            "id": 525,
+            "e_word": "next",
+            "k_word": "다음의",
+            "e_sentence": "The airport is the next stop.",
+            "k_sentence": "다음 하차할 곳이 공항입니다."
+          },
+          {
+            "id": 526,
+            "e_word": "nice",
+            "k_word": "좋은",
+            "e_sentence": "Thanks. Have a nice day.",
+            "k_sentence": "감사합니다. 좋은 하루 보내세요."
+          },
+          {
+            "id": 527,
+            "e_word": "night",
+            "k_word": "밤",
+            "e_sentence": "Thank you for coming. Good night.",
+            "k_sentence": "와 주셔서 고마워요. 편히 주무세요."
+          },
+          {
+            "id": 528,
+            "e_word": "no",
+            "k_word": "하나도 없는",
+            "e_sentence": "This is no time for chatting.",
+            "k_sentence": "지금은 잡담 시간이 아닙니다."
+          },
+          {
+            "id": 529,
+            "e_word": "noon",
+            "k_word": "정오",
+            "e_sentence": "The train gets in at noon.",
+            "k_sentence": "기차는 정오에 도착한다."
+          },
+          {
+            "id": 530,
+            "e_word": "north",
+            "k_word": "북",
+            "e_sentence": "The north wind is blowing.",
+            "k_sentence": "북풍이 불고 있다."
+          },
+          {
+            "id": 531,
+            "e_word": "nose",
+            "k_word": "코",
+            "e_sentence": "What a long nose the elephant has!",
+            "k_sentence": "코끼리는 참 긴 코를 가지고 있구나!"
+          },
+          {
+            "id": 532,
+            "e_word": "not",
+            "k_word": "아니다",
+            "e_sentence": "I'm sorry he is not here.",
+            "k_sentence": "지금 안 계십니다."
+          },
+          {
+            "id": 533,
+            "e_word": "note",
+            "k_word": "공책",
+            "e_sentence": "Take out your note for a dictation.",
+            "k_sentence": "받아쓰기를 하게 노트를 꺼내세요."
+          },
+          {
+            "id": 534,
+            "e_word": "nothing",
+            "k_word": "아무것도 …없다",
+            "e_sentence": "We have nothing in common.",
+            "k_sentence": "우리에게는 공통점이 없어요."
+          },
+          {
+            "id": 535,
+            "e_word": "now",
+            "k_word": "지금",
+            "e_sentence": "Are you free now ?",
+            "k_sentence": "지금 시간 있으세요?"
+          },
+          {
+            "id": 536,
+            "e_word": "number",
+            "k_word": "숫자",
+            "e_sentence": "The number of elderly people is growing.",
+            "k_sentence": "노인들의 수가 증가하고 있다."
+          },
+          {
+            "id": 537,
+            "e_word": "nurse",
+            "k_word": "간호사",
+            "e_sentence": "The nurse stuck a needle in my arm.",
+            "k_sentence": "간호사가 내 팔에 주삿바늘을 꽂았다."
+          },
+          {
+            "id": 538,
+            "e_word": "ocean",
+            "k_word": "바다",
+            "e_sentence": "The boat is in the ocean.",
+            "k_sentence": "배가 바다 한 가운데에 떠 있다."
+          },
+          {
+            "id": 539,
+            "e_word": "of",
+            "k_word": "~의",
+            "e_sentence": "It's nice of you to say so.",
+            "k_sentence": "그렇게 말씀해 주시니 감사합니다."
+          },
+          {
+            "id": 540,
+            "e_word": "off",
+            "k_word": "떨어져",
+            "e_sentence": "This is off limits.",
+            "k_sentence": "이곳은 출입금지 지역입니다."
+          }
+        ]
+      },
+      {
+        "part_id": 8,
+        "data": [
+          {
+            "id": 541,
+            "e_word": "office",
+            "k_word": "사무실",
+            "e_sentence": "Where is the ticket office?",
+            "k_sentence": "매표소가 어디 있습니까?"
+          },
+          {
+            "id": 542,
+            "e_word": "often",
+            "k_word": "자주",
+            "e_sentence": "How often is there a flight to New York?",
+            "k_sentence": "뉴욕행 비행기는 얼마나 자주 있나요?"
+          },
+          {
+            "id": 543,
+            "e_word": "oil",
+            "k_word": "기름",
+            "e_sentence": "The cost of oil is less than that of coal.",
+            "k_sentence": "석유값은 석탄값보다 싸다."
+          },
+          {
+            "id": 544,
+            "e_word": "old",
+            "k_word": "늙은",
+            "e_sentence": "This is good exercise for the old.",
+            "k_sentence": "이건 노인들에게 좋은 운동입니다."
+          },
+          {
+            "id": 545,
+            "e_word": "on",
+            "k_word": "위에",
+            "e_sentence": "I'm on a diet.",
+            "k_sentence": "지금 다이어트 중이에요."
+          },
+          {
+            "id": 546,
+            "e_word": "one",
+            "k_word": "하나",
+            "e_sentence": "Can I just make one telephone call?",
+            "k_sentence": "전화 한 통화 할 수 있을까요?"
+          },
+          {
+            "id": 547,
+            "e_word": "only",
+            "k_word": "유일한",
+            "e_sentence": "You are the only friend I have.",
+            "k_sentence": "당신이 저의 유일한 친구입니다."
+          },
+          {
+            "id": 548,
+            "e_word": "open",
+            "k_word": "열다",
+            "e_sentence": "We're open twenty four hours a day.",
+            "k_sentence": "하루 24시간 엽니다."
+          },
+          {
+            "id": 549,
+            "e_word": "or",
+            "k_word": "혹은",
+            "e_sentence": "It's life or death.",
+            "k_sentence": "생사가 달린 문제입니다."
+          },
+          {
+            "id": 550,
+            "e_word": "out",
+            "k_word": "밖으로",
+            "e_sentence": "You are out of your mind.",
+            "k_sentence": "당신 제 정신이 아니군요."
+          },
+          {
+            "id": 551,
+            "e_word": "over",
+            "k_word": "위쪽,끝난",
+            "e_sentence": "That's it. It's all over.",
+            "k_sentence": "됐어요. 이제 다 끝났어요."
+          },
+          {
+            "id": 552,
+            "e_word": "paint",
+            "k_word": "도료,색칠하다",
+            "e_sentence": "The door was painted dark gray.",
+            "k_sentence": "문은 어두운 회색으로 칠해졌다."
+          },
+          {
+            "id": 553,
+            "e_word": "palace",
+            "k_word": "궁전",
+            "e_sentence": "The old royal palaces are beautiful in the autumn.",
+            "k_sentence": "가을의 고궁은 아름답다."
+          },
+          {
+            "id": 554,
+            "e_word": "pants",
+            "k_word": "바지",
+            "e_sentence": "These pants are too tight on me.",
+            "k_sentence": "이 바지는 나에게 너무 작다."
+          },
+          {
+            "id": 555,
+            "e_word": "paper",
+            "k_word": "종이",
+            "e_sentence": "The copier has a paper jam.",
+            "k_sentence": "복사기에 종이가 걸렸어요."
+          },
+          {
+            "id": 556,
+            "e_word": "parent",
+            "k_word": "부모",
+            "e_sentence": "The pupils' parents are on the first-class school kick.",
+            "k_sentence": "학부모들은 일류병에 걸려 있다."
+          },
+          {
+            "id": 557,
+            "e_word": "park",
+            "k_word": "공원",
+            "e_sentence": "The amusement park has a zoo.",
+            "k_sentence": "그 놀이공원에는 동물원이 있다."
+          },
+          {
+            "id": 558,
+            "e_word": "part",
+            "k_word": "부분",
+            "e_sentence": "Death is just a part of life.",
+            "k_sentence": "죽음은 인생의 일부일 뿐입니다."
+          },
+          {
+            "id": 559,
+            "e_word": "pass",
+            "k_word": "지나가다",
+            "e_sentence": "His time is passed.",
+            "k_sentence": "그의 전성기는 지나갔습니다."
+          },
+          {
+            "id": 560,
+            "e_word": "pay",
+            "k_word": "지불하다",
+            "e_sentence": "That's why we pay you.",
+            "k_sentence": "그래서 월급을 주는 거죠."
+          }
+        ]
+      },
+      {
+        "part_id": 9,
+        "data": [
+          {
+            "id": 561,
+            "e_word": "peace",
+            "k_word": "평화",
+            "e_sentence": "This peace is still ahead of us.",
+            "k_sentence": "우리에게 평화는 아직 오지 않았다."
+          },
+          {
+            "id": 562,
+            "e_word": "pear",
+            "k_word": "배",
+            "e_sentence": "He ate as many as four pears.",
+            "k_sentence": "그는 배를 4개나 먹었다."
+          },
+          {
+            "id": 563,
+            "e_word": "pencil",
+            "k_word": "연필",
+            "e_sentence": "Write your name with a pencil.",
+            "k_sentence": "연필로 당신의 이름을 쓰세요."
+          },
+          {
+            "id": 564,
+            "e_word": "people",
+            "k_word": "사람들",
+            "e_sentence": "Successful people are action-oriented.",
+            "k_sentence": "성공적인 사람들은 행동 지향적입니다."
+          },
+          {
+            "id": 565,
+            "e_word": "pick",
+            "k_word": "줍다,고르다",
+            "e_sentence": "The bird picked at the bread.",
+            "k_sentence": "새가 빵을 쪼아 먹었다."
+          },
+          {
+            "id": 566,
+            "e_word": "picnic",
+            "k_word": "소풍",
+            "e_sentence": "Spring is a good time to go on a picnic.",
+            "k_sentence": "봄은 소풍 가기 좋은 때 입니다."
+          },
+          {
+            "id": 567,
+            "e_word": "picture",
+            "k_word": "그림",
+            "e_sentence": "Take a look of the whole picture.",
+            "k_sentence": "전체적인 그림을 보도록 하라."
+          },
+          {
+            "id": 568,
+            "e_word": "pig",
+            "k_word": "돼지",
+            "e_sentence": "We have a lot of pigs.",
+            "k_sentence": "우리는 돼지를 많이 키워요."
+          },
+          {
+            "id": 569,
+            "e_word": "pink",
+            "k_word": "연분홍색",
+            "e_sentence": "I don't look good in pink.",
+            "k_sentence": "나는 분홍색이 안 어울린다."
+          },
+          {
+            "id": 570,
+            "e_word": "place",
+            "k_word": "장소",
+            "e_sentence": "There are times and places with things.",
+            "k_sentence": "다 때와 장소가 있는 법입니다."
+          },
+          {
+            "id": 571,
+            "e_word": "plan",
+            "k_word": "계획",
+            "e_sentence": "What's your plan for summer vacation?",
+            "k_sentence": "여름 방학에 뭘 할 계획이에요?"
+          },
+          {
+            "id": 572,
+            "e_word": "play",
+            "k_word": "놀다",
+            "e_sentence": "This is not the time to play games!",
+            "k_sentence": "지금은 장난 칠 때가 아니에요!"
+          },
+          {
+            "id": 573,
+            "e_word": "please",
+            "k_word": "제발 부탁합니다",
+            "e_sentence": "Call me back, please.",
+            "k_sentence": "제게 전화 좀 부탁드립니다."
+          },
+          {
+            "id": 574,
+            "e_word": "P.M.",
+            "k_word": "오후",
+            "e_sentence": "I was dozing off at 2:00 P.M.",
+            "k_sentence": "나는 오후 2시에 졸고 있었다."
+          },
+          {
+            "id": 575,
+            "e_word": "pocket",
+            "k_word": "포켓",
+            "e_sentence": "A pickpocket picked my pocket.",
+            "k_sentence": "소매치기가 주머니를 털었다."
+          },
+          {
+            "id": 576,
+            "e_word": "point",
+            "k_word": "점",
+            "e_sentence": "That's a good point.",
+            "k_sentence": "그것은 좋은 지적입니다."
+          },
+          {
+            "id": 577,
+            "e_word": "police",
+            "k_word": "경찰, 경비하다",
+            "e_sentence": "The police are after the murderer.",
+            "k_sentence": "경찰이 그 살인범을 쫓고 있다."
+          },
+          {
+            "id": 578,
+            "e_word": "poor",
+            "k_word": "가난한",
+            "e_sentence": "The animals looked poor.",
+            "k_sentence": "동물들이 불쌍해 보였다."
+          },
+          {
+            "id": 579,
+            "e_word": "potato",
+            "k_word": "감자",
+            "e_sentence": "I am a big-time fan of potatoes.",
+            "k_sentence": "저는 감자를 매우 좋아합니다."
+          },
+          {
+            "id": 580,
+            "e_word": "power",
+            "k_word": "힘",
+            "e_sentence": "That's the power of the media.",
+            "k_sentence": "그게 미디어의 힘이다."
+          }
+        ]
+      },
+      {
+        "part_id": 10,
+        "data": [
+          {
+            "id": 581,
+            "e_word": "present",
+            "k_word": "현재",
+            "e_sentence": "But history is one thing, the present is another.",
+            "k_sentence": "하지만 역사와 현재는 다른 것이다."
+          },
+          {
+            "id": 582,
+            "e_word": "pretty",
+            "k_word": "예쁜",
+            "e_sentence": "Thanks for the pretty flowers.",
+            "k_sentence": "예쁜 꽃을 주셔서 고마워요."
+          },
+          {
+            "id": 583,
+            "e_word": "prince",
+            "k_word": "왕자",
+            "e_sentence": "He was the prince living in a small planet.",
+            "k_sentence": "그는 작은 행성에 사는 왕자였습니다."
+          },
+          {
+            "id": 584,
+            "e_word": "print",
+            "k_word": "인쇄하다, 프린트하다",
+            "e_sentence": "You cannot print this document.",
+            "k_sentence": "이 문서를 인쇄할 수 없습니다."
+          },
+          {
+            "id": 585,
+            "e_word": "prize",
+            "k_word": "상",
+            "e_sentence": "Who won the Nobel prize in literature this year?",
+            "k_sentence": "올해 노벨 문학상은 누가 탔어?"
+          },
+          {
+            "id": 586,
+            "e_word": "problem",
+            "k_word": "문제",
+            "e_sentence": "The cash gifts are a problem on Teachers' Day.",
+            "k_sentence": "현금 선물은 스승의 날의 문제이다."
+          },
+          {
+            "id": 587,
+            "e_word": "puppy",
+            "k_word": "강아지",
+            "e_sentence": "The old man and the puppy became friends.",
+            "k_sentence": "노인과 강아지는 곧 친해졌다."
+          },
+          {
+            "id": 588,
+            "e_word": "push",
+            "k_word": "밀다",
+            "e_sentence": "Stop pushing and wait your turn.",
+            "k_sentence": "밀지 말고 차례를 기다리시오."
+          },
+          {
+            "id": 589,
+            "e_word": "put",
+            "k_word": "놓다, 두다",
+            "e_sentence": "Please put your hand baggage under your seat.",
+            "k_sentence": "손님의 짐을 의자 밑에 놓아주세요."
+          },
+          {
+            "id": 590,
+            "e_word": "puzzle",
+            "k_word": "퍼즐",
+            "e_sentence": "I don't want to do a puzzle.",
+            "k_sentence": "나는 퍼즐을 하고 싶지 않다."
+          },
+          {
+            "id": 591,
+            "e_word": "queen",
+            "k_word": "여왕",
+            "e_sentence": "The queen wanted to kill Snow White.",
+            "k_sentence": "왕비는 백설공주를 해치고 싶었다."
+          },
+          {
+            "id": 592,
+            "e_word": "question",
+            "k_word": "질문",
+            "e_sentence": "Mind if I ask you a question?",
+            "k_sentence": "질문 하나 해도 될까요?"
+          },
+          {
+            "id": 593,
+            "e_word": "quick",
+            "k_word": "빠른",
+            "e_sentence": "We are quick to make judgment of others.",
+            "k_sentence": "우리는 남을 비판하는데 빠르다."
+          },
+          {
+            "id": 594,
+            "e_word": "quiet",
+            "k_word": "조용한",
+            "e_sentence": "The market is quiet because it's still early.",
+            "k_sentence": "아직 이른 시간이라 시장이 한산하다."
+          },
+          {
+            "id": 595,
+            "e_word": "rabbit",
+            "k_word": "토끼",
+            "e_sentence": "The rabbits are running a race.",
+            "k_sentence": "토끼들이 경주하고 있다."
+          },
+          {
+            "id": 596,
+            "e_word": "race",
+            "k_word": "경주",
+            "e_sentence": "The turtle had won the race.",
+            "k_sentence": "그 거북이가 경주에서 이겼다."
+          },
+          {
+            "id": 597,
+            "e_word": "rain",
+            "k_word": "비",
+            "e_sentence": "The heavy rain is a cause of a flood.",
+            "k_sentence": "심한 비는 홍수의 원인이다."
+          },
+          {
+            "id": 598,
+            "e_word": "rainbow",
+            "k_word": "무지개",
+            "e_sentence": "Unfortunately, the rainbow was too small.",
+            "k_sentence": "불행히도, 무지개가 너무 작았다."
+          },
+          {
+            "id": 599,
+            "e_word": "read",
+            "k_word": "읽다",
+            "e_sentence": "Then, read the following dialogue.",
+            "k_sentence": "그리고 다음 대화를 읽으시오."
+          },
+          {
+            "id": 600,
+            "e_word": "ready",
+            "k_word": "준비된",
+            "e_sentence": "That's right. Are they ready?",
+            "k_sentence": "맞습니다. 다 되었나요?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter_id": 4,
+    "parts": [
+      {
+        "part_id": 1,
+        "data": [
+          {
+            "id": 601,
+            "e_word": "red",
+            "k_word": "붉은",
+            "e_sentence": "Stop. The light is red.",
+            "k_sentence": "멈춰요. 빨간 불이에요."
+          },
+          {
+            "id": 602,
+            "e_word": "remember",
+            "k_word": "기억하다",
+            "e_sentence": "Sorry for not remembering your birthday.",
+            "k_sentence": "네 생일을 기억하지 못해서 미안해."
+          },
+          {
+            "id": 603,
+            "e_word": "restaurant",
+            "k_word": "식당",
+            "e_sentence": "That's right. It's a Chinese restaurant.",
+            "k_sentence": "맞아요. 중국 식당이에요."
+          },
+          {
+            "id": 604,
+            "e_word": "restroom",
+            "k_word": "화장실",
+            "e_sentence": "Where is the restroom?",
+            "k_sentence": "화장실이 어디죠?"
+          },
+          {
+            "id": 605,
+            "e_word": "return",
+            "k_word": "돌아가다",
+            "e_sentence": "When do you plan to return to your home country?",
+            "k_sentence": "고국에 언제 돌아가실 계획입니까?"
+          },
+          {
+            "id": 606,
+            "e_word": "rich",
+            "k_word": "부유한",
+            "e_sentence": "The country is rich in natural resources.",
+            "k_sentence": "그 나라는 천연자원이 풍부하다."
+          },
+          {
+            "id": 607,
+            "e_word": "right",
+            "k_word": "올바른",
+            "e_sentence": "You will come up with the right English.",
+            "k_sentence": "당신은 바른 영어를 할 수 있게 될 겁니다."
+          },
+          {
+            "id": 608,
+            "e_word": "ring",
+            "k_word": "반지",
+            "e_sentence": "That your wedding ring was missing?",
+            "k_sentence": "결혼반지를 잃어버렸다고?"
+          },
+          {
+            "id": 609,
+            "e_word": "river",
+            "k_word": "강",
+            "e_sentence": "The kangaroo is jumping across the river.",
+            "k_sentence": "캥거루가 강을 폴짝 뛰어 넘고 있다."
+          },
+          {
+            "id": 610,
+            "e_word": "road",
+            "k_word": "길",
+            "e_sentence": "The road was blocked because of an accident.",
+            "k_sentence": "교통사고로 도로가 막혔다."
+          },
+          {
+            "id": 611,
+            "e_word": "rock",
+            "k_word": "바위",
+            "e_sentence": "The bicycle is among the rocks.",
+            "k_sentence": "자전거가 바위들 사이에 있다."
+          },
+          {
+            "id": 612,
+            "e_word": "roof",
+            "k_word": "지붕",
+            "e_sentence": "The ball flew over the roof.",
+            "k_sentence": "공이 지붕 너머로 날아갔다."
+          },
+          {
+            "id": 613,
+            "e_word": "room",
+            "k_word": "방",
+            "e_sentence": "Do you have a room with an ocean view?",
+            "k_sentence": "바다가 보이는 방이 있나요?"
+          },
+          {
+            "id": 614,
+            "e_word": "run",
+            "k_word": "달리다",
+            "e_sentence": "You can't run away from me.",
+            "k_sentence": "당신이 내게서 도망갈 수 없어요."
+          },
+          {
+            "id": 615,
+            "e_word": "sad",
+            "k_word": "슬픈",
+            "e_sentence": "That may be sad, but it is probably true.",
+            "k_sentence": "슬프지만, 사실일지도 모른다."
+          },
+          {
+            "id": 616,
+            "e_word": "safe",
+            "k_word": "안전한",
+            "e_sentence": "It's safe to changed the lock.",
+            "k_sentence": "열쇠를 바꾸는 게 안전합니다."
+          },
+          {
+            "id": 617,
+            "e_word": "sale",
+            "k_word": "판매",
+            "e_sentence": "The latest model is on sale now.",
+            "k_sentence": "최신 모델이 지금 판매되고 있다."
+          },
+          {
+            "id": 618,
+            "e_word": "salt",
+            "k_word": "소금",
+            "e_sentence": "I put in salt instead of sugar.",
+            "k_sentence": "설탕 대신 소금을 넣었어요."
+          },
+          {
+            "id": 619,
+            "e_word": "same",
+            "k_word": "같은",
+            "e_sentence": "We are in the same boat.",
+            "k_sentence": "우리는 같은 운명이에요."
+          },
+          {
+            "id": 620,
+            "e_word": "sand",
+            "k_word": "모래",
+            "e_sentence": "The beach is covered with fine sand.",
+            "k_sentence": "해변은 고운 모래로 덮여 있다."
+          }
+        ]
+      },
+      {
+        "part_id": 2,
+        "data": [
+          {
+            "id": 621,
+            "e_word": "save",
+            "k_word": "구하다",
+            "e_sentence": "Thanks. You saved my life.",
+            "k_sentence": "감사합니다. 당신이 저를 구했어요."
+          },
+          {
+            "id": 622,
+            "e_word": "say",
+            "k_word": "말하다",
+            "e_sentence": "You keep on saying the same thing.",
+            "k_sentence": "똑같은 말만 해대는군요."
+          },
+          {
+            "id": 623,
+            "e_word": "school",
+            "k_word": "학교",
+            "e_sentence": "Students come to school to learn.",
+            "k_sentence": "학생들은 배우기 위해 학교에 옵니다."
+          },
+          {
+            "id": 624,
+            "e_word": "science",
+            "k_word": "과학",
+            "e_sentence": "We never know how far science can go.",
+            "k_sentence": "과학은 발전을 거듭하고 있습니다."
+          },
+          {
+            "id": 625,
+            "e_word": "scissors",
+            "k_word": "가위",
+            "e_sentence": "The paper is being cut with a pair of scissors.",
+            "k_sentence": "가위로 종이를 자르고 있다."
+          },
+          {
+            "id": 626,
+            "e_word": "score",
+            "k_word": "점수",
+            "e_sentence": "The score is 4 to 2 in favor of the Dodgers.",
+            "k_sentence": "4:2로 다저스가 이기고 있다."
+          },
+          {
+            "id": 627,
+            "e_word": "sea",
+            "k_word": "바다",
+            "e_sentence": "The sea was as smooth as glass.",
+            "k_sentence": "해면은 거울과 같았다."
+          },
+          {
+            "id": 628,
+            "e_word": "season",
+            "k_word": "계절",
+            "e_sentence": "Spring is the best season for fishing.",
+            "k_sentence": "봄은 낚시하기에 가장 좋은 계절이다."
+          },
+          {
+            "id": 629,
+            "e_word": "see",
+            "k_word": "보다",
+            "e_sentence": "It's good to see you again.",
+            "k_sentence": "다시 만나서 반갑습니다."
+          },
+          {
+            "id": 630,
+            "e_word": "sell",
+            "k_word": "팔다",
+            "e_sentence": "They sell everything at convenience stores.",
+            "k_sentence": "편의점에서는 뭐든 판매합니다."
+          },
+          {
+            "id": 631,
+            "e_word": "send",
+            "k_word": "보내다",
+            "e_sentence": "Thank you so much for sending me snacks!",
+            "k_sentence": "간식을 보내줘서 정말 고마워!"
+          },
+          {
+            "id": 632,
+            "e_word": "she",
+            "k_word": "그녀",
+            "e_sentence": "I hope she'll be very happy.",
+            "k_sentence": "전 그녀가 매우 행복하길 바래요."
+          },
+          {
+            "id": 633,
+            "e_word": "ship",
+            "k_word": "배",
+            "e_sentence": "I get sick riding in a ship.",
+            "k_sentence": "배를 타면 멀미를 해요."
+          },
+          {
+            "id": 634,
+            "e_word": "shock",
+            "k_word": "충격",
+            "e_sentence": "The news is a shock to us.",
+            "k_sentence": "그 소식은 우리에게 충격적인 것이다."
+          },
+          {
+            "id": 635,
+            "e_word": "shoe",
+            "k_word": "구두",
+            "e_sentence": "The dog is wearing shoes, right?",
+            "k_sentence": "개가 신발을 신고 있어요, 그렇죠?"
+          },
+          {
+            "id": 636,
+            "e_word": "shop",
+            "k_word": "상점",
+            "e_sentence": "The coffee shop opens at 7:30 in the morning.",
+            "k_sentence": "커피숍은 아침 7:30에 연다."
+          },
+          {
+            "id": 637,
+            "e_word": "short",
+            "k_word": "짧은",
+            "e_sentence": "That dog has a short tail.",
+            "k_sentence": "그 개는 짧은 꼬리를 가지고 있다."
+          },
+          {
+            "id": 638,
+            "e_word": "should",
+            "k_word": "해야한다",
+            "e_sentence": "What do you think I should do?",
+            "k_sentence": "내가 어떻게 하는 게 좋겠어요?"
+          },
+          {
+            "id": 639,
+            "e_word": "show",
+            "k_word": "보이다",
+            "e_sentence": "I want to show you something.",
+            "k_sentence": "보여줄 게 있어요."
+          },
+          {
+            "id": 640,
+            "e_word": "shy",
+            "k_word": "수줍은",
+            "e_sentence": "The panda is a shy creature.",
+            "k_sentence": "판다는 겁이 많은 동물이다."
+          }
+        ]
+      },
+      {
+        "part_id": 3,
+        "data": [
+          {
+            "id": 641,
+            "e_word": "sick",
+            "k_word": "병난",
+            "e_sentence": "The sick man lay in bed.",
+            "k_sentence": "환자는 침대에 누워 있었다."
+          },
+          {
+            "id": 642,
+            "e_word": "side",
+            "k_word": "쪽",
+            "e_sentence": "Which side are you on?",
+            "k_sentence": "당신은 어느 편입니까?"
+          },
+          {
+            "id": 643,
+            "e_word": "sing",
+            "k_word": "노래하다",
+            "e_sentence": "Let's sing along to the music.",
+            "k_sentence": "음악에 맞춰 다 함께 노래합시다."
+          },
+          {
+            "id": 644,
+            "e_word": "sister",
+            "k_word": "자매",
+            "e_sentence": "They are brother and sister.",
+            "k_sentence": "그들은 친남매 간이다."
+          },
+          {
+            "id": 645,
+            "e_word": "sit",
+            "k_word": "앉다",
+            "e_sentence": "The patient sit up in bed.",
+            "k_sentence": "병자가 병상에 앉았다."
+          },
+          {
+            "id": 646,
+            "e_word": "size",
+            "k_word": "크기",
+            "e_sentence": "That's about the size of a piece of A4 paper!",
+            "k_sentence": "A4용지 한 장 크기네요!"
+          },
+          {
+            "id": 647,
+            "e_word": "skin",
+            "k_word": "피부",
+            "e_sentence": "The snake cast off its skin.",
+            "k_sentence": "뱀이 허물을 벗었다."
+          },
+          {
+            "id": 648,
+            "e_word": "skirt",
+            "k_word": "치마",
+            "e_sentence": "Long skirts are in fashion now.",
+            "k_sentence": "요즈음은 긴 치마가 유행이다."
+          },
+          {
+            "id": 649,
+            "e_word": "sky",
+            "k_word": "하늘",
+            "e_sentence": "Stars were twinkling in the sky.",
+            "k_sentence": "하늘에는 별이 초롱초롱했다."
+          },
+          {
+            "id": 650,
+            "e_word": "sleep",
+            "k_word": "잠,잠자다",
+            "e_sentence": "Sound sleep is essential for good health.",
+            "k_sentence": "숙면은 건강에 아주 중요하다."
+          },
+          {
+            "id": 651,
+            "e_word": "slow",
+            "k_word": "느린",
+            "e_sentence": "The clock in our house is always ten minutes slow.",
+            "k_sentence": "우리 집 시계는 항상 10분 늦다."
+          },
+          {
+            "id": 652,
+            "e_word": "small",
+            "k_word": "작은 ",
+            "e_sentence": "The airplane landed on a small island.",
+            "k_sentence": "비행기는 작은 섬에 착륙했다."
+          },
+          {
+            "id": 653,
+            "e_word": "smart",
+            "k_word": "재치있는",
+            "e_sentence": "The dog is smart and quick in action.",
+            "k_sentence": "그 개는 똑똑하고 행동이 빠릅니다."
+          },
+          {
+            "id": 654,
+            "e_word": "smell",
+            "k_word": "냄새맡다",
+            "e_sentence": "The flower smells good.",
+            "k_sentence": "이 꽃은 향기가 좋다."
+          },
+          {
+            "id": 655,
+            "e_word": "smile",
+            "k_word": "미소",
+            "e_sentence": "He answered me with a smile.",
+            "k_sentence": "그는 내게 미소로 답을 했다."
+          },
+          {
+            "id": 656,
+            "e_word": "snow",
+            "k_word": "눈",
+            "e_sentence": "That mountain covered with snow is Mountain Halla.",
+            "k_sentence": "저 눈 덮인 산은 한라산이다."
+          },
+          {
+            "id": 657,
+            "e_word": "so",
+            "k_word": "그와 같이",
+            "e_sentence": "Just so so.",
+            "k_sentence": "그냥 그래."
+          },
+          {
+            "id": 658,
+            "e_word": "soccer",
+            "k_word": "축구",
+            "e_sentence": "The Korean soccer team made it to the finals.",
+            "k_sentence": "한국 축구팀이 결승에 진출했다."
+          },
+          {
+            "id": 659,
+            "e_word": "sock",
+            "k_word": "짧은 양말",
+            "e_sentence": "The socks have holes in them.",
+            "k_sentence": "양말에 구멍이 났다."
+          },
+          {
+            "id": 660,
+            "e_word": "soft",
+            "k_word": "부드러운",
+            "e_sentence": "The mattress is so soft.",
+            "k_sentence": "이 매트리스는 매우 아늑해요."
+          }
+        ]
+      },
+      {
+        "part_id": 4,
+        "data": [
+          {
+            "id": 661,
+            "e_word": "some",
+            "k_word": "조금",
+            "e_sentence": "We are expecting some rain.",
+            "k_sentence": "비가 조금 올 것으로 예상됩니다."
+          },
+          {
+            "id": 662,
+            "e_word": "son",
+            "k_word": "아들",
+            "e_sentence": "Their son was painfully shy.",
+            "k_sentence": "그들의 아들은 극도로 소심했다."
+          },
+          {
+            "id": 663,
+            "e_word": "song",
+            "k_word": "노래",
+            "e_sentence": "That song is popular these days.",
+            "k_sentence": "요즘 그 노래가 유행이다."
+          },
+          {
+            "id": 664,
+            "e_word": "sorry",
+            "k_word": "미안한",
+            "e_sentence": "I'm terribly sorry.",
+            "k_sentence": "대단히 미안합니다."
+          },
+          {
+            "id": 665,
+            "e_word": "sound",
+            "k_word": "소리",
+            "e_sentence": "That is the sound of success.",
+            "k_sentence": "그것은 성공의 소리야."
+          },
+          {
+            "id": 666,
+            "e_word": "sour",
+            "k_word": "시큼한,상하다",
+            "e_sentence": "The hot weather will sour the milk.",
+            "k_sentence": "날씨가 더워 우유가 상하겠다."
+          },
+          {
+            "id": 667,
+            "e_word": "south",
+            "k_word": "남쪽 ",
+            "e_sentence": "The birds flew to the south.",
+            "k_sentence": "새들은 남쪽으로 날아갔다."
+          },
+          {
+            "id": 668,
+            "e_word": "space",
+            "k_word": "공간",
+            "e_sentence": "The living room is my space!",
+            "k_sentence": "거실은 내 공간이야!"
+          },
+          {
+            "id": 669,
+            "e_word": "speak",
+            "k_word": "이야기하다",
+            "e_sentence": "She speaks fluent English.",
+            "k_sentence": "그녀는 영어를 유창하게 합니다."
+          },
+          {
+            "id": 670,
+            "e_word": "speed",
+            "k_word": "속도",
+            "e_sentence": "The speed of the computer is very fast.",
+            "k_sentence": "그 컴퓨터의 속도는 매우 빠르다."
+          },
+          {
+            "id": 671,
+            "e_word": "spoon",
+            "k_word": "숟가락",
+            "e_sentence": "We eat soup with a spoon.",
+            "k_sentence": "우리는 숟가락으로 수프를 먹는다."
+          },
+          {
+            "id": 672,
+            "e_word": "stand",
+            "k_word": "서다",
+            "e_sentence": "Students are standing along the wall.",
+            "k_sentence": "학생들은 벽에 나란히 서 있다."
+          },
+          {
+            "id": 673,
+            "e_word": "start",
+            "k_word": "시작하다",
+            "e_sentence": "Let's start again at the beginning.",
+            "k_sentence": "우리 처음부터 다시 시작합시다."
+          },
+          {
+            "id": 674,
+            "e_word": "stay",
+            "k_word": "머무르다",
+            "e_sentence": "Thank you for staying late.",
+            "k_sentence": "늦게까지 있어 줘서 고마워."
+          },
+          {
+            "id": 675,
+            "e_word": "stone",
+            "k_word": "돌",
+            "e_sentence": "We can kill two birds with one stone.",
+            "k_sentence": "일석이조가 될 수 있어요."
+          },
+          {
+            "id": 676,
+            "e_word": "stop",
+            "k_word": "멈추다",
+            "e_sentence": "Thankfully, it has stopped raining.",
+            "k_sentence": "감사하게도 비가 멈추었다."
+          },
+          {
+            "id": 677,
+            "e_word": "store",
+            "k_word": "가게",
+            "e_sentence": "The robbers cleaned out the store.",
+            "k_sentence": "강도들은 가게를 싹쓸이 했다."
+          },
+          {
+            "id": 678,
+            "e_word": "story",
+            "k_word": "이야기",
+            "e_sentence": "She made up the story.",
+            "k_sentence": "그녀는 이야기를 꾸며댔습니다."
+          },
+          {
+            "id": 679,
+            "e_word": "strawberry",
+            "k_word": "딸기",
+            "e_sentence": "Daddy, I want strawberry and vanilla.",
+            "k_sentence": "아빠, 저는 딸기맛과 바닐라맛이요."
+          },
+          {
+            "id": 680,
+            "e_word": "street",
+            "k_word": "거리",
+            "e_sentence": "Teenagers are roaming the streets at night.",
+            "k_sentence": "청소년들이 밤거리를 방황하고 있다."
+          }
+        ]
+      },
+      {
+        "part_id": 5,
+        "data": [
+          {
+            "id": 681,
+            "e_word": "stress",
+            "k_word": "압박",
+            "e_sentence": "I guess I'm under a lot of stress.",
+            "k_sentence": "나는 스트레스를 엄청 받는 것 같아."
+          },
+          {
+            "id": 682,
+            "e_word": "strong",
+            "k_word": "강한",
+            "e_sentence": "That coffee is strong, it has a real kick.",
+            "k_sentence": "그 커피는 진하다. 정말 자극적이다."
+          },
+          {
+            "id": 683,
+            "e_word": "student",
+            "k_word": "학생",
+            "e_sentence": "The children in the picture are elementary school students.",
+            "k_sentence": "사진 속의 어린이들은 초등학생들이다."
+          },
+          {
+            "id": 684,
+            "e_word": "study",
+            "k_word": "공부,공부하다",
+            "e_sentence": "This is a new way to study English.",
+            "k_sentence": "이게 새로운 영어 학습법입니다."
+          },
+          {
+            "id": 685,
+            "e_word": "subway",
+            "k_word": "지하철",
+            "e_sentence": "The subway is more comfortable than the bus.",
+            "k_sentence": "지하철이 버스보다 더 편하다."
+          },
+          {
+            "id": 686,
+            "e_word": "sugar",
+            "k_word": "설탕",
+            "e_sentence": "Will you pass me the cream and sugar?",
+            "k_sentence": "크림과 설탕을 건네 주시겠습니까?"
+          },
+          {
+            "id": 687,
+            "e_word": "sun",
+            "k_word": "태양",
+            "e_sentence": "The blinds keep the sun out.",
+            "k_sentence": "블라인드는 햇빛을 가린다."
+          },
+          {
+            "id": 688,
+            "e_word": "supper",
+            "k_word": "저녁식사",
+            "e_sentence": "I'll do my homework after supper.",
+            "k_sentence": "난 저녁 먹은 후에 숙제할 거야."
+          },
+          {
+            "id": 689,
+            "e_word": "swim",
+            "k_word": "헤엄치다",
+            "e_sentence": "Sharks do not swim backwards.",
+            "k_sentence": "상어는 뒤로 헤엄치지 않아요."
+          },
+          {
+            "id": 690,
+            "e_word": "table",
+            "k_word": "테이블",
+            "e_sentence": "We all sat around the dinner table.",
+            "k_sentence": "모두 저녁 식탁에 둘러 앉았다."
+          },
+          {
+            "id": 691,
+            "e_word": "tail",
+            "k_word": "꼬리",
+            "e_sentence": "That dog wags its tail at everyone.",
+            "k_sentence": "저 개는 아무에게나 꼬리를 흔든다."
+          },
+          {
+            "id": 692,
+            "e_word": "take",
+            "k_word": "잡다",
+            "e_sentence": "Let's take a taxi.",
+            "k_sentence": "택시를 탑시다."
+          },
+          {
+            "id": 693,
+            "e_word": "talk",
+            "k_word": "말하다",
+            "e_sentence": "Now let's talk about something else.",
+            "k_sentence": "자, 우리 다른 얘기 합시다."
+          },
+          {
+            "id": 694,
+            "e_word": "tall",
+            "k_word": "키큰",
+            "e_sentence": "There was a tall man in the music room.",
+            "k_sentence": "음악실에 키가 큰 남자가 있었다."
+          },
+          {
+            "id": 695,
+            "e_word": "tape",
+            "k_word": "테이프",
+            "e_sentence": "This is double-faced tape.",
+            "k_sentence": "이것은 양면 테이프에요."
+          },
+          {
+            "id": 696,
+            "e_word": "taste",
+            "k_word": "맛",
+            "e_sentence": "That picture appeals to my taste.",
+            "k_sentence": "저 그림이 마음에 든다."
+          },
+          {
+            "id": 697,
+            "e_word": "teach",
+            "k_word": "가르치다",
+            "e_sentence": "To know is one thing, and to teach is another.",
+            "k_sentence": "아는 것과 가르치는 것은 별개이다."
+          },
+          {
+            "id": 698,
+            "e_word": "teen",
+            "k_word": "10대",
+            "e_sentence": "I spent my teens in the country.",
+            "k_sentence": "나는 십대를 시골에서 지냈다."
+          },
+          {
+            "id": 699,
+            "e_word": "telephone",
+            "k_word": "전화",
+            "e_sentence": "The telephone is a wonderful invention.",
+            "k_sentence": "전화는 놀라운 발명품이다."
+          },
+          {
+            "id": 700,
+            "e_word": "tell",
+            "k_word": "말하다",
+            "e_sentence": "Would you tell me a little bit about yourself?",
+            "k_sentence": "본인의 소개를 좀 해 보시겠어요?"
+          }
+        ]
+      },
+      {
+        "part_id": 6,
+        "data": [
+          {
+            "id": 701,
+            "e_word": "test",
+            "k_word": "시험",
+            "e_sentence": "I got a hundred on the English test.",
+            "k_sentence": "영어시험에서 100점을 받았습니다."
+          },
+          {
+            "id": 702,
+            "e_word": "textbook",
+            "k_word": "교과서",
+            "e_sentence": "I am against digital textbooks.",
+            "k_sentence": "전자 교과서에 반대한다."
+          },
+          {
+            "id": 703,
+            "e_word": "than",
+            "k_word": "-보다도",
+            "e_sentence": "Still, it's better than nothing.",
+            "k_sentence": "그래도, 없는 것보다는 낫다."
+          },
+          {
+            "id": 704,
+            "e_word": "thank",
+            "k_word": "감사하다",
+            "e_sentence": "Thanks, but no thanks.",
+            "k_sentence": "고맙지만 사양할게."
+          },
+          {
+            "id": 705,
+            "e_word": "that",
+            "k_word": "저것",
+            "e_sentence": "Well, you keep saying that.",
+            "k_sentence": "당신은 그 말만 계속 하는군요."
+          },
+          {
+            "id": 706,
+            "e_word": "the",
+            "k_word": "그",
+            "e_sentence": "We can't miss the one.",
+            "k_sentence": "이번 일을 그르치면 안 돼요."
+          },
+          {
+            "id": 707,
+            "e_word": "there",
+            "k_word": "거기에",
+            "e_sentence": "I have to get there on time.",
+            "k_sentence": "전 시간에 맞춰 거기 가야 해요."
+          },
+          {
+            "id": 708,
+            "e_word": "they",
+            "k_word": "그들",
+            "e_sentence": "This is where they live.",
+            "k_sentence": "여기가 그들이 사는 곳이에요."
+          },
+          {
+            "id": 709,
+            "e_word": "thing",
+            "k_word": "물건",
+            "e_sentence": "Such a thing happens once in a blue moon.",
+            "k_sentence": "그런 일은 정말 드물게 일어난다."
+          },
+          {
+            "id": 710,
+            "e_word": "think",
+            "k_word": "생각하다",
+            "e_sentence": "Thanks for thinking of me.",
+            "k_sentence": "생각해줘서 고마워."
+          },
+          {
+            "id": 711,
+            "e_word": "thirst",
+            "k_word": "갈증",
+            "e_sentence": "Thousands are dying of thirst.",
+            "k_sentence": "수천 명이 마실 물이 부족하여 죽어 가고 있다."
+          },
+          {
+            "id": 712,
+            "e_word": "this",
+            "k_word": "이것",
+            "e_sentence": "That banana is long but this is short.",
+            "k_sentence": "저 바나나는 길지만, 이것은 짧다."
+          },
+          {
+            "id": 713,
+            "e_word": "tiger",
+            "k_word": "호랑이",
+            "e_sentence": "The tiger hunts alone.",
+            "k_sentence": "호랑이는 혼자서 사냥을 한다."
+          },
+          {
+            "id": 714,
+            "e_word": "time",
+            "k_word": "시간",
+            "e_sentence": "That's just wasting your time.",
+            "k_sentence": "그건 단지 시간 낭비일 뿐이다."
+          },
+          {
+            "id": 715,
+            "e_word": "to",
+            "k_word": "-로",
+            "e_sentence": "The roads linked China to Rome.",
+            "k_sentence": "그 길은 중국에서 로마로 이어졌다."
+          },
+          {
+            "id": 716,
+            "e_word": "today",
+            "k_word": "오늘",
+            "e_sentence": "What is the weather like today?",
+            "k_sentence": "오늘 날씨가 어떻습니까?"
+          },
+          {
+            "id": 717,
+            "e_word": "together",
+            "k_word": "같이",
+            "e_sentence": "The two worked together for two years.",
+            "k_sentence": "그 둘은 2년 동안 함께 일했다."
+          },
+          {
+            "id": 718,
+            "e_word": "tomorrow",
+            "k_word": "내일",
+            "e_sentence": "That matter can wait until tomorrow.",
+            "k_sentence": "그 문제는 내일까지 미루어도 된다."
+          },
+          {
+            "id": 719,
+            "e_word": "tonight",
+            "k_word": "오늘밤",
+            "e_sentence": "There's a party at my house tonight.",
+            "k_sentence": "오늘 밤에 우리집에서 파티가 있다."
+          },
+          {
+            "id": 720,
+            "e_word": "too",
+            "k_word": "너무",
+            "e_sentence": "I'm sorry, it's too bad.",
+            "k_sentence": "유감입니다. 정말 안됐군요."
+          }
+        ]
+      },
+      {
+        "part_id": 7,
+        "data": [
+          {
+            "id": 721,
+            "e_word": "tooth",
+            "k_word": "이",
+            "e_sentence": "The dentist pulled out the wrong tooth.",
+            "k_sentence": "치과 의사는 엉뚱한 이를 뽑았다."
+          },
+          {
+            "id": 722,
+            "e_word": "top",
+            "k_word": "꼭대기",
+            "e_sentence": "The cat was sitting on the top of the house.",
+            "k_sentence": "고양이가 집 꼭대기에 앉아 있다."
+          },
+          {
+            "id": 723,
+            "e_word": "touch",
+            "k_word": "닿다",
+            "e_sentence": "The lecture truly touched my heart.",
+            "k_sentence": "정말 가슴에 와 닿는 강의였다."
+          },
+          {
+            "id": 724,
+            "e_word": "tour",
+            "k_word": "여행",
+            "e_sentence": "Do you have a city tour bus?",
+            "k_sentence": "시내 관광버스가 있습니까?"
+          },
+          {
+            "id": 725,
+            "e_word": "tower",
+            "k_word": "탑",
+            "e_sentence": "We are going to build a sand tower on next Sunday.",
+            "k_sentence": "다음 일요일에 모래 탑을 쌓을 거야."
+          },
+          {
+            "id": 726,
+            "e_word": "town",
+            "k_word": "도시",
+            "e_sentence": "He's out of town for the week.",
+            "k_sentence": "그는 일주일 동안 다른 도시에 가 있었다."
+          },
+          {
+            "id": 727,
+            "e_word": "toy",
+            "k_word": "장난감",
+            "e_sentence": "The toy industry is in a slump.",
+            "k_sentence": "장난감 산업이 불황이다."
+          },
+          {
+            "id": 728,
+            "e_word": "train",
+            "k_word": "기차",
+            "e_sentence": "The bus was hit by a train.",
+            "k_sentence": "버스가 기차에 들이 받쳤다."
+          },
+          {
+            "id": 729,
+            "e_word": "travel",
+            "k_word": "여행하다,여행",
+            "e_sentence": "Space travel and time travel are connected.",
+            "k_sentence": "우주여행과 시간여행은 관련이 있다."
+          },
+          {
+            "id": 730,
+            "e_word": "tree",
+            "k_word": "나무",
+            "e_sentence": "The bird is over the tree.",
+            "k_sentence": "새가 나무 위에 있다."
+          },
+          {
+            "id": 731,
+            "e_word": "triangle",
+            "k_word": "삼각형",
+            "e_sentence": "The sum of all the angles of a triangle is 180 degrees.",
+            "k_sentence": "삼각형 세 각의 총합은 180도이다."
+          },
+          {
+            "id": 732,
+            "e_word": "trip",
+            "k_word": "여행",
+            "e_sentence": "The end of the trip came all too soon.",
+            "k_sentence": "여행의 끝이 너무나도 빨리 다가왔다."
+          },
+          {
+            "id": 733,
+            "e_word": "true",
+            "k_word": "진실",
+            "e_sentence": "That couldn't be true!",
+            "k_sentence": "그게 사실일리가 없어."
+          },
+          {
+            "id": 734,
+            "e_word": "try",
+            "k_word": "노력하다",
+            "e_sentence": "Thank you for trying to understand me.",
+            "k_sentence": "저를 이해하려고 해주셔서 감사합니다."
+          },
+          {
+            "id": 735,
+            "e_word": "turn",
+            "k_word": "돌리다",
+            "e_sentence": "At the next corner, turn right.",
+            "k_sentence": "다음 모퉁이에서, 우회전 하세요."
+          },
+          {
+            "id": 736,
+            "e_word": "twice",
+            "k_word": "두 번",
+            "e_sentence": "The subway is twice as fast as the bus.",
+            "k_sentence": "지하철은 버스보다 2배 빠르다."
+          },
+          {
+            "id": 737,
+            "e_word": "type",
+            "k_word": "형태",
+            "e_sentence": "Spaghetti is a type of pasta.",
+            "k_sentence": "스파게티는 파스타의 일종입니다."
+          },
+          {
+            "id": 738,
+            "e_word": "ugly",
+            "k_word": "추한",
+            "e_sentence": "I was like an ugly duckling.",
+            "k_sentence": "나는 미운 오리 새끼 같았다."
+          },
+          {
+            "id": 739,
+            "e_word": "umbrella",
+            "k_word": "우산",
+            "e_sentence": "Take your umbrella in case it rains!",
+            "k_sentence": "비가 올 경우를 대비해 우산 가져가!"
+          },
+          {
+            "id": 740,
+            "e_word": "uncle",
+            "k_word": "아저씨",
+            "e_sentence": "Do you have a rich uncle or something?",
+            "k_sentence": "돈 많은 삼촌이라도 있니?"
+          }
+        ]
+      },
+      {
+        "part_id": 8,
+        "data": [
+          {
+            "id": 741,
+            "e_word": "under",
+            "k_word": "-아래에",
+            "e_sentence": "Teenagers under 19 cannot see that movie.",
+            "k_sentence": "그 영화는 미성년자 관람불가다."
+          },
+          {
+            "id": 742,
+            "e_word": "understand",
+            "k_word": "이해하다",
+            "e_sentence": "Sorry. I don't understand.",
+            "k_sentence": "미안하지만 이해 못 하겠습니다."
+          },
+          {
+            "id": 743,
+            "e_word": "up",
+            "k_word": "위로",
+            "e_sentence": "The office is up on the top floor.",
+            "k_sentence": "사무실은 맨 위층에 있다."
+          },
+          {
+            "id": 744,
+            "e_word": "use",
+            "k_word": "쓰다",
+            "e_sentence": "I could use a hot bath.",
+            "k_sentence": "뜨거운 물로 목욕했으면 좋겠어요."
+          },
+          {
+            "id": 745,
+            "e_word": "vegetable",
+            "k_word": "채소",
+            "e_sentence": "This land is good for the vegetables.",
+            "k_sentence": "이 땅은 야채 경작에 좋다."
+          },
+          {
+            "id": 746,
+            "e_word": "very",
+            "k_word": "매우",
+            "e_sentence": "I am very proud of you.",
+            "k_sentence": "나는 당신이 자랑스럽습니다."
+          },
+          {
+            "id": 747,
+            "e_word": "visit",
+            "k_word": "방문하다",
+            "e_sentence": "That's was his first visit to Korea.",
+            "k_sentence": "그것이 그의 첫 한국 방문이다."
+          },
+          {
+            "id": 748,
+            "e_word": "voice",
+            "k_word": "목소리",
+            "e_sentence": "The voice of people is the voice of God.",
+            "k_sentence": "국민의 목소리가 하늘의 목소리다."
+          },
+          {
+            "id": 749,
+            "e_word": "wait",
+            "k_word": "기다리다",
+            "e_sentence": "We had to wait for an hour to ride a roller coaster.",
+            "k_sentence": "롤러코스터를 타려면 한 시간을 기다려야 했다."
+          },
+          {
+            "id": 750,
+            "e_word": "wake",
+            "k_word": "잠깨다",
+            "e_sentence": "The best time to wake up is 5 a.m.",
+            "k_sentence": "가장 좋은 시간은 새벽 5시다."
+          },
+          {
+            "id": 751,
+            "e_word": "walk",
+            "k_word": "걷다",
+            "e_sentence": "Do you like walking in the rain?",
+            "k_sentence": "빗속을 거닐기를 좋아하세요?"
+          },
+          {
+            "id": 752,
+            "e_word": "wall",
+            "k_word": "벽",
+            "e_sentence": "The children are painting the wall.",
+            "k_sentence": "어린이들이 벽을 페인트칠하고 있다."
+          },
+          {
+            "id": 753,
+            "e_word": "want",
+            "k_word": "원하다",
+            "e_sentence": "What do you want for Christmas?",
+            "k_sentence": "크리스마스 때 뭘 갖고 싶니?"
+          },
+          {
+            "id": 754,
+            "e_word": "war",
+            "k_word": "전쟁",
+            "e_sentence": "The war came to an end.",
+            "k_sentence": "전쟁이 끝났습니다."
+          },
+          {
+            "id": 755,
+            "e_word": "warm",
+            "k_word": "따뜻한",
+            "e_sentence": "The warm air moves up to the sky.",
+            "k_sentence": "따뜻한 공기는 하늘로 올라갑니다."
+          },
+          {
+            "id": 756,
+            "e_word": "wash",
+            "k_word": "씻다",
+            "e_sentence": "This car needs washing.",
+            "k_sentence": "차를 좀 씻어야겠군요."
+          },
+          {
+            "id": 757,
+            "e_word": "watch",
+            "k_word": "보다",
+            "e_sentence": "I watched a gangster film last night.",
+            "k_sentence": "나는 어젯밤 갱영화를 봤어요."
+          },
+          {
+            "id": 758,
+            "e_word": "water",
+            "k_word": "물",
+            "e_sentence": "Will you give me a glass of iced water?",
+            "k_sentence": "찬물 한 컵 주시겠습니까?"
+          },
+          {
+            "id": 759,
+            "e_word": "watermelon",
+            "k_word": "수박",
+            "e_sentence": "There is a lot of water in a watermelon.",
+            "k_sentence": "수박에는 매우 많은 물이 들어있어요."
+          },
+          {
+            "id": 760,
+            "e_word": "way",
+            "k_word": "길",
+            "e_sentence": "I got lost on the way.",
+            "k_sentence": "가는 도중에 길을 잃었어요."
+          }
+        ]
+      },
+      {
+        "part_id": 9,
+        "data": [
+          {
+            "id": 761,
+            "e_word": "we",
+            "k_word": "우리",
+            "e_sentence": "That is the world we seek.",
+            "k_sentence": "그게 우리가 찾는 세상이지."
+          },
+          {
+            "id": 762,
+            "e_word": "wear",
+            "k_word": "입다",
+            "e_sentence": "The children are wearing diapers.",
+            "k_sentence": "어린아이들이 기저귀를 차고 있다."
+          },
+          {
+            "id": 763,
+            "e_word": "weather",
+            "k_word": "날씨",
+            "e_sentence": "Spring weather is really changeable.",
+            "k_sentence": "봄 날씨는 정말 변덕스럽다."
+          },
+          {
+            "id": 764,
+            "e_word": "wedding",
+            "k_word": "결혼",
+            "e_sentence": "Spring is a popular season for wedding.",
+            "k_sentence": "봄은 결혼에 인기 있는 계절입니다."
+          },
+          {
+            "id": 765,
+            "e_word": "week",
+            "k_word": "일주일",
+            "e_sentence": "Spring frost is expected this week.",
+            "k_sentence": "이번 주는 꽃샘추위가 예상된다."
+          },
+          {
+            "id": 766,
+            "e_word": "weekend",
+            "k_word": "주말",
+            "e_sentence": "The summer vacation started last weekend.",
+            "k_sentence": "여름 방학은 지난주에 시작했다."
+          },
+          {
+            "id": 767,
+            "e_word": "weight",
+            "k_word": "무게",
+            "e_sentence": "The ice cracked under the weight.",
+            "k_sentence": "무게 때문에 얼음이 깨졌다."
+          },
+          {
+            "id": 768,
+            "e_word": "welcome",
+            "k_word": "환영하다",
+            "e_sentence": "Thank you for a warm welcome.",
+            "k_sentence": "따뜻한 환대에 감사드립니다."
+          },
+          {
+            "id": 769,
+            "e_word": "well",
+            "k_word": "잘",
+            "e_sentence": "That restaurant is well known in this city.",
+            "k_sentence": "그 식당은 이 도시에서 유명하다."
+          },
+          {
+            "id": 770,
+            "e_word": "west",
+            "k_word": "서쪽",
+            "e_sentence": "China is the west of Korea.",
+            "k_sentence": "중국은 한국의 서쪽에 위치해 있다."
+          },
+          {
+            "id": 771,
+            "e_word": "wet",
+            "k_word": "축축한",
+            "e_sentence": "The ground is wet from the rain.",
+            "k_sentence": "비가 와서 지면이 젖어 있다."
+          },
+          {
+            "id": 772,
+            "e_word": "what",
+            "k_word": "무엇",
+            "e_sentence": "Do you know what basketball is?",
+            "k_sentence": "농구가 뭔지 아세요?"
+          },
+          {
+            "id": 773,
+            "e_word": "when",
+            "k_word": "언제",
+            "e_sentence": "Switch off the lights when you leave.",
+            "k_sentence": "나갈 때 불 좀 꺼줘."
+          },
+          {
+            "id": 774,
+            "e_word": "where",
+            "k_word": "어디에",
+            "e_sentence": "That's where I used to live when I was a child.",
+            "k_sentence": "저곳이 내가 어렸을 때 살던 집이다."
+          },
+          {
+            "id": 775,
+            "e_word": "white",
+            "k_word": "하얀색",
+            "e_sentence": "There are only a few white tigers in the world.",
+            "k_sentence": "세상에는 백호가 많지 않습니다."
+          },
+          {
+            "id": 776,
+            "e_word": "who",
+            "k_word": "누구",
+            "e_sentence": "The god appears only to those who believe.",
+            "k_sentence": "신은 믿는 사람들에게만 나타난다."
+          },
+          {
+            "id": 777,
+            "e_word": "why",
+            "k_word": "왜",
+            "e_sentence": "That's why I bought a car.",
+            "k_sentence": "내가 차를 산 이유가 그거예요."
+          },
+          {
+            "id": 778,
+            "e_word": "wife",
+            "k_word": "아내",
+            "e_sentence": "Give my wishes to your wife.",
+            "k_sentence": "당신의 아내에게 안부 전해주세요."
+          },
+          {
+            "id": 779,
+            "e_word": "will",
+            "k_word": "~하다",
+            "e_sentence": "I will get you some coffee.",
+            "k_sentence": "커피 좀 갖다 드릴게요."
+          },
+          {
+            "id": 780,
+            "e_word": "win",
+            "k_word": "이기다",
+            "e_sentence": "This time I'll win at any cost.",
+            "k_sentence": "이번엔 꼭 이기고야 말겠다."
+          }
+        ]
+      },
+      {
+        "part_id": 10,
+        "data": [
+          {
+            "id": 781,
+            "e_word": "wind",
+            "k_word": "바람",
+            "e_sentence": "Suddenly the wind changed direction.",
+            "k_sentence": "갑자기 바람의 방향이 바뀌었다."
+          },
+          {
+            "id": 782,
+            "e_word": "window",
+            "k_word": "창",
+            "e_sentence": "The eyes are the window of the soul.",
+            "k_sentence": "눈의 마음의 창이다."
+          },
+          {
+            "id": 783,
+            "e_word": "wish",
+            "k_word": "바라다",
+            "e_sentence": "We all wish you the best of luck.",
+            "k_sentence": "우리 모두 너의 행운을 빌어."
+          },
+          {
+            "id": 784,
+            "e_word": "with",
+            "k_word": "함께",
+            "e_sentence": "Are you going with me?",
+            "k_sentence": "함께 가시는 거죠?"
+          },
+          {
+            "id": 785,
+            "e_word": "woman",
+            "k_word": "여성",
+            "e_sentence": "The picture of the woman is Shin Saim-dang.",
+            "k_sentence": "이 여성의 사진은 신사임당이다."
+          },
+          {
+            "id": 786,
+            "e_word": "wood",
+            "k_word": "나무",
+            "e_sentence": "The house is made out of wood.",
+            "k_sentence": "그 집은 나무로 지어졌다."
+          },
+          {
+            "id": 787,
+            "e_word": "word",
+            "k_word": "단어",
+            "e_sentence": "What's the meaning of this word?",
+            "k_sentence": "이 단어의 의미가 무엇인가요?"
+          },
+          {
+            "id": 788,
+            "e_word": "work",
+            "k_word": "일",
+            "e_sentence": "I can't take on any more work.",
+            "k_sentence": "나는 더 이상 일을 맡지 못하겠어요."
+          },
+          {
+            "id": 789,
+            "e_word": "world",
+            "k_word": "세계",
+            "e_sentence": "The Beatles are by far the best band in the world.",
+            "k_sentence": "비틀즈는 단연 세계 최고의 밴드이다."
+          },
+          {
+            "id": 790,
+            "e_word": "worry",
+            "k_word": "걱정하다",
+            "e_sentence": "Don't worry about the money.",
+            "k_sentence": "돈 걱정은 하지 마세요."
+          },
+          {
+            "id": 791,
+            "e_word": "write",
+            "k_word": "쓰다",
+            "e_sentence": "This Chinese character is difficult to write.",
+            "k_sentence": "이 한자는 쓰기 어렵다."
+          },
+          {
+            "id": 792,
+            "e_word": "wrong",
+            "k_word": "나쁜",
+            "e_sentence": "It went wrong from the start.",
+            "k_sentence": "처음부터 잘못됐어요."
+          },
+          {
+            "id": 793,
+            "e_word": "year",
+            "k_word": "년",
+            "e_sentence": "Spring is a very busy time of the year.",
+            "k_sentence": "봄은 한 해중 가장 바쁜 시기이다."
+          },
+          {
+            "id": 794,
+            "e_word": "yellow",
+            "k_word": "노란색",
+            "e_sentence": "Spinach is the king of green and yellow vegetables.",
+            "k_sentence": "시금치는 녹황색 야채의 왕입니다."
+          },
+          {
+            "id": 795,
+            "e_word": "yes",
+            "k_word": "예",
+            "e_sentence": "Would you like to dance? Yes, OK.",
+            "k_sentence": "춤 출래요? 네, 좋아요."
+          },
+          {
+            "id": 796,
+            "e_word": "yesterday",
+            "k_word": "어제",
+            "e_sentence": "The Christmas tree was lit up yesterday.",
+            "k_sentence": "크리스마스 트리가 어제 점등되었다."
+          },
+          {
+            "id": 797,
+            "e_word": "you",
+            "k_word": "너",
+            "e_sentence": "Sure you won't have a strawberry?",
+            "k_sentence": "정말 너 딸기 안 먹을 거야?"
+          },
+          {
+            "id": 798,
+            "e_word": "young",
+            "k_word": "젊은",
+            "e_sentence": "Many young men were killed in the battle.",
+            "k_sentence": "그 전투에서 많은 젊은이가 죽었다."
+          },
+          {
+            "id": 799,
+            "e_word": "zebra",
+            "k_word": "얼룩말",
+            "e_sentence": "He's wearing a zebra-print shirt.",
+            "k_sentence": "그는 얼룩무늬 셔츠를 입고 있다."
+          },
+          {
+            "id": 800,
+            "e_word": "zoo",
+            "k_word": "동물원",
+            "e_sentence": "We went to the zoo yesterday.",
+            "k_sentence": "우리는 어제 동물원에 갔었어요."
+          }
+        ]
+      }
+    ]
+  }
+]
