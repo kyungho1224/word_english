@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:word_english/common/widget/widget_constant.dart';
+import 'package:word_english/provider/package_info_provider.dart';
 import 'package:word_english/screen/home/widget/w_banner.dart';
 import 'package:word_english/screen/home/widget/w_chapter_item.dart';
 import 'package:word_english/util/local_json.dart';
@@ -32,8 +34,15 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    final appName = Provider.of<PackageInfoProvider>(context, listen: false).appName;
     return SafeArea(
       child: Scaffold(
+        appBar: AppBar(
+          elevation: 2,
+          backgroundColor: Colors.white,
+          title: appName.text.make(),
+          shadowColor: Colors.black,
+        ),
         body: Stack(
           children: [
             SingleChildScrollView(

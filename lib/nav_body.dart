@@ -17,9 +17,7 @@ class NavBody extends StatelessWidget {
       return const MyScreen();
     } else if (index == 2) {
       return const CommunityScreen();
-    } else if (index == 3) {
-      return const OthersScreen();
     }
-    return Container();
+    return const OthersScreen();
   }
 }

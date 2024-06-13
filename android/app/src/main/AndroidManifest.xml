@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="word_english"
+        android:label="초등 영어 800"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
