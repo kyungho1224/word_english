@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:word_english/nav_body.dart';
+import 'package:word_english/common/widget/w_appbar.dart';
+
+import 's_home.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
@@ -20,11 +22,15 @@ class _MainScreenState extends State<MainScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: const CustomAppBar(
+        showBackButton: false,
+      ),
       body: Stack(
         children: [
-          NavBody(
-            index: index,
-          ),
+          // Navigator(
+          //   key: ,
+          // ),
+          const HomeScreen(),
           Positioned(
             left: 0,
             right: 0,
@@ -36,32 +42,6 @@ class _MainScreenState extends State<MainScreen> {
                 child: Text("광고 배너"),
               ),
             ),
-          ),
-        ],
-      ),
-      bottomNavigationBar: BottomNavigationBar(
-        type: BottomNavigationBarType.shifting,
-        selectedItemColor: Colors.black,
-        unselectedItemColor: Colors.grey,
-        backgroundColor: Colors.white,
-        currentIndex: index,
-        onTap: (value) => setState(() => index = value),
-        items: const [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.home),
-            label: 'Home',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.my_library_books),
-            label: 'My',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.chat_outlined),
-            label: 'Board',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.more_horiz_outlined),
-            label: 'More',
           ),
         ],
       ),

@@ -3,6 +3,7 @@ import 'package:package_info_plus/package_info_plus.dart';
 
 class PackageInfoProvider with ChangeNotifier {
   PackageInfoProvider() {
+    print('call PackageInfoProvider constructor');
     loadAppName();
   }
 
@@ -10,9 +11,10 @@ class PackageInfoProvider with ChangeNotifier {
 
   String get appName => _appName;
 
-  Future<void> loadAppName() async {
+  Future<String> loadAppName() async {
     final info = await PackageInfo.fromPlatform();
     _appName = info.appName;
     notifyListeners();
+    return _appName;
   }
 }
