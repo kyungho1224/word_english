@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:word_english/common/widget/w_appbar.dart';
-import 'package:word_english/common/widget/widget_constant.dart';
 import 'package:word_english/model/chapter_item_model.dart';
+import 'package:word_english/screen/widget/w_part_item.dart';
 
 import '../model/part_item_model.dart';
 
@@ -23,23 +23,9 @@ class PartScreen extends StatelessWidget {
         itemCount: chapterItem.partItemList.length,
         itemBuilder: (context, index) {
           List<PartItem> currentList = chapterItem.partItemList;
-          return Card(
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Row(
-                  children: [
-                    'Part'.text.size(24).bold.make(),
-                    width10,
-                    currentList[index].partId.text.size(24).bold.make(),
-                  ],
-                ),
-                '${0} / ${currentList[index].studyItemList.length}'
-                    .text
-                    .size(20)
-                    .make(),
-              ],
-            ).p(16),
+          return PartItemWidget(
+            chapter: chapterItem.chapter,
+            partItem: currentList[index],
           );
         },
       ).pOnly(top: 20, bottom: 65, left: 20, right: 20),
