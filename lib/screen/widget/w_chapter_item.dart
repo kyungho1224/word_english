@@ -4,8 +4,9 @@ import 'package:velocity_x/velocity_x.dart';
 import 'package:word_english/common/constant/app_colors.dart';
 import 'package:word_english/common/widget/widget_constant.dart';
 import 'package:word_english/model/chapter_item_model.dart';
-import 'package:word_english/screen/tabs/home/fragments/f_part.dart';
-import 'package:word_english/screen/tabs/home/widget/w_linear_progress.dart';
+import 'package:word_english/screen/widget/w_linear_progress.dart';
+
+import '../s_part.dart';
 
 class ChapterItemWidget extends StatefulWidget {
   final ChapterItem chapterItem;
@@ -23,12 +24,29 @@ class _ChapterItemWidgetState extends State<ChapterItemWidget> {
       children: [
         GestureDetector(
           onTap: () {
-            Navigator.pushNamed(context, '/part', arguments: widget.chapterItem,);
-            // Nav.push(
-            //   PartFragment(
-            //     chapterItem: widget.chapterItem,
+            // Nav.push(PartFragment(chapterItem: widget.chapterItem),
+            //     navAni: NavAni.Right);
+
+            // Navigator.pushNamed(
+            //   context,
+            //   '/part',
+            //   arguments: widget.chapterItem,
+            // );
+
+            Nav.push(
+              PartScreen(
+                chapterItem: widget.chapterItem,
+              ),
+              navAni: NavAni.Right,
+            );
+
+            // Navigator.push(
+            //   context,
+            //   MaterialPageRoute(
+            //     builder: (context) {
+            //       return PartScreen(chapterItem: widget.chapterItem);
+            //     },
             //   ),
-            //   navAni: NavAni.Right,
             // );
           },
           child: Card(

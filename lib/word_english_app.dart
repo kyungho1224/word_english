@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nav/nav.dart';
 import 'package:word_english/common/theme/custom_theme.dart';
-import 'package:word_english/screen/s_main.dart';
+import 'package:word_english/screen/s_home.dart';
 
 class WordEnglishApp extends StatefulWidget {
   static GlobalKey<NavigatorState> navigatorKey = GlobalKey();
@@ -13,7 +13,6 @@ class WordEnglishApp extends StatefulWidget {
 }
 
 class _WordEnglishAppState extends State<WordEnglishApp> with Nav {
-
   @override
   GlobalKey<NavigatorState> get navigatorKey => WordEnglishApp.navigatorKey;
 
@@ -25,11 +24,9 @@ class _WordEnglishAppState extends State<WordEnglishApp> with Nav {
       themeMode: ThemeMode.system,
       theme: lightTheme,
       darkTheme: darkTheme,
-      home: const MainScreen(),
+      home: const HomeScreen(),
     );
   }
-
-
 }
 
 ThemeData lightTheme = ThemeData(

@@ -1,26 +1,39 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:velocity_x/velocity_x.dart';
 
 import '../../provider/package_info_provider.dart';
 
-class SimpleAppBar extends StatefulWidget {
-  const SimpleAppBar({super.key});
+class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
+  final String? title;
+  final bool showBackButton;
+  final List<Widget>? actions;
 
-  @override
-  State<SimpleAppBar> createState() => _SimpleAppBarState();
-}
+  const CustomAppBar({
+    super.key,
+    this.title,
+    this.showBackButton = true,
+    this.actions,
+  });
 
-class _SimpleAppBarState extends State<SimpleAppBar> {
   @override
   Widget build(BuildContext context) {
-    final appName =
-        Provider.of<PackageInfoProvider>(context, listen: false).appName;
+    final appName = Provider.of<PackageInfoProvider>(context, listen: false).appName;
     return AppBar(
       elevation: 2,
       backgroundColor: Colors.white,
-      title: appName.text.make(),
       shadowColor: Colors.black,
+      title: Text(title ?? appName),
+      centerTitle: false,
+      leading: showBackButton
+          ? IconButton(
+              icon: const Icon(Icons.arrow_back),
+              onPressed: () => Navigator.of(context).pop(),
+            )
+          : null,
+      actions: actions,
     );
   }
+
+  @override
+  Size get preferredSize => const Size.fromHeight(kToolbarHeight);
 }
