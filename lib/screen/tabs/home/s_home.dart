@@ -3,11 +3,11 @@ import 'package:provider/provider.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:word_english/common/widget/widget_constant.dart';
 import 'package:word_english/provider/package_info_provider.dart';
-import 'package:word_english/screen/home/widget/w_banner.dart';
-import 'package:word_english/screen/home/widget/w_chapter_item.dart';
+import 'package:word_english/screen/tabs/home/widget/w_banner.dart';
+import 'package:word_english/screen/tabs/home/widget/w_chapter_item.dart';
 import 'package:word_english/util/local_json.dart';
 
-import '../../model/chapter_item_model.dart';
+import '../../../model/chapter_item_model.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
