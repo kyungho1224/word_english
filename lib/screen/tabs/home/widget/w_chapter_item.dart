@@ -23,10 +23,13 @@ class _ChapterItemWidgetState extends State<ChapterItemWidget> {
       children: [
         GestureDetector(
           onTap: () {
-            Nav.push(
-              PartFragment(),
-              navAni: NavAni.Right,
-            );
+            Navigator.pushNamed(context, '/part', arguments: widget.chapterItem,);
+            // Nav.push(
+            //   PartFragment(
+            //     chapterItem: widget.chapterItem,
+            //   ),
+            //   navAni: NavAni.Right,
+            // );
           },
           child: Card(
             elevation: 3,
