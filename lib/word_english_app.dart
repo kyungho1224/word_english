@@ -55,13 +55,7 @@ class AuthCheck extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Consumer<UserProvider>(
-      builder: (context, userProvider, child) {
-        if (userProvider.user == null) {
-          return const LoginScreen();
-        }
-        return const HomeScreen();
-      },
-    );
+    final userProvider = Provider.of<UserProvider>(context);
+    return userProvider.user == null ? const LoginScreen() : const HomeScreen();
   }
 }
