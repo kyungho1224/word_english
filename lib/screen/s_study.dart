@@ -72,27 +72,6 @@ class _StudyScreenState extends State<StudyScreen> {
                   },
                 ),
                 Positioned(
-                  left: 30,
-                  top: 0,
-                  bottom: 0,
-                  child: Container(
-                    alignment: Alignment.centerLeft,
-                    child: RotatedBox(
-                      quarterTurns: 1,
-                      child: SmoothPageIndicator(
-                        controller: _pageController,
-                        count: widget.partItem.studyItemList.length,
-                        effect: const WormEffect(
-                            dotHeight: 10,
-                            dotWidth: 10,
-                            spacing: 6,
-                            dotColor: Colors.grey,
-                            activeDotColor: Colors.blue),
-                      ),
-                    ),
-                  ),
-                ),
-                Positioned(
                   bottom: 30,
                   left: 0,
                   right: 0,
@@ -109,17 +88,6 @@ class _StudyScreenState extends State<StudyScreen> {
             ),
           ),
         ],
-      ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.black,
-        child: const Icon(
-          Icons.bookmark_add_sharp,
-          size: 30,
-          color: Colors.white,
-        ),
-        onPressed: () {
-          print(widget.partItem.studyItemList[currentPage].id);
-        },
       ),
     );
   }
