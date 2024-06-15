@@ -413,3 +413,4 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/androidstudio,flutter,java,swift,gradle,macos,windows,android
+/ios/Runner/GoogleService-Info.plist
