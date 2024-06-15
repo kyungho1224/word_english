@@ -3,12 +3,22 @@ import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
 class UserProvider with ChangeNotifier {
+
+  UserProvider() {
+    checkCurrentUser();
+  }
+
   User? _user;
 
   User? get user => _user;
 
   void setUser(User? user) {
     _user = user;
+    notifyListeners();
+  }
+
+  Future<void> checkCurrentUser() async {
+    _user = FirebaseAuth.instance.currentUser;
     notifyListeners();
   }
 
