@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:nav/nav.dart';
+import 'package:provider/provider.dart';
 import 'package:word_english/common/theme/custom_theme.dart';
+import 'package:word_english/provider/user_provider.dart';
 import 'package:word_english/screen/s_home.dart';
+import 'package:word_english/screen/s_login.dart';
 
 class WordEnglishApp extends StatefulWidget {
   static GlobalKey<NavigatorState> navigatorKey = GlobalKey();
@@ -24,7 +27,8 @@ class _WordEnglishAppState extends State<WordEnglishApp> with Nav {
       themeMode: ThemeMode.system,
       theme: lightTheme,
       darkTheme: darkTheme,
-      home: const HomeScreen(),
+      // home: const HomeScreen(),
+      home: const AuthCheck(),
     );
   }
 }
@@ -45,3 +49,19 @@ ThemeData darkTheme = ThemeData(
       seedColor: CustomTheme.dark.appColors.seedColor,
       brightness: Brightness.dark),
 );
+
+class AuthCheck extends StatelessWidget {
+  const AuthCheck({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Consumer<UserProvider>(
+      builder: (context, userProvider, child) {
+        if (userProvider.user == null) {
+          return const LoginScreen();
+        }
+        return const HomeScreen();
+      },
+    );
+  }
+}
