@@ -9,17 +9,15 @@ import '../../common/widget/widget_constant.dart';
 class StudyItemWidget extends StatefulWidget {
   final StudyItem studyItem;
 
-  const StudyItemWidget({super.key, required this.studyItem});
+  const StudyItemWidget({Key? key, required this.studyItem}) : super(key: key);
 
   @override
-  State<StudyItemWidget> createState() => _StudyItemWidgetState();
+  _StudyItemWidgetState createState() => _StudyItemWidgetState();
 }
 
 class _StudyItemWidgetState extends State<StudyItemWidget> {
   @override
   Widget build(BuildContext context) {
-    // bool visible =
-    //     Provider.of<StudyItemProvider>(context, listen: false).visible;
     return Consumer<StudyItemProvider>(
       builder: (context, studyItemProvider, child) {
         return GestureDetector(
@@ -30,14 +28,35 @@ class _StudyItemWidgetState extends State<StudyItemWidget> {
             elevation: 6,
             color: Colors.white,
             shadowColor: Colors.black,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
+            child: Stack(
               children: [
-                widget.studyItem.eWord.text.bold.size(40).make(),
-                height20,
-                studyItemProvider.visible
-                    ? widget.studyItem.kWord.text.size(20).make()
-                    : ''.text.size(20).make(),
+                Center(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      widget.studyItem.eWord.text.bold.size(40).make(),
+                      height20,
+                      studyItemProvider.visible
+                          ? widget.studyItem.kWord.text.size(20).make()
+                          : ''.text.size(20).make(),
+                    ],
+                  ),
+                ),
+                Positioned(
+                  right: 0,
+                  top: 0,
+                  child: Row(
+                    children: [
+                      IconButton(
+                          onPressed: () {},
+                          icon: Icon(
+                            Icons.bookmark_add,
+                            size: 40,
+                          )),
+                    ],
+                  ).p(8),
+                ),
               ],
             ),
           ),
