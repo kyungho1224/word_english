@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:nav/nav.dart';
 import 'package:provider/provider.dart';
 import 'package:timeago/timeago.dart' as timeago;
 import 'package:velocity_x/velocity_x.dart';
@@ -7,8 +6,6 @@ import 'package:word_english/common/constant/app_colors.dart';
 import 'package:word_english/common/widget/widget_constant.dart';
 import 'package:word_english/provider/chapter_list_provider.dart';
 import 'package:word_english/screen/widget/w_linear_progress.dart';
-
-import '../s_part.dart';
 
 class ChapterItemWidget extends StatefulWidget {
   final int chapterIndex;
@@ -83,14 +80,10 @@ class _ChapterItemWidgetState extends State<ChapterItemWidget> {
                 );
               },
               onTap: () {
-                Nav.push(
-                  PartScreen(
-                    // chapterItem: widget.chapterItem,
-                    chapterIndex: widget.chapterIndex,
-                    chapterId: widget.chapterId,
-                  ),
-                  navAni: NavAni.Right,
-                );
+                Navigator.pushNamed(context, '/part', arguments: {
+                  'chapterIndex': widget.chapterIndex,
+                  'chapterId': widget.chapterId,
+                });
               },
               child: Card(
                 elevation: 3,

@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:provider/provider.dart';
 import 'package:word_english/database/database_helper.dart';
 import 'package:word_english/provider/chapter_list_provider.dart';
@@ -13,6 +14,7 @@ import 'model/chapter_item_model.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  MobileAds.instance.initialize();
   await Firebase.initializeApp();
   final dbHelper = DatabaseHelper.instance;
   bool validationTable = await dbHelper.validTables();

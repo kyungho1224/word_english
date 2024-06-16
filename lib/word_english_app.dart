@@ -3,8 +3,11 @@ import 'package:nav/nav.dart';
 import 'package:provider/provider.dart';
 import 'package:word_english/common/theme/custom_theme.dart';
 import 'package:word_english/provider/user_provider.dart';
-import 'package:word_english/screen/s_home.dart';
+import 'package:word_english/screen/s_bookmark.dart';
 import 'package:word_english/screen/s_login.dart';
+import 'package:word_english/screen/s_main.dart';
+import 'package:word_english/screen/s_part.dart';
+import 'package:word_english/screen/s_study.dart';
 
 class WordEnglishApp extends StatefulWidget {
   static GlobalKey<NavigatorState> navigatorKey = GlobalKey();
@@ -27,8 +30,34 @@ class _WordEnglishAppState extends State<WordEnglishApp> with Nav {
       themeMode: ThemeMode.system,
       theme: lightTheme,
       darkTheme: darkTheme,
-      // home: const HomeScreen(),
-      home: const AuthCheck(),
+      // home: const AuthCheck(),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => const AuthCheck(),
+        '/bookmark': (context) => const BookmarkScreen(),
+      },
+      onGenerateRoute: (settings) {
+        if (settings.name == '/part') {
+          final args = settings.arguments as Map<String, int>;
+          return MaterialPageRoute(
+            builder: (context) => PartScreen(
+              chapterIndex: args['chapterIndex']!,
+              chapterId: args['chapterId']!,
+            ),
+          );
+        } else if (settings.name == '/study') {
+          final args = settings.arguments as Map<String, int>;
+          return MaterialPageRoute(
+            builder: (context) => StudyScreen(
+              chapterIndex: args['chapterIndex']!,
+              chapterId: args['chapterId']!,
+              partIndex: args['partIndex']!,
+              partId: args['partId']!,
+            ),
+          );
+        }
+        return null;
+      },
     );
   }
 }
@@ -56,6 +85,6 @@ class AuthCheck extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final userProvider = Provider.of<UserProvider>(context);
-    return userProvider.user == null ? const LoginScreen() : const HomeScreen();
+    return userProvider.user == null ? const LoginScreen() : const MainScreen();
   }
 }

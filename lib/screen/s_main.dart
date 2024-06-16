@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:word_english/common/widget/w_appbar.dart';
+import 'package:velocity_x/velocity_x.dart';
+import 'package:word_english/screen/widget/w_banner_ads.dart';
 
 import 's_home.dart';
 
@@ -21,28 +22,43 @@ class _MainScreenState extends State<MainScreen> {
 
   @override
   Widget build(BuildContext context) {
+    MediaQueryData mediaQueryData = MediaQuery.of(context);
+    double width = mediaQueryData.size.width;
+    double height = 50;
     return Scaffold(
-      appBar: const CustomAppBar(
-        showBackButton: false,
+      appBar: AppBar(
+        elevation: 2,
+        backgroundColor: Colors.white,
+        shadowColor: Colors.black,
+        title: '초등 영어'.text.make(),
+        actions: [
+          IconButton(
+            onPressed: () {
+              Navigator.pushNamed(context, '/bookmark');
+            },
+            icon: const Icon(Icons.bookmark_added_rounded),
+          ),
+        ],
       ),
       body: Stack(
         children: [
-          // Navigator(
-          //   key: ,
+          const HomeScreen().pOnly(bottom: 20),
+          // Positioned(
+          //   left: 0,
+          //   right: 0,
+          //   bottom: 0,
+          //   child: Container(
+          //     color: Colors.grey[300],
+          //     height: 80, // 광고 배너 높이 설정
+          //     child: Center(
+          //       child: BannerAdWidget(
+          //         width: width,
+          //         height: 80,
+          //         adUnitId: 'ca-app-pub-9806382800193660~9431900098',
+          //       ),
+          //     ),
+          //   ),
           // ),
-          const HomeScreen(),
-          Positioned(
-            left: 0,
-            right: 0,
-            bottom: 0,
-            child: Container(
-              color: Colors.grey[300],
-              height: 60, // 광고 배너 높이 설정
-              child: const Center(
-                child: Text("광고 배너"),
-              ),
-            ),
-          ),
         ],
       ),
     );
