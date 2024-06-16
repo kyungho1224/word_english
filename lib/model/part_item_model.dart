@@ -9,6 +9,13 @@ class PartItem {
     required this.studyItemList,
   });
 
+  Map<String, dynamic> toMap() {
+    return {
+      'part_id': partId,
+      'study_items': studyItemList.map((item) => item.toMap()).toList(),
+    };
+  }
+
   factory PartItem.fromJson(Map<String, dynamic> json) {
     var tmpList = json['data'] as List;
     var studyDataList =
