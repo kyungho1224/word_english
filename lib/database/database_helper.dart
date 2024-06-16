@@ -247,6 +247,31 @@ class DatabaseHelper {
     );
   }
 
+  Future<void> updateLastModifiedDateAndResetViewer(int chapterId) async {
+    Database db = await instance.database;
+    var batch = db.batch();
+
+    batch.update(
+      tableChapter,
+      {columnChapterLastModifiedDate: null},
+      where: 'chapter_id = ?',
+      whereArgs: [chapterId],
+    );
+
+    List<PartItem> parts = await getPartsByChapterId(chapterId);
+
+    for (PartItem part in parts) {
+      batch.update(
+        tableStudyItem,
+        {columnViewer: 0},
+        where: 'chapter_id = ? AND part_id = ?',
+        whereArgs: [chapterId, part.partId],
+      );
+    }
+
+    await batch.commit();
+  }
+
   /* validation method */
   /* 현재 테이블 목록 조회 */
   Future<List<String>> getTableList() async {

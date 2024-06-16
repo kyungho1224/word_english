@@ -15,16 +15,16 @@ class StudySettingProvider with ChangeNotifier {
     notifyListeners();
   }
 
-  Future<void> getBookmarkState(int id) async {
-    final dbHelper = DatabaseHelper.instance;
-    final result = await dbHelper.getStudyItemsId(id);
-    _bookmarked = result.bookmark;
-    notifyListeners();
-  }
-
-  Future<void> updateBookmark(int id) async {
-    final dbHelper = DatabaseHelper.instance;
-    await dbHelper.updateBookmark(id);
-    await getBookmarkState(id);
-  }
+  // Future<void> getBookmarkState(int id) async {
+  //   final dbHelper = DatabaseHelper.instance;
+  //   final result = await dbHelper.getStudyItemsId(id);
+  //   _bookmarked = result.bookmark;
+  //   notifyListeners();
+  // }
+  //
+  // Future<void> updateBookmark(int id) async {
+  //   final dbHelper = DatabaseHelper.instance;
+  //   await dbHelper.updateBookmark(id);
+  //   await getBookmarkState(id);
+  // }
 }

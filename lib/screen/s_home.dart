@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:velocity_x/velocity_x.dart';
 import 'package:word_english/provider/chapter_list_provider.dart';
+import 'package:word_english/screen/s_bookmark.dart';
 import 'package:word_english/screen/widget/w_chapter_item.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -25,8 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
-    Provider.of<ChapterListProvider>(context, listen: false)
-        .getBookmarkWordListWithRefresh();
+    Provider.of<ChapterListProvider>(context, listen: false).fetchChapters();
   }
 
   @override
@@ -40,7 +40,18 @@ class _HomeScreenState extends State<HomeScreen> {
         title: '초등 영어'.text.make(),
         actions: [
           IconButton(
-              onPressed: () {}, icon: const Icon(Icons.bookmark_added_rounded)),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    fullscreenDialog: true,
+                    builder: (context) {
+                      return BookmarkScreen();
+                    },
+                  ),
+                );
+              },
+              icon: const Icon(Icons.bookmark_added_rounded)),
         ],
       ),
       body: Consumer<ChapterListProvider>(
