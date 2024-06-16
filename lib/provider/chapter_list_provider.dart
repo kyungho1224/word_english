@@ -13,8 +13,10 @@ class ChapterListProvider with ChangeNotifier {
   }
 
   List<ChapterItem> _chapterList = [];
+  bool _bookmarked = false;
 
   List<ChapterItem> get chapterList => _chapterList;
+  bool get bookmarked => _bookmarked;
 
   void setChapterList(List<ChapterItem> chapters) {
     _chapterList = chapters;
@@ -78,6 +80,20 @@ class ChapterListProvider with ChangeNotifier {
     return bookmarkChapters;
   }
 
+  Future<void> getBookmarkState(int id) async {
+    final dbHelper = DatabaseHelper.instance;
+    final result = await dbHelper.getStudyItemsId(id);
+    _bookmarked = result.bookmark;
+    notifyListeners();
+  }
+
+  Future<void> updateBookmark(int id) async {
+    final dbHelper = DatabaseHelper.instance;
+    await dbHelper.updateBookmark(id);
+    await getBookmarkState(id);
+    fetchChapters();
+  }
+
   Future<void> refreshChapters() async {
     final dbHelper = DatabaseHelper.instance;
     final list = await dbHelper.getAllChapters();
@@ -88,4 +104,12 @@ class ChapterListProvider with ChangeNotifier {
     await refreshChapters();
     return getBookmarkWordList();
   }
+
+  Future<void> deleteProgressByChapterId(int chapterId) async {
+    final dbHelper = DatabaseHelper.instance;
+    await dbHelper.updateLastModifiedDateAndResetViewer(chapterId);
+    await fetchChapters();
+    notifyListeners();
+  }
+
 }

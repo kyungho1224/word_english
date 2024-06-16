@@ -37,6 +37,51 @@ class _ChapterItemWidgetState extends State<ChapterItemWidget> {
         return Column(
           children: [
             GestureDetector(
+              onLongPress: () {
+                showModalBottomSheet(
+                  context: context,
+                  builder: (context) {
+                    return Container(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Column(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          const Text(
+                            '정말로 학습 데이터를 삭제하시겠습니까?',
+                            style: TextStyle(fontSize: 18.0),
+                          ),
+                          const SizedBox(height: 20.0),
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceAround,
+                            children: [
+                              ElevatedButton(
+                                onPressed: () {
+                                  Navigator.pop(context); // 닫기
+                                },
+                                child: const Text('취소'),
+                              ),
+                              ElevatedButton(
+                                onPressed: () async {
+                                  // TODO: 데이터 삭제 로직 추가
+                                  await chapterListProvider
+                                      .deleteProgressByChapterId(
+                                          widget.chapterId);
+                                  Navigator.pop(context); // 닫기
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                    const SnackBar(
+                                        content: Text('학습 데이터가 삭제되었습니다')),
+                                  );
+                                },
+                                child: const Text('삭제'),
+                              ),
+                            ],
+                          ),
+                        ],
+                      ),
+                    );
+                  },
+                );
+              },
               onTap: () {
                 Nav.push(
                   PartScreen(
