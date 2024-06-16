@@ -1,11 +1,18 @@
 import 'package:flutter/material.dart';
 
 class CustomLinearProgress extends StatelessWidget {
+  // final int currentValue;
+  // final int maxValue;
   final double progress;
-  const CustomLinearProgress({super.key, required this.progress});
+
+  CustomLinearProgress({
+    super.key,
+    required this.progress,
+  });
 
   @override
   Widget build(BuildContext context) {
+    // double progress = currentValue / maxValue;
     return Expanded(
       child: Container(
         height: 10, // 진행 표시기의 높이 설정
