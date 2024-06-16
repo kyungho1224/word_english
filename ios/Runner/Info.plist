@@ -57,6 +57,9 @@
             <string>com.googleusercontent.apps.957334055843-stsri9tj0jiracfbep30579p0h1rr6bk</string>
         </array>
 	    </dict>
-	</array>
+	    </array>
+
+        <key>GADApplicationIdentifier</key>
+        <string>ca-app-pub-9806382800193660~7656123303</string>
 	</dict>
 </plist>

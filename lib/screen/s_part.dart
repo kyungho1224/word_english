@@ -37,42 +37,67 @@ class _PartScreenState extends State<PartScreen> {
         backgroundColor: Colors.white,
         shadowColor: Colors.black,
         title: '초등 영어'.text.make(),
+        actions: [
+          IconButton(
+            onPressed: () {
+              Navigator.pushNamed(context, '/bookmark');
+            },
+            icon: const Icon(Icons.bookmark_added_rounded),
+          ),
+        ],
       ),
-      body: Consumer<ChapterListProvider>(
-        builder: (context, chapterListProvider, child) {
-          return Column(
-            children: [
-              Row(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      body: Stack(
+        children: [
+          Consumer<ChapterListProvider>(
+            builder: (context, chapterListProvider, child) {
+              return Column(
                 children: [
-                  'Chapter ${widget.chapterId}'.text.bold.size(24).make(),
-                ],
-              ).pOnly(left: 16, right: 16, top: 16),
-              Expanded(
-                child: GridView.builder(
-                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 2,
-                    crossAxisSpacing: 15,
-                    mainAxisSpacing: 15,
+                  Row(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    children: [
+                      'Chapter ${widget.chapterId}'.text.bold.size(24).make(),
+                    ],
+                  ).pOnly(left: 16, right: 16, top: 16),
+                  Expanded(
+                    child: GridView.builder(
+                      gridDelegate:
+                          const SliverGridDelegateWithFixedCrossAxisCount(
+                        crossAxisCount: 2,
+                        crossAxisSpacing: 15,
+                        mainAxisSpacing: 15,
+                      ),
+                      itemCount: chapterListProvider
+                          .chapterList[widget.chapterIndex].partItemList.length,
+                      itemBuilder: (context, index) {
+                        List<PartItem> currentList = chapterListProvider
+                            .chapterList[widget.chapterIndex].partItemList;
+                        return PartItemWidget(
+                          chapterIndex: widget.chapterIndex,
+                          chapterId: widget.chapterId,
+                          partIndex: index,
+                          partId: currentList[index].partId,
+                        );
+                      },
+                    ).pOnly(top: 20, bottom: 20, left: 20, right: 20),
                   ),
-                  itemCount: chapterListProvider
-                      .chapterList[widget.chapterIndex].partItemList.length,
-                  itemBuilder: (context, index) {
-                    List<PartItem> currentList = chapterListProvider
-                        .chapterList[widget.chapterIndex].partItemList;
-                    return PartItemWidget(
-                      chapterIndex: widget.chapterIndex,
-                      chapterId: widget.chapterId,
-                      partIndex: index,
-                      partId: currentList[index].partId,
-                    );
-                  },
-                ).pOnly(top: 20, bottom: 65, left: 20, right: 20),
-              ),
-            ],
-          );
-        },
+                ],
+              );
+            },
+          ),
+          // Positioned(
+          //   left: 0,
+          //   right: 0,
+          //   bottom: 0,
+          //   child: Container(
+          //     color: Colors.grey[300],
+          //     height: 80, // 광고 배너 높이 설정
+          //     child: const Center(
+          //       child: Text("광고 배너"),
+          //     ),
+          //   ),
+          // ),
+        ],
       ),
     );
   }
